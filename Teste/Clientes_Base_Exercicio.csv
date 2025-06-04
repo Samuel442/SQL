@@ -1,0 +1,6 @@
+ClienteID,Nome,Idade,Cidade,Ativo
+1,Alice,25,São Paulo,1
+2,Bruno,32,Rio de Janeiro,1
+3,Carla,29,Belo Horizonte,0
+4,Daniel,41,Curitiba,1
+5,Eva,37,Porto Alegre,0

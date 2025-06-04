@@ -1,0 +1,1001 @@
+ClienteID,Nome,Idade,Cidade,Agencia,Conta,TipoTransacao,Valor,Status,Data
+1,Gustavo 42,71,Curitiba,404,88568,TED,4686.66,Pendente,2024-03-12
+2,Ana 38,31,Belo Horizonte,202,33186,Cartão,2415.79,Cancelada,2024-04-06
+3,Eduardo 7,31,Curitiba,303,47705,TED,632.16,Cancelada,2024-03-03
+4,Ana 26,67,Porto Alegre,505,19256,Boleto,1073.3,Pendente,2024-05-01
+5,Eduardo 88,30,Rio de Janeiro,404,24840,TED,2949.48,Cancelada,2024-04-30
+6,Ana 26,43,Curitiba,202,69207,Cartão,3850.9,Pendente,2024-04-25
+7,Bruno 32,75,Rio de Janeiro,303,81851,TED,2482.15,Pendente,2024-01-11
+8,Fernanda 99,45,Belo Horizonte,505,12806,Boleto,933.73,Pendente,2024-03-17
+9,Fernanda 39,28,Curitiba,505,77290,Cartão,1134.39,Cancelada,2024-05-19
+10,Eduardo 66,18,São Paulo,202,74519,Pix,2437.28,Efetivada,2024-03-02
+11,Fernanda 5,28,Curitiba,202,84098,DOC,948.91,Efetivada,2024-01-30
+12,Eduardo 94,51,Porto Alegre,101,65314,TED,2970.32,Cancelada,2024-01-16
+13,Eduardo 21,29,Curitiba,404,22834,Cartão,2476.18,Efetivada,2024-03-02
+14,Bruno 72,43,Curitiba,404,22490,DOC,4443.41,Cancelada,2024-02-21
+15,Carlos 39,34,Curitiba,505,43929,TED,4437.17,Efetivada,2024-02-28
+16,Helena 96,38,São Paulo,101,33652,Boleto,2584.63,Efetivada,2024-01-29
+17,Ana 96,63,São Paulo,303,45678,TED,3248.2,Efetivada,2024-05-01
+18,Eduardo 34,18,Curitiba,202,46887,DOC,1915.97,Efetivada,2024-04-27
+19,Daniela 56,36,Curitiba,101,48341,TED,2182.78,Pendente,2024-02-09
+20,Ana 9,64,Curitiba,404,47383,TED,4648.87,Efetivada,2024-05-28
+21,Fernanda 91,75,São Paulo,505,58074,Pix,4509.25,Efetivada,2024-02-11
+22,Gustavo 93,26,Porto Alegre,202,23173,Pix,1605.73,Cancelada,2024-05-28
+23,Daniela 65,45,São Paulo,404,17494,Boleto,689.21,Cancelada,2024-03-05
+24,Ana 3,38,Belo Horizonte,404,57679,Cartão,3647.94,Cancelada,2024-05-01
+25,Daniela 56,60,São Paulo,505,80418,Cartão,705.87,Cancelada,2024-02-06
+26,Ana 14,35,Curitiba,404,49016,Cartão,210.8,Efetivada,2024-01-09
+27,Daniela 3,70,Porto Alegre,303,80122,Cartão,810.69,Efetivada,2024-03-16
+28,Ana 59,52,Belo Horizonte,101,75342,TED,1692.98,Pendente,2024-01-18
+29,Daniela 14,65,Belo Horizonte,303,94862,Cartão,923.22,Pendente,2024-02-04
+30,Carlos 75,34,Porto Alegre,505,44249,TED,4162.74,Efetivada,2024-01-13
+31,Carlos 23,57,Curitiba,202,73462,Pix,954.59,Efetivada,2024-05-18
+32,Fernanda 49,52,Rio de Janeiro,101,85057,Pix,3116.63,Cancelada,2024-04-12
+33,Gustavo 27,66,Curitiba,505,58656,Pix,1540.37,Pendente,2024-05-17
+34,Eduardo 92,37,Belo Horizonte,202,10721,DOC,758.69,Pendente,2024-04-12
+35,Gustavo 10,35,Porto Alegre,303,48200,Cartão,1218.15,Pendente,2024-03-30
+36,Helena 64,61,Rio de Janeiro,202,17034,TED,3761.16,Cancelada,2024-03-30
+37,Carlos 75,25,Porto Alegre,404,39123,TED,3730.22,Pendente,2024-05-01
+38,Helena 93,43,São Paulo,202,24477,DOC,2276.55,Efetivada,2024-04-17
+39,Daniela 46,52,Porto Alegre,202,83700,Pix,2228.25,Cancelada,2024-05-01
+40,Daniela 37,43,São Paulo,202,19776,DOC,3824.94,Pendente,2024-04-05
+41,Carlos 72,34,Rio de Janeiro,202,91825,Pix,501.0,Cancelada,2024-02-21
+42,Fernanda 68,49,Porto Alegre,505,90948,Boleto,89.59,Cancelada,2024-05-18
+43,Eduardo 46,72,São Paulo,404,81207,Cartão,3230.0,Efetivada,2024-05-02
+44,Eduardo 58,60,Belo Horizonte,101,70614,Pix,1614.35,Pendente,2024-01-10
+45,Helena 46,53,Curitiba,202,71435,Pix,2722.37,Efetivada,2024-03-13
+46,Fernanda 13,27,Curitiba,202,24850,Pix,1695.23,Pendente,2024-01-25
+47,Gustavo 76,39,Rio de Janeiro,505,18440,TED,4834.45,Pendente,2024-02-13
+48,Gustavo 39,26,Porto Alegre,101,34111,Cartão,1761.32,Pendente,2024-03-02
+49,Helena 75,24,Belo Horizonte,505,16993,Boleto,1866.63,Efetivada,2024-04-24
+50,Helena 61,51,Curitiba,404,50832,Pix,1182.73,Efetivada,2024-05-26
+51,Ana 98,20,Curitiba,202,11228,Cartão,2984.36,Efetivada,2024-04-17
+52,Eduardo 89,44,Porto Alegre,101,42387,Boleto,531.47,Pendente,2024-03-13
+53,Fernanda 85,43,Curitiba,101,65480,Pix,3493.13,Efetivada,2024-03-09
+54,Carlos 20,56,Porto Alegre,404,97500,Pix,1800.65,Pendente,2024-03-03
+55,Eduardo 26,42,Rio de Janeiro,303,75549,Cartão,3614.29,Cancelada,2024-02-16
+56,Helena 33,43,Belo Horizonte,404,41876,TED,3566.2,Efetivada,2024-05-23
+57,Helena 62,41,Curitiba,303,11392,DOC,3227.15,Efetivada,2024-01-18
+58,Ana 93,70,Rio de Janeiro,505,81539,Boleto,461.72,Efetivada,2024-01-23
+59,Eduardo 86,74,Porto Alegre,202,62249,TED,4914.49,Cancelada,2024-03-05
+60,Ana 16,49,Rio de Janeiro,101,86484,Pix,2924.22,Cancelada,2024-05-30
+61,Eduardo 41,69,Belo Horizonte,303,39770,Cartão,233.65,Cancelada,2024-02-04
+62,Ana 31,27,Porto Alegre,303,60101,Boleto,1066.77,Efetivada,2024-05-03
+63,Helena 44,38,Curitiba,505,97641,Boleto,758.38,Pendente,2024-02-06
+64,Ana 42,69,Rio de Janeiro,303,46822,Cartão,3086.24,Pendente,2024-03-27
+65,Gustavo 43,61,Porto Alegre,101,29309,Cartão,1039.78,Cancelada,2024-01-08
+66,Ana 17,53,Curitiba,505,94029,DOC,1892.79,Pendente,2024-01-19
+67,Carlos 35,20,Porto Alegre,202,30434,DOC,610.08,Pendente,2024-03-26
+68,Fernanda 58,22,Belo Horizonte,303,97551,DOC,4148.59,Cancelada,2024-05-06
+69,Helena 28,48,Belo Horizonte,202,56092,Boleto,4165.65,Pendente,2024-04-18
+70,Ana 75,19,Belo Horizonte,505,52642,TED,4540.49,Cancelada,2024-03-15
+71,Ana 79,75,Curitiba,101,62166,DOC,4162.76,Cancelada,2024-03-22
+72,Helena 57,21,Belo Horizonte,202,18134,Boleto,2242.77,Efetivada,2024-05-10
+73,Eduardo 65,53,Belo Horizonte,101,68781,TED,2647.77,Cancelada,2024-01-12
+74,Eduardo 93,49,Curitiba,101,84459,DOC,2782.92,Efetivada,2024-03-08
+75,Daniela 76,54,Curitiba,404,86655,Pix,2495.72,Cancelada,2024-01-22
+76,Helena 99,62,Belo Horizonte,404,48937,Boleto,1042.76,Pendente,2024-04-11
+77,Helena 43,74,Porto Alegre,404,56003,Cartão,1323.3,Cancelada,2024-02-16
+78,Bruno 72,61,Porto Alegre,505,87324,TED,2477.68,Pendente,2024-05-12
+79,Eduardo 20,46,São Paulo,303,93476,TED,3525.18,Efetivada,2024-01-06
+80,Carlos 51,63,Rio de Janeiro,404,69545,Boleto,4730.12,Pendente,2024-04-09
+81,Carlos 20,38,Belo Horizonte,101,75187,Pix,2157.85,Cancelada,2024-04-23
+82,Ana 77,38,Rio de Janeiro,505,41009,TED,4664.45,Pendente,2024-03-30
+83,Helena 50,32,Curitiba,505,61349,TED,3286.11,Efetivada,2024-05-17
+84,Helena 9,60,São Paulo,101,77272,Cartão,3194.17,Cancelada,2024-02-20
+85,Ana 93,22,Belo Horizonte,404,49646,DOC,4898.87,Pendente,2024-05-21
+86,Fernanda 49,71,Curitiba,404,16862,Cartão,208.74,Pendente,2024-02-07
+87,Ana 47,58,São Paulo,101,61670,DOC,4523.6,Pendente,2024-02-12
+88,Gustavo 75,30,Belo Horizonte,101,87873,Boleto,1373.57,Pendente,2024-02-09
+89,Gustavo 71,74,Porto Alegre,505,49446,TED,4539.34,Cancelada,2024-03-14
+90,Bruno 15,41,Curitiba,505,62488,Pix,2356.0,Efetivada,2024-04-23
+91,Eduardo 79,46,Curitiba,202,94265,Pix,280.79,Pendente,2024-05-09
+92,Eduardo 30,33,Belo Horizonte,505,81163,TED,2143.44,Efetivada,2024-05-02
+93,Carlos 27,62,Belo Horizonte,505,62446,Cartão,3176.36,Efetivada,2024-03-12
+94,Fernanda 88,65,São Paulo,505,71231,DOC,2339.09,Cancelada,2024-01-08
+95,Gustavo 88,25,Porto Alegre,404,19168,TED,4912.9,Pendente,2024-05-14
+96,Eduardo 95,37,Curitiba,303,89317,Pix,272.81,Cancelada,2024-02-27
+97,Carlos 69,27,Curitiba,505,43281,Pix,2999.41,Efetivada,2024-05-04
+98,Eduardo 81,53,Porto Alegre,303,28166,Boleto,3840.28,Cancelada,2024-03-18
+99,Daniela 79,35,Porto Alegre,404,37257,Boleto,486.45,Pendente,2024-01-19
+100,Helena 76,75,Porto Alegre,404,86126,TED,2921.75,Cancelada,2024-05-23
+101,Ana 35,22,Porto Alegre,202,49412,Boleto,3834.16,Pendente,2024-04-07
+102,Gustavo 38,64,Curitiba,101,53921,Boleto,195.49,Cancelada,2024-04-28
+103,Eduardo 60,62,Belo Horizonte,505,69138,DOC,4261.5,Pendente,2024-03-09
+104,Fernanda 62,68,Rio de Janeiro,404,64856,Cartão,1225.42,Cancelada,2024-03-10
+105,Fernanda 84,73,Curitiba,505,71355,DOC,2727.45,Pendente,2024-02-22
+106,Daniela 80,30,Rio de Janeiro,303,97419,Boleto,3296.39,Efetivada,2024-04-29
+107,Eduardo 99,63,Rio de Janeiro,404,44140,Boleto,2572.49,Cancelada,2024-03-20
+108,Bruno 25,35,São Paulo,101,66199,TED,856.34,Efetivada,2024-05-11
+109,Eduardo 97,50,Porto Alegre,404,17281,Cartão,4716.35,Pendente,2024-01-13
+110,Carlos 68,42,Rio de Janeiro,404,71700,DOC,2966.18,Cancelada,2024-01-16
+111,Carlos 42,66,Porto Alegre,505,13153,TED,4513.03,Pendente,2024-01-17
+112,Carlos 56,63,São Paulo,404,18151,Pix,752.77,Pendente,2024-01-25
+113,Helena 77,37,Curitiba,404,10312,Cartão,1539.06,Efetivada,2024-01-21
+114,Bruno 29,20,São Paulo,404,32433,DOC,4612.37,Cancelada,2024-03-25
+115,Helena 24,60,Belo Horizonte,303,71977,Pix,4502.98,Cancelada,2024-05-06
+116,Gustavo 65,33,São Paulo,303,38875,Cartão,635.96,Pendente,2024-05-19
+117,Fernanda 14,47,São Paulo,404,10374,Cartão,4767.17,Pendente,2024-04-02
+118,Eduardo 96,62,Porto Alegre,303,35093,DOC,2188.82,Pendente,2024-02-19
+119,Bruno 43,51,Belo Horizonte,202,60982,DOC,2885.83,Pendente,2024-04-10
+120,Gustavo 55,27,São Paulo,505,30119,DOC,4591.39,Cancelada,2024-05-13
+121,Carlos 36,74,Rio de Janeiro,505,36529,TED,2304.42,Efetivada,2024-01-30
+122,Bruno 29,63,Rio de Janeiro,404,24633,TED,717.53,Pendente,2024-03-07
+123,Carlos 80,19,Porto Alegre,303,77241,Boleto,1048.57,Pendente,2024-05-16
+124,Bruno 36,71,Rio de Janeiro,505,42920,Boleto,2787.1,Cancelada,2024-03-30
+125,Carlos 7,68,Curitiba,505,13430,DOC,4634.28,Cancelada,2024-03-25
+126,Fernanda 65,36,Belo Horizonte,404,27260,TED,2951.51,Pendente,2024-04-24
+127,Daniela 47,23,Porto Alegre,101,34066,Pix,2305.98,Pendente,2024-05-30
+128,Ana 88,54,Porto Alegre,303,95511,Pix,4389.27,Efetivada,2024-01-17
+129,Ana 37,57,Rio de Janeiro,101,37390,Cartão,4545.61,Pendente,2024-04-28
+130,Ana 73,47,Curitiba,303,75082,Cartão,4857.96,Cancelada,2024-05-18
+131,Bruno 20,57,São Paulo,303,51265,Cartão,3587.04,Efetivada,2024-03-16
+132,Gustavo 68,53,Belo Horizonte,202,23470,Cartão,72.65,Pendente,2024-03-27
+133,Helena 4,24,Rio de Janeiro,303,94064,Boleto,1793.26,Pendente,2024-03-18
+134,Bruno 84,65,Curitiba,505,38820,Cartão,3066.86,Efetivada,2024-03-24
+135,Fernanda 95,42,Curitiba,404,13725,Boleto,4541.52,Cancelada,2024-01-23
+136,Eduardo 77,44,Porto Alegre,101,57908,Boleto,4898.77,Pendente,2024-01-10
+137,Ana 77,70,Curitiba,505,17480,Pix,3878.92,Pendente,2024-03-20
+138,Eduardo 57,62,Curitiba,505,28697,DOC,2453.6,Pendente,2024-01-12
+139,Daniela 50,74,Rio de Janeiro,404,51098,Cartão,3473.83,Cancelada,2024-05-29
+140,Bruno 16,66,Curitiba,404,98229,Boleto,824.84,Pendente,2024-02-10
+141,Bruno 38,25,Belo Horizonte,101,60135,TED,417.87,Cancelada,2024-04-11
+142,Eduardo 41,22,Curitiba,303,65534,Boleto,3842.15,Cancelada,2024-05-11
+143,Daniela 40,24,São Paulo,101,85521,Pix,709.05,Pendente,2024-02-05
+144,Ana 17,47,Rio de Janeiro,303,99127,DOC,1002.39,Efetivada,2024-03-01
+145,Gustavo 17,47,São Paulo,404,49402,TED,3349.55,Pendente,2024-04-05
+146,Eduardo 85,66,Curitiba,202,88172,TED,1835.69,Cancelada,2024-03-24
+147,Fernanda 8,41,Porto Alegre,505,81575,DOC,2058.54,Cancelada,2024-02-20
+148,Eduardo 50,61,Belo Horizonte,202,95648,DOC,2025.56,Cancelada,2024-02-16
+149,Ana 1,46,Curitiba,202,10181,Cartão,1360.19,Pendente,2024-04-02
+150,Daniela 64,46,Belo Horizonte,404,29719,Pix,1144.94,Efetivada,2024-04-29
+151,Eduardo 59,42,Belo Horizonte,202,41743,DOC,1256.57,Pendente,2024-01-09
+152,Helena 46,29,Curitiba,101,85743,Pix,3700.16,Pendente,2024-02-09
+153,Ana 52,46,Curitiba,404,88103,Pix,4700.47,Efetivada,2024-04-20
+154,Fernanda 42,75,Rio de Janeiro,202,19206,Cartão,429.72,Pendente,2024-05-14
+155,Daniela 30,21,Curitiba,303,25873,DOC,1135.92,Pendente,2024-04-08
+156,Bruno 28,72,Rio de Janeiro,101,16853,Cartão,1943.86,Pendente,2024-01-18
+157,Gustavo 90,60,Porto Alegre,202,26234,Boleto,2057.69,Cancelada,2024-02-15
+158,Gustavo 52,51,Rio de Janeiro,505,71429,Cartão,3278.95,Pendente,2024-05-30
+159,Carlos 96,41,São Paulo,101,65538,DOC,3763.12,Pendente,2024-01-04
+160,Carlos 63,70,São Paulo,202,23721,Cartão,826.22,Pendente,2024-01-23
+161,Carlos 11,19,Curitiba,202,45599,Cartão,3928.45,Pendente,2024-01-09
+162,Carlos 46,20,Rio de Janeiro,404,78149,DOC,3673.56,Pendente,2024-03-24
+163,Eduardo 74,65,São Paulo,303,66329,TED,425.88,Efetivada,2024-03-09
+164,Ana 91,67,Rio de Janeiro,101,59058,Pix,4318.99,Cancelada,2024-01-20
+165,Daniela 81,25,Belo Horizonte,303,41713,Boleto,4255.33,Cancelada,2024-01-07
+166,Bruno 74,18,Rio de Janeiro,303,73940,Boleto,1363.45,Pendente,2024-01-21
+167,Eduardo 17,22,Belo Horizonte,505,76608,Pix,3632.73,Pendente,2024-03-13
+168,Bruno 71,32,São Paulo,202,61759,TED,1419.27,Efetivada,2024-02-21
+169,Gustavo 83,30,Belo Horizonte,202,28276,Boleto,416.25,Cancelada,2024-02-16
+170,Fernanda 51,32,Curitiba,505,63192,DOC,1145.79,Pendente,2024-01-23
+171,Daniela 30,30,Curitiba,101,71499,TED,4397.11,Pendente,2024-01-04
+172,Helena 79,71,Porto Alegre,101,14608,Cartão,738.22,Pendente,2024-04-25
+173,Helena 8,37,Belo Horizonte,101,43702,DOC,2853.2,Efetivada,2024-04-29
+174,Carlos 85,34,Belo Horizonte,404,32338,TED,960.21,Efetivada,2024-03-08
+175,Ana 84,57,São Paulo,303,43523,Cartão,1416.51,Cancelada,2024-02-28
+176,Helena 10,75,Belo Horizonte,202,48396,TED,3420.42,Efetivada,2024-05-04
+177,Bruno 58,70,São Paulo,404,63892,Pix,2968.98,Cancelada,2024-05-12
+178,Carlos 8,60,São Paulo,303,97685,Pix,4581.34,Efetivada,2024-02-11
+179,Fernanda 13,59,Belo Horizonte,404,21088,Pix,3965.93,Cancelada,2024-02-21
+180,Ana 15,22,Belo Horizonte,101,78103,Pix,4676.49,Pendente,2024-02-21
+181,Daniela 80,55,Rio de Janeiro,404,10177,Cartão,2971.9,Efetivada,2024-04-21
+182,Fernanda 73,58,Curitiba,404,91719,DOC,913.04,Efetivada,2024-01-13
+183,Gustavo 49,53,Curitiba,202,74703,Pix,4334.11,Cancelada,2024-03-13
+184,Eduardo 54,46,Belo Horizonte,303,97466,DOC,3358.93,Efetivada,2024-02-23
+185,Ana 99,27,Porto Alegre,101,18975,Boleto,2859.26,Efetivada,2024-02-25
+186,Ana 25,51,Rio de Janeiro,101,54212,Pix,1231.57,Pendente,2024-05-24
+187,Daniela 43,21,Curitiba,404,24854,Boleto,4672.23,Pendente,2024-02-06
+188,Eduardo 94,58,Rio de Janeiro,505,59134,Pix,2330.43,Cancelada,2024-01-22
+189,Ana 22,22,Curitiba,404,62357,Boleto,3699.35,Cancelada,2024-04-28
+190,Bruno 9,48,Curitiba,505,64497,Boleto,4276.84,Cancelada,2024-01-02
+191,Carlos 59,53,São Paulo,202,60787,Pix,3603.94,Pendente,2024-05-23
+192,Ana 71,34,Belo Horizonte,505,20007,Boleto,2079.32,Cancelada,2024-04-22
+193,Fernanda 41,57,Curitiba,101,93321,DOC,4148.95,Cancelada,2024-03-23
+194,Helena 74,25,Belo Horizonte,303,91628,Pix,2062.09,Cancelada,2024-03-01
+195,Helena 41,75,São Paulo,303,37504,Boleto,3942.84,Cancelada,2024-01-14
+196,Fernanda 8,35,Rio de Janeiro,505,99135,Pix,2321.15,Efetivada,2024-02-03
+197,Eduardo 96,56,Porto Alegre,404,27011,TED,3676.91,Pendente,2024-01-29
+198,Bruno 62,23,Belo Horizonte,202,43103,DOC,939.06,Efetivada,2024-03-03
+199,Ana 90,69,São Paulo,505,92101,Boleto,4058.27,Cancelada,2024-01-17
+200,Ana 84,33,Curitiba,505,86124,Boleto,1613.95,Cancelada,2024-01-22
+201,Fernanda 66,52,São Paulo,505,36014,Boleto,4398.44,Pendente,2024-01-08
+202,Eduardo 20,24,São Paulo,202,78382,DOC,4697.51,Cancelada,2024-05-09
+203,Bruno 30,38,Porto Alegre,303,64558,TED,4406.36,Efetivada,2024-04-19
+204,Fernanda 71,72,Curitiba,303,20413,DOC,2733.25,Efetivada,2024-01-23
+205,Ana 32,26,Belo Horizonte,303,56344,DOC,338.78,Efetivada,2024-05-24
+206,Ana 33,23,Rio de Janeiro,404,95570,Pix,4053.39,Efetivada,2024-05-11
+207,Fernanda 69,26,Porto Alegre,303,97831,Boleto,4555.26,Efetivada,2024-02-29
+208,Daniela 43,26,Rio de Janeiro,101,68368,TED,1914.17,Efetivada,2024-03-02
+209,Gustavo 17,44,Porto Alegre,101,86134,Boleto,3931.94,Efetivada,2024-03-17
+210,Eduardo 23,19,São Paulo,404,53723,Pix,3779.86,Pendente,2024-02-13
+211,Helena 94,21,Curitiba,505,36204,DOC,3232.21,Cancelada,2024-04-04
+212,Bruno 4,49,Rio de Janeiro,101,82773,TED,525.05,Pendente,2024-04-04
+213,Eduardo 95,24,Rio de Janeiro,101,10778,TED,4866.54,Cancelada,2024-04-29
+214,Fernanda 75,36,Curitiba,303,86755,DOC,2003.62,Pendente,2024-05-08
+215,Eduardo 60,35,Rio de Janeiro,101,52119,DOC,326.94,Cancelada,2024-02-26
+216,Fernanda 59,47,São Paulo,202,31043,Pix,3964.43,Efetivada,2024-01-06
+217,Helena 28,46,São Paulo,202,71835,DOC,2178.59,Pendente,2024-05-26
+218,Bruno 38,22,Curitiba,202,95665,Pix,4096.01,Pendente,2024-04-28
+219,Helena 37,68,São Paulo,505,33078,Boleto,3100.43,Pendente,2024-01-31
+220,Carlos 89,52,Belo Horizonte,101,96870,DOC,3082.04,Pendente,2024-03-19
+221,Fernanda 4,19,Rio de Janeiro,505,22210,Cartão,4076.41,Efetivada,2024-02-15
+222,Gustavo 97,37,Curitiba,404,77527,Boleto,811.48,Pendente,2024-04-07
+223,Eduardo 94,38,Porto Alegre,303,51006,Cartão,1964.65,Pendente,2024-03-16
+224,Carlos 26,71,São Paulo,303,20352,DOC,3073.74,Pendente,2024-04-03
+225,Gustavo 8,72,Porto Alegre,101,13699,Boleto,3106.83,Pendente,2024-01-31
+226,Helena 81,33,Belo Horizonte,505,18961,TED,3729.52,Cancelada,2024-05-18
+227,Eduardo 93,20,Rio de Janeiro,505,16590,Pix,4234.07,Pendente,2024-01-23
+228,Carlos 56,51,Curitiba,303,93630,Cartão,83.06,Efetivada,2024-01-26
+229,Carlos 77,46,Porto Alegre,505,91499,Pix,4407.3,Pendente,2024-01-09
+230,Ana 80,56,Belo Horizonte,202,66352,Boleto,72.23,Cancelada,2024-02-05
+231,Ana 61,69,Rio de Janeiro,404,25236,Pix,4884.73,Pendente,2024-04-02
+232,Daniela 26,65,Porto Alegre,101,57315,Pix,2268.11,Pendente,2024-05-05
+233,Daniela 81,43,Belo Horizonte,202,62347,DOC,1313.47,Cancelada,2024-05-21
+234,Fernanda 36,53,Belo Horizonte,101,75558,Boleto,689.29,Pendente,2024-02-19
+235,Daniela 54,19,Rio de Janeiro,202,72833,Cartão,2209.55,Cancelada,2024-01-31
+236,Bruno 27,49,Porto Alegre,101,88067,Cartão,3007.83,Pendente,2024-02-26
+237,Fernanda 85,18,Curitiba,202,35601,Cartão,313.62,Pendente,2024-04-09
+238,Bruno 58,27,Porto Alegre,404,96920,Boleto,2419.99,Pendente,2024-05-28
+239,Eduardo 71,44,Porto Alegre,505,90672,TED,4170.78,Efetivada,2024-04-11
+240,Helena 82,57,São Paulo,505,37306,Pix,2515.1,Pendente,2024-05-23
+241,Bruno 77,68,Rio de Janeiro,303,71404,Boleto,3667.09,Efetivada,2024-01-03
+242,Bruno 37,33,Belo Horizonte,101,48203,TED,2408.87,Efetivada,2024-05-20
+243,Ana 99,72,Belo Horizonte,505,43364,TED,527.4,Pendente,2024-02-02
+244,Carlos 17,57,Belo Horizonte,404,37187,Cartão,3646.84,Efetivada,2024-04-23
+245,Eduardo 45,29,Rio de Janeiro,101,28737,DOC,4363.18,Efetivada,2024-03-06
+246,Carlos 55,53,São Paulo,404,63967,DOC,3089.89,Pendente,2024-03-30
+247,Eduardo 8,50,Rio de Janeiro,505,37194,Pix,4515.43,Pendente,2024-04-27
+248,Daniela 10,65,Porto Alegre,101,34745,DOC,1019.14,Cancelada,2024-01-24
+249,Daniela 62,50,São Paulo,303,32537,Pix,3946.26,Pendente,2024-03-11
+250,Carlos 47,25,Belo Horizonte,505,59224,Boleto,654.93,Efetivada,2024-01-07
+251,Bruno 38,35,Belo Horizonte,404,37692,Cartão,1873.54,Pendente,2024-01-31
+252,Daniela 73,32,Belo Horizonte,202,67745,TED,2292.19,Pendente,2024-05-08
+253,Carlos 61,20,Rio de Janeiro,101,68574,DOC,1984.92,Efetivada,2024-02-08
+254,Helena 43,27,Porto Alegre,505,69087,Cartão,1973.94,Efetivada,2024-01-24
+255,Gustavo 30,63,Belo Horizonte,505,85617,Pix,4497.85,Cancelada,2024-03-27
+256,Helena 69,39,Rio de Janeiro,101,56628,TED,4863.95,Cancelada,2024-04-25
+257,Eduardo 67,75,Porto Alegre,505,58792,Boleto,2696.46,Pendente,2024-01-29
+258,Eduardo 85,32,Belo Horizonte,202,29721,Boleto,2100.92,Efetivada,2024-04-07
+259,Helena 98,59,São Paulo,101,84848,Boleto,594.46,Efetivada,2024-01-28
+260,Carlos 26,39,Porto Alegre,404,78378,Pix,495.78,Efetivada,2024-05-22
+261,Gustavo 56,50,Rio de Janeiro,202,88905,Boleto,1756.65,Pendente,2024-01-01
+262,Fernanda 87,36,Rio de Janeiro,303,75587,Boleto,2143.69,Pendente,2024-02-07
+263,Fernanda 15,40,Curitiba,404,22751,Pix,4323.98,Efetivada,2024-03-24
+264,Fernanda 11,32,Rio de Janeiro,404,65349,TED,2839.03,Pendente,2024-03-12
+265,Gustavo 83,69,Curitiba,101,81826,DOC,4958.28,Cancelada,2024-03-05
+266,Daniela 78,71,Porto Alegre,404,59585,Cartão,4621.98,Cancelada,2024-05-07
+267,Helena 45,37,São Paulo,505,60592,Boleto,2761.86,Pendente,2024-03-19
+268,Ana 28,67,Curitiba,505,38241,Cartão,975.17,Pendente,2024-04-05
+269,Carlos 77,24,São Paulo,303,48404,DOC,4767.68,Cancelada,2024-03-13
+270,Fernanda 45,43,Belo Horizonte,303,56872,Boleto,4089.25,Cancelada,2024-03-18
+271,Helena 58,43,Porto Alegre,505,67547,Boleto,3997.7,Pendente,2024-04-17
+272,Daniela 96,47,Curitiba,202,41003,Pix,3280.04,Pendente,2024-04-21
+273,Fernanda 80,56,Rio de Janeiro,404,62184,Boleto,4116.73,Efetivada,2024-04-11
+274,Eduardo 10,53,Belo Horizonte,303,88919,Boleto,2112.64,Efetivada,2024-02-02
+275,Fernanda 59,33,Belo Horizonte,505,75846,TED,2502.51,Cancelada,2024-05-20
+276,Daniela 66,22,Rio de Janeiro,505,50776,Boleto,4677.03,Pendente,2024-04-17
+277,Carlos 11,40,Curitiba,202,91650,TED,4573.03,Efetivada,2024-02-26
+278,Daniela 5,18,Rio de Janeiro,202,97796,Cartão,4315.52,Efetivada,2024-04-30
+279,Ana 63,42,Curitiba,303,33828,Boleto,1371.48,Cancelada,2024-01-07
+280,Helena 37,25,São Paulo,404,85947,Boleto,3977.95,Pendente,2024-05-25
+281,Eduardo 86,58,Curitiba,101,26330,TED,746.33,Pendente,2024-02-25
+282,Eduardo 22,30,Curitiba,101,77259,Cartão,984.96,Pendente,2024-02-07
+283,Eduardo 84,44,São Paulo,101,71423,DOC,4713.62,Efetivada,2024-04-02
+284,Bruno 73,54,São Paulo,202,48438,Pix,1625.21,Efetivada,2024-02-16
+285,Helena 4,67,Porto Alegre,404,13472,DOC,1403.34,Cancelada,2024-01-18
+286,Carlos 26,46,Belo Horizonte,303,87491,DOC,1061.14,Pendente,2024-04-24
+287,Ana 62,22,Porto Alegre,505,27245,DOC,4411.78,Pendente,2024-01-01
+288,Bruno 30,71,Belo Horizonte,101,12189,DOC,4442.59,Pendente,2024-05-06
+289,Gustavo 62,23,Porto Alegre,505,10837,TED,483.05,Cancelada,2024-05-23
+290,Daniela 77,37,Belo Horizonte,303,81011,TED,2661.91,Cancelada,2024-01-03
+291,Daniela 9,30,Belo Horizonte,505,44491,Pix,3416.06,Efetivada,2024-04-02
+292,Fernanda 24,42,Rio de Janeiro,101,31410,Cartão,141.57,Efetivada,2024-02-17
+293,Ana 98,63,Rio de Janeiro,303,40354,TED,3033.71,Pendente,2024-04-22
+294,Helena 43,70,Curitiba,505,83067,Pix,531.68,Efetivada,2024-03-14
+295,Ana 20,71,Curitiba,505,88638,Cartão,3490.22,Efetivada,2024-01-23
+296,Bruno 53,24,Belo Horizonte,505,20633,TED,327.04,Efetivada,2024-02-28
+297,Bruno 52,20,São Paulo,101,26033,Boleto,1867.49,Pendente,2024-04-03
+298,Daniela 21,35,Curitiba,505,96588,Boleto,2634.19,Pendente,2024-04-23
+299,Carlos 46,52,Porto Alegre,202,20322,Pix,632.91,Pendente,2024-02-03
+300,Daniela 53,20,São Paulo,404,63526,Cartão,2097.5,Pendente,2024-04-20
+301,Carlos 56,22,Porto Alegre,303,14122,Pix,3951.4,Pendente,2024-03-29
+302,Bruno 91,30,São Paulo,404,91455,Boleto,1251.82,Cancelada,2024-04-30
+303,Carlos 54,51,Curitiba,101,23024,Cartão,1005.75,Efetivada,2024-01-25
+304,Daniela 30,52,Curitiba,101,57084,Cartão,1346.51,Efetivada,2024-01-02
+305,Bruno 34,72,São Paulo,404,31023,Pix,1303.86,Pendente,2024-05-13
+306,Bruno 2,58,Rio de Janeiro,101,60055,Cartão,4354.24,Cancelada,2024-01-11
+307,Bruno 8,42,Porto Alegre,303,24351,TED,4815.69,Pendente,2024-05-23
+308,Bruno 29,64,Rio de Janeiro,404,40171,DOC,3528.3,Cancelada,2024-04-13
+309,Daniela 59,69,Porto Alegre,101,76981,Pix,3896.25,Pendente,2024-03-09
+310,Carlos 14,61,Porto Alegre,303,86336,Boleto,415.13,Pendente,2024-01-01
+311,Helena 6,41,São Paulo,101,84279,Cartão,1714.28,Efetivada,2024-03-03
+312,Daniela 90,19,Porto Alegre,505,64573,Cartão,3829.22,Efetivada,2024-03-26
+313,Gustavo 93,63,Porto Alegre,505,85045,Cartão,2084.54,Efetivada,2024-05-06
+314,Ana 4,24,Porto Alegre,101,70298,Cartão,1956.0,Efetivada,2024-03-20
+315,Eduardo 77,68,São Paulo,303,45452,Pix,1145.58,Cancelada,2024-04-26
+316,Fernanda 50,50,Curitiba,202,24075,Boleto,3213.33,Pendente,2024-04-14
+317,Bruno 52,37,Rio de Janeiro,303,36960,DOC,1340.03,Pendente,2024-01-18
+318,Ana 51,30,Belo Horizonte,202,98641,TED,1778.48,Efetivada,2024-02-10
+319,Ana 51,53,Porto Alegre,404,45411,DOC,4799.68,Cancelada,2024-01-01
+320,Helena 97,44,São Paulo,505,55816,Pix,4562.81,Efetivada,2024-03-31
+321,Helena 61,60,Rio de Janeiro,202,69777,Pix,3815.75,Pendente,2024-01-19
+322,Bruno 89,57,Curitiba,303,47431,TED,1172.38,Pendente,2024-01-01
+323,Eduardo 98,54,São Paulo,202,68807,Pix,3533.07,Efetivada,2024-03-13
+324,Bruno 49,72,Porto Alegre,101,42238,TED,771.3,Efetivada,2024-03-19
+325,Bruno 94,30,Belo Horizonte,404,72289,DOC,4822.86,Efetivada,2024-05-01
+326,Ana 53,22,Curitiba,101,82878,Pix,2832.94,Pendente,2024-04-29
+327,Daniela 68,46,Rio de Janeiro,202,45740,TED,876.26,Cancelada,2024-03-12
+328,Eduardo 88,59,São Paulo,202,32101,TED,54.99,Cancelada,2024-05-29
+329,Carlos 66,39,São Paulo,404,22019,DOC,2052.41,Efetivada,2024-02-06
+330,Helena 65,47,Belo Horizonte,202,46164,Cartão,2075.64,Efetivada,2024-05-23
+331,Ana 21,62,São Paulo,303,54559,TED,1326.21,Pendente,2024-05-07
+332,Fernanda 3,43,Rio de Janeiro,202,25858,Boleto,1593.19,Cancelada,2024-03-30
+333,Fernanda 19,35,Curitiba,404,97982,Pix,3438.13,Cancelada,2024-03-19
+334,Fernanda 14,51,São Paulo,404,15339,Boleto,1594.98,Efetivada,2024-04-09
+335,Fernanda 73,51,São Paulo,202,53410,Boleto,4094.12,Cancelada,2024-05-23
+336,Gustavo 29,19,Belo Horizonte,202,69381,Cartão,2598.43,Efetivada,2024-04-29
+337,Bruno 96,68,Porto Alegre,505,66801,Cartão,4812.19,Efetivada,2024-03-29
+338,Eduardo 14,26,São Paulo,202,16115,DOC,1242.54,Cancelada,2024-03-21
+339,Gustavo 89,43,Curitiba,404,18828,Pix,3293.54,Cancelada,2024-04-05
+340,Carlos 57,52,Curitiba,101,60274,Cartão,276.41,Pendente,2024-01-15
+341,Ana 41,20,Porto Alegre,303,56527,DOC,2803.65,Cancelada,2024-03-24
+342,Ana 37,60,Curitiba,404,63610,TED,3353.82,Efetivada,2024-01-07
+343,Ana 39,32,São Paulo,404,86383,Boleto,2899.08,Cancelada,2024-03-06
+344,Carlos 48,68,Curitiba,404,81897,Cartão,404.44,Pendente,2024-02-21
+345,Helena 59,63,Curitiba,303,97068,Boleto,3698.13,Pendente,2024-03-23
+346,Daniela 19,18,Porto Alegre,404,38091,Boleto,1518.39,Efetivada,2024-05-26
+347,Ana 92,64,Curitiba,404,29499,TED,389.43,Efetivada,2024-01-17
+348,Carlos 75,48,Belo Horizonte,404,93204,TED,2541.63,Efetivada,2024-02-26
+349,Bruno 81,62,Rio de Janeiro,303,53240,Cartão,2400.88,Pendente,2024-05-25
+350,Carlos 96,24,São Paulo,404,74978,Pix,557.99,Pendente,2024-05-14
+351,Ana 14,29,Porto Alegre,404,30229,Pix,748.7,Cancelada,2024-03-14
+352,Carlos 26,64,Rio de Janeiro,505,73877,TED,1129.29,Efetivada,2024-04-08
+353,Helena 39,49,Curitiba,505,55206,Boleto,1926.44,Efetivada,2024-02-08
+354,Gustavo 95,24,São Paulo,505,70977,TED,96.38,Cancelada,2024-01-31
+355,Ana 73,32,Porto Alegre,101,54294,DOC,1636.07,Efetivada,2024-01-12
+356,Gustavo 85,24,São Paulo,303,93389,DOC,4549.13,Pendente,2024-05-24
+357,Fernanda 65,41,Belo Horizonte,202,52986,DOC,2989.84,Pendente,2024-02-29
+358,Gustavo 64,29,Rio de Janeiro,202,95851,DOC,607.31,Cancelada,2024-02-15
+359,Fernanda 52,29,Belo Horizonte,303,26033,Pix,4938.3,Efetivada,2024-01-12
+360,Daniela 45,70,Rio de Janeiro,101,36767,TED,2761.76,Cancelada,2024-01-16
+361,Bruno 19,24,Belo Horizonte,303,67847,TED,1661.43,Efetivada,2024-02-19
+362,Eduardo 29,59,Curitiba,505,94615,Boleto,762.77,Efetivada,2024-02-20
+363,Carlos 62,71,São Paulo,505,50022,DOC,1165.99,Cancelada,2024-04-27
+364,Eduardo 17,58,São Paulo,303,62995,TED,4094.47,Cancelada,2024-03-13
+365,Bruno 65,69,São Paulo,202,85044,Cartão,541.55,Pendente,2024-02-27
+366,Gustavo 74,26,São Paulo,404,14058,TED,2932.81,Pendente,2024-01-07
+367,Gustavo 69,23,Curitiba,303,36036,DOC,3870.69,Efetivada,2024-02-11
+368,Fernanda 53,45,Rio de Janeiro,505,96562,DOC,4232.17,Cancelada,2024-05-18
+369,Daniela 16,49,São Paulo,303,78026,Pix,3775.29,Pendente,2024-05-16
+370,Ana 11,72,Rio de Janeiro,505,37868,Boleto,2405.52,Cancelada,2024-04-07
+371,Fernanda 35,49,São Paulo,404,72567,Boleto,2525.46,Pendente,2024-02-05
+372,Carlos 19,63,São Paulo,505,80771,Boleto,3951.97,Efetivada,2024-02-16
+373,Helena 2,64,São Paulo,101,29908,Pix,1024.7,Pendente,2024-01-07
+374,Daniela 71,68,Belo Horizonte,303,54877,TED,4417.94,Cancelada,2024-01-02
+375,Bruno 45,69,Porto Alegre,303,41221,Boleto,2408.81,Efetivada,2024-05-08
+376,Gustavo 47,19,Porto Alegre,505,27895,Cartão,227.71,Efetivada,2024-02-25
+377,Fernanda 92,31,São Paulo,505,16063,Pix,3187.75,Efetivada,2024-04-16
+378,Gustavo 44,18,Rio de Janeiro,404,12606,Boleto,3621.18,Cancelada,2024-03-15
+379,Daniela 16,25,Porto Alegre,303,95601,TED,4127.08,Cancelada,2024-02-27
+380,Eduardo 40,61,Belo Horizonte,505,28789,Pix,2606.63,Cancelada,2024-03-11
+381,Gustavo 22,32,Rio de Janeiro,303,96856,DOC,3774.21,Cancelada,2024-05-11
+382,Eduardo 59,62,Belo Horizonte,303,18069,DOC,63.91,Pendente,2024-05-08
+383,Daniela 43,65,Porto Alegre,303,50576,Boleto,535.35,Efetivada,2024-03-10
+384,Gustavo 75,18,Curitiba,101,97149,Pix,75.5,Cancelada,2024-02-13
+385,Ana 91,75,Porto Alegre,202,81290,Pix,564.28,Cancelada,2024-01-15
+386,Fernanda 19,32,Belo Horizonte,202,43504,Cartão,12.08,Efetivada,2024-05-11
+387,Daniela 97,48,Curitiba,101,75498,Pix,3457.14,Pendente,2024-03-03
+388,Daniela 15,63,Curitiba,101,49578,DOC,3704.09,Pendente,2024-03-29
+389,Gustavo 33,23,Curitiba,101,85427,DOC,4177.9,Efetivada,2024-01-25
+390,Helena 59,35,Porto Alegre,101,32975,Cartão,1337.24,Efetivada,2024-02-25
+391,Carlos 55,53,Rio de Janeiro,505,23105,TED,3441.29,Cancelada,2024-01-11
+392,Ana 83,50,São Paulo,101,40174,DOC,600.82,Efetivada,2024-03-04
+393,Eduardo 70,63,São Paulo,404,10913,DOC,3134.93,Cancelada,2024-02-23
+394,Carlos 20,60,Rio de Janeiro,404,46306,Boleto,108.43,Efetivada,2024-02-29
+395,Carlos 67,36,Rio de Janeiro,202,10271,Pix,3918.72,Efetivada,2024-01-31
+396,Carlos 19,28,São Paulo,303,45328,DOC,2312.11,Efetivada,2024-02-23
+397,Eduardo 8,57,Belo Horizonte,404,39344,Pix,3352.16,Efetivada,2024-05-11
+398,Gustavo 28,30,Curitiba,404,16170,Boleto,3526.57,Pendente,2024-02-11
+399,Bruno 34,42,Rio de Janeiro,505,85958,TED,4685.93,Cancelada,2024-02-09
+400,Daniela 71,50,São Paulo,303,10508,DOC,2814.28,Pendente,2024-05-08
+401,Bruno 4,53,Porto Alegre,101,46300,TED,3376.7,Pendente,2024-04-01
+402,Carlos 51,19,São Paulo,202,99169,Pix,3001.82,Pendente,2024-01-09
+403,Helena 3,33,Porto Alegre,101,82407,DOC,3037.19,Pendente,2024-03-02
+404,Carlos 51,70,Curitiba,202,94103,DOC,1832.01,Pendente,2024-04-02
+405,Daniela 8,63,Porto Alegre,404,79317,DOC,4969.45,Efetivada,2024-04-10
+406,Ana 39,56,Curitiba,101,38294,Pix,1439.55,Efetivada,2024-05-25
+407,Daniela 7,25,Curitiba,404,60407,TED,3783.23,Pendente,2024-01-25
+408,Fernanda 53,66,Curitiba,404,93000,Boleto,3070.23,Pendente,2024-01-09
+409,Bruno 66,44,São Paulo,404,77215,Cartão,1633.99,Efetivada,2024-03-08
+410,Gustavo 50,63,Porto Alegre,404,86528,Cartão,1668.73,Cancelada,2024-02-22
+411,Daniela 87,68,Porto Alegre,202,95277,Boleto,1054.96,Cancelada,2024-01-13
+412,Eduardo 47,24,Rio de Janeiro,202,84583,Pix,2991.07,Cancelada,2024-04-21
+413,Carlos 69,49,São Paulo,303,62866,TED,4432.24,Efetivada,2024-05-24
+414,Gustavo 11,20,Porto Alegre,101,50092,Boleto,2260.07,Efetivada,2024-05-25
+415,Bruno 58,74,Rio de Janeiro,404,94931,DOC,2874.18,Pendente,2024-05-17
+416,Ana 91,27,Porto Alegre,101,78404,TED,4455.59,Efetivada,2024-05-01
+417,Fernanda 14,40,Rio de Janeiro,404,84762,TED,926.25,Efetivada,2024-03-09
+418,Ana 59,60,Curitiba,303,10288,DOC,4576.33,Cancelada,2024-05-15
+419,Gustavo 31,56,Belo Horizonte,101,70531,DOC,522.18,Pendente,2024-04-07
+420,Fernanda 38,22,Rio de Janeiro,505,92220,Pix,1560.6,Efetivada,2024-02-08
+421,Helena 19,55,Rio de Janeiro,101,63956,Cartão,3598.45,Pendente,2024-02-13
+422,Bruno 78,48,Curitiba,303,77754,TED,1721.75,Cancelada,2024-02-08
+423,Helena 67,46,Rio de Janeiro,101,79200,Cartão,2663.36,Pendente,2024-01-21
+424,Carlos 82,32,São Paulo,404,67401,Cartão,3677.13,Pendente,2024-02-10
+425,Helena 38,58,Belo Horizonte,505,44631,Cartão,3277.3,Pendente,2024-05-29
+426,Carlos 84,60,Rio de Janeiro,505,55322,Pix,2196.52,Cancelada,2024-02-10
+427,Ana 37,24,Porto Alegre,202,34915,Pix,1613.24,Cancelada,2024-04-21
+428,Carlos 5,62,Belo Horizonte,303,59949,Boleto,1697.98,Pendente,2024-04-19
+429,Eduardo 33,48,São Paulo,404,30873,Boleto,2850.65,Efetivada,2024-02-25
+430,Carlos 7,33,Curitiba,101,60560,TED,1898.23,Efetivada,2024-02-05
+431,Helena 23,68,Rio de Janeiro,101,16632,Pix,2746.64,Pendente,2024-03-23
+432,Fernanda 97,33,Porto Alegre,202,18154,TED,590.7,Cancelada,2024-02-07
+433,Daniela 29,73,Curitiba,404,80929,DOC,2457.31,Cancelada,2024-01-22
+434,Ana 36,46,Rio de Janeiro,303,49735,Boleto,1601.14,Cancelada,2024-04-09
+435,Ana 5,33,Porto Alegre,202,94942,TED,528.74,Efetivada,2024-01-25
+436,Fernanda 98,69,Curitiba,202,25835,TED,3953.64,Cancelada,2024-01-02
+437,Eduardo 30,48,Porto Alegre,303,54389,DOC,1461.62,Cancelada,2024-05-04
+438,Bruno 66,18,Belo Horizonte,101,32769,DOC,2414.65,Pendente,2024-03-11
+439,Gustavo 22,53,Rio de Janeiro,101,73630,Boleto,217.06,Efetivada,2024-03-28
+440,Fernanda 36,36,Belo Horizonte,202,97563,TED,4178.48,Efetivada,2024-03-11
+441,Eduardo 73,43,Curitiba,202,88331,Pix,2788.07,Cancelada,2024-01-26
+442,Ana 93,37,Belo Horizonte,101,25167,Cartão,188.36,Pendente,2024-01-30
+443,Eduardo 23,68,Curitiba,101,91871,TED,4883.83,Efetivada,2024-05-17
+444,Carlos 9,26,Porto Alegre,202,74950,TED,3481.34,Pendente,2024-04-12
+445,Helena 25,49,Rio de Janeiro,303,26331,TED,1781.37,Pendente,2024-05-18
+446,Ana 74,74,São Paulo,505,75395,Cartão,2018.49,Cancelada,2024-04-25
+447,Ana 5,26,Curitiba,101,18665,DOC,502.07,Cancelada,2024-01-19
+448,Ana 33,54,São Paulo,101,34057,Cartão,1143.19,Pendente,2024-05-28
+449,Helena 86,66,Belo Horizonte,303,14764,TED,2747.92,Cancelada,2024-03-31
+450,Fernanda 87,39,Curitiba,303,24768,Boleto,577.88,Efetivada,2024-01-09
+451,Helena 31,58,Porto Alegre,101,88191,Pix,217.23,Efetivada,2024-05-06
+452,Daniela 52,35,Belo Horizonte,404,98774,DOC,4165.08,Efetivada,2024-03-13
+453,Helena 16,61,Porto Alegre,101,42272,TED,2264.66,Efetivada,2024-03-02
+454,Helena 16,32,Belo Horizonte,404,61378,Boleto,307.49,Cancelada,2024-04-16
+455,Ana 29,46,Curitiba,505,31320,Pix,3202.2,Cancelada,2024-02-02
+456,Daniela 47,48,Porto Alegre,303,41975,Cartão,2500.26,Cancelada,2024-04-23
+457,Bruno 90,73,São Paulo,202,39609,TED,4737.39,Efetivada,2024-01-05
+458,Carlos 6,40,Rio de Janeiro,303,36487,Boleto,3238.34,Pendente,2024-02-01
+459,Carlos 31,64,Belo Horizonte,202,90874,DOC,2370.99,Efetivada,2024-02-01
+460,Helena 22,21,Rio de Janeiro,404,44270,TED,4147.24,Cancelada,2024-03-15
+461,Daniela 42,62,Belo Horizonte,303,38793,Boleto,89.06,Pendente,2024-05-15
+462,Gustavo 16,32,São Paulo,505,53667,TED,3452.74,Cancelada,2024-04-01
+463,Helena 6,62,Rio de Janeiro,303,16353,TED,2598.3,Pendente,2024-02-24
+464,Gustavo 10,57,Rio de Janeiro,101,71681,DOC,2642.68,Cancelada,2024-05-13
+465,Eduardo 2,45,Rio de Janeiro,303,53696,DOC,2356.55,Pendente,2024-04-13
+466,Eduardo 61,55,Curitiba,202,26171,Boleto,3467.42,Pendente,2024-05-12
+467,Daniela 10,41,São Paulo,303,76468,TED,414.4,Cancelada,2024-04-09
+468,Eduardo 23,36,São Paulo,505,35247,Pix,4239.7,Efetivada,2024-02-27
+469,Eduardo 22,73,São Paulo,303,29594,Cartão,3188.13,Pendente,2024-04-18
+470,Daniela 62,36,Porto Alegre,202,13154,Pix,2651.83,Cancelada,2024-04-15
+471,Ana 32,33,Belo Horizonte,202,81540,DOC,4391.91,Cancelada,2024-02-18
+472,Helena 71,64,Belo Horizonte,505,70377,Boleto,4492.41,Pendente,2024-03-14
+473,Helena 31,62,Porto Alegre,404,29127,Pix,307.52,Cancelada,2024-03-29
+474,Carlos 25,27,Belo Horizonte,202,26948,TED,3048.59,Pendente,2024-03-11
+475,Bruno 59,71,São Paulo,303,83885,DOC,1264.9,Efetivada,2024-03-25
+476,Eduardo 82,33,Belo Horizonte,101,44719,Boleto,4217.92,Efetivada,2024-01-05
+477,Daniela 6,36,Curitiba,101,63439,Boleto,887.3,Efetivada,2024-04-27
+478,Fernanda 66,22,São Paulo,505,93404,DOC,4593.72,Efetivada,2024-01-21
+479,Eduardo 71,24,Porto Alegre,202,48614,Pix,2359.53,Cancelada,2024-05-25
+480,Ana 75,41,Rio de Janeiro,202,80891,Cartão,1296.12,Efetivada,2024-03-30
+481,Gustavo 52,72,São Paulo,101,15544,TED,572.98,Cancelada,2024-01-29
+482,Ana 98,28,Porto Alegre,101,58641,Pix,590.79,Cancelada,2024-04-14
+483,Eduardo 62,50,Curitiba,202,17285,Pix,904.34,Pendente,2024-01-03
+484,Ana 84,30,Curitiba,404,35391,Boleto,3400.14,Pendente,2024-05-20
+485,Gustavo 73,57,Belo Horizonte,505,46458,Pix,1885.48,Pendente,2024-05-16
+486,Ana 8,55,Curitiba,303,71009,TED,1564.83,Efetivada,2024-05-15
+487,Fernanda 32,66,Rio de Janeiro,303,37557,Cartão,366.12,Efetivada,2024-03-03
+488,Daniela 76,58,São Paulo,202,19120,TED,4486.78,Efetivada,2024-05-11
+489,Bruno 17,27,Rio de Janeiro,505,74368,Pix,1614.96,Cancelada,2024-03-20
+490,Carlos 87,35,Porto Alegre,303,97227,Boleto,4010.5,Pendente,2024-05-30
+491,Helena 87,45,Porto Alegre,505,32402,DOC,2421.23,Cancelada,2024-02-02
+492,Ana 5,23,Rio de Janeiro,101,38338,Cartão,1679.23,Cancelada,2024-05-18
+493,Eduardo 10,73,Porto Alegre,101,52637,DOC,3227.45,Efetivada,2024-01-17
+494,Carlos 11,26,Porto Alegre,303,19606,Pix,3005.22,Efetivada,2024-05-08
+495,Eduardo 12,57,Curitiba,202,71756,Boleto,3763.18,Pendente,2024-04-27
+496,Gustavo 81,21,São Paulo,505,26314,Pix,2737.0,Pendente,2024-01-21
+497,Gustavo 51,29,Belo Horizonte,404,63739,DOC,4989.04,Efetivada,2024-03-12
+498,Bruno 83,21,Curitiba,101,89719,Pix,2647.89,Efetivada,2024-01-15
+499,Fernanda 8,58,Rio de Janeiro,303,91248,TED,1804.33,Cancelada,2024-05-23
+500,Ana 13,55,Belo Horizonte,101,44670,Boleto,581.13,Cancelada,2024-02-09
+501,Carlos 15,51,Belo Horizonte,303,50045,Pix,4394.33,Efetivada,2024-03-01
+502,Gustavo 22,66,Curitiba,404,65428,DOC,4813.19,Efetivada,2024-02-13
+503,Carlos 73,35,Curitiba,404,93075,Cartão,2691.44,Pendente,2024-05-03
+504,Fernanda 65,55,São Paulo,303,43265,TED,3084.08,Efetivada,2024-01-01
+505,Daniela 94,50,Porto Alegre,404,62849,Cartão,1620.91,Pendente,2024-02-20
+506,Carlos 83,34,Curitiba,303,58800,DOC,327.27,Pendente,2024-04-19
+507,Helena 44,57,Curitiba,202,12239,Boleto,3854.7,Efetivada,2024-05-24
+508,Carlos 30,47,Belo Horizonte,404,67362,DOC,1705.24,Cancelada,2024-02-23
+509,Daniela 93,18,Rio de Janeiro,505,49395,Cartão,3282.01,Cancelada,2024-03-16
+510,Daniela 51,26,Rio de Janeiro,101,70471,Pix,1142.14,Efetivada,2024-04-30
+511,Gustavo 84,32,São Paulo,101,34423,TED,4789.38,Cancelada,2024-02-08
+512,Carlos 42,57,Curitiba,202,52536,DOC,2621.15,Pendente,2024-02-18
+513,Ana 19,26,Porto Alegre,404,65940,Boleto,3462.68,Cancelada,2024-02-20
+514,Ana 71,32,São Paulo,202,40545,TED,3823.61,Cancelada,2024-05-15
+515,Fernanda 62,52,Rio de Janeiro,404,53248,DOC,1213.17,Efetivada,2024-05-11
+516,Daniela 19,21,São Paulo,404,60898,Cartão,1168.61,Efetivada,2024-02-21
+517,Bruno 26,34,Rio de Janeiro,404,57017,Cartão,3029.07,Pendente,2024-03-15
+518,Ana 28,61,Belo Horizonte,202,63459,Pix,1261.38,Cancelada,2024-03-04
+519,Helena 55,35,Belo Horizonte,303,82139,Cartão,1000.39,Cancelada,2024-03-19
+520,Gustavo 14,53,Curitiba,202,48652,DOC,787.32,Efetivada,2024-01-20
+521,Ana 86,37,Porto Alegre,202,23306,TED,2562.97,Cancelada,2024-02-07
+522,Ana 63,70,Rio de Janeiro,101,91893,Pix,264.86,Efetivada,2024-03-03
+523,Eduardo 52,70,Porto Alegre,303,31851,Boleto,4536.76,Pendente,2024-02-28
+524,Carlos 37,28,Porto Alegre,303,64372,Cartão,4785.39,Efetivada,2024-02-22
+525,Ana 67,47,Rio de Janeiro,101,64602,Pix,1493.46,Efetivada,2024-03-16
+526,Ana 7,65,São Paulo,404,12815,TED,4831.37,Cancelada,2024-02-16
+527,Helena 17,36,Curitiba,303,52000,DOC,3502.67,Pendente,2024-03-03
+528,Fernanda 86,43,Belo Horizonte,303,65527,Pix,1711.94,Pendente,2024-04-03
+529,Eduardo 86,75,Porto Alegre,101,88448,Pix,4671.24,Cancelada,2024-01-31
+530,Bruno 70,23,Rio de Janeiro,202,60152,TED,392.76,Efetivada,2024-05-25
+531,Eduardo 16,26,Porto Alegre,404,73391,Cartão,4225.59,Efetivada,2024-01-11
+532,Gustavo 55,58,São Paulo,303,94152,TED,865.76,Cancelada,2024-01-16
+533,Ana 29,37,São Paulo,303,33086,Cartão,1577.03,Efetivada,2024-03-08
+534,Fernanda 84,57,Belo Horizonte,404,23539,Pix,4223.64,Cancelada,2024-02-08
+535,Bruno 14,39,Curitiba,202,22277,TED,40.16,Pendente,2024-03-24
+536,Eduardo 79,31,São Paulo,101,70632,TED,3990.42,Efetivada,2024-04-14
+537,Daniela 24,25,São Paulo,404,62811,DOC,1381.28,Efetivada,2024-01-22
+538,Helena 87,28,São Paulo,202,18626,DOC,1039.53,Efetivada,2024-01-10
+539,Daniela 27,58,São Paulo,101,70449,Cartão,2283.07,Cancelada,2024-04-21
+540,Eduardo 22,49,São Paulo,505,60654,Boleto,1100.81,Pendente,2024-03-01
+541,Daniela 25,39,Curitiba,202,94811,Boleto,1828.3,Cancelada,2024-04-02
+542,Daniela 31,37,Rio de Janeiro,505,82941,DOC,2879.24,Cancelada,2024-04-28
+543,Helena 56,72,Belo Horizonte,202,94175,Cartão,2811.61,Pendente,2024-03-09
+544,Helena 22,74,Porto Alegre,101,18042,DOC,3156.05,Pendente,2024-01-07
+545,Daniela 51,57,Porto Alegre,202,68104,DOC,4798.11,Cancelada,2024-01-28
+546,Eduardo 24,51,Rio de Janeiro,303,53261,Cartão,343.67,Efetivada,2024-02-16
+547,Fernanda 70,56,Porto Alegre,505,21244,Boleto,901.13,Cancelada,2024-03-30
+548,Gustavo 55,32,Curitiba,505,46266,Cartão,1076.64,Pendente,2024-05-15
+549,Eduardo 91,55,Rio de Janeiro,505,35655,Pix,2533.5,Efetivada,2024-04-06
+550,Helena 49,41,São Paulo,303,32169,TED,1345.31,Efetivada,2024-04-06
+551,Bruno 46,46,São Paulo,202,19967,TED,2804.78,Cancelada,2024-04-16
+552,Bruno 85,56,Rio de Janeiro,101,62434,Cartão,2373.21,Cancelada,2024-05-13
+553,Fernanda 9,25,Rio de Janeiro,303,95328,Cartão,3149.65,Cancelada,2024-04-10
+554,Daniela 57,65,Belo Horizonte,101,23332,Pix,1657.96,Cancelada,2024-03-24
+555,Fernanda 54,31,Curitiba,404,97418,Cartão,2222.75,Efetivada,2024-02-24
+556,Daniela 9,20,Porto Alegre,404,51407,TED,1795.51,Efetivada,2024-03-07
+557,Ana 22,49,Curitiba,404,71624,Pix,1318.29,Cancelada,2024-05-24
+558,Helena 14,22,São Paulo,505,19339,DOC,1669.31,Efetivada,2024-04-06
+559,Daniela 32,41,São Paulo,101,67637,Cartão,93.38,Cancelada,2024-02-25
+560,Ana 7,45,São Paulo,101,41084,DOC,1957.38,Pendente,2024-01-21
+561,Gustavo 35,22,Porto Alegre,404,87514,Boleto,4106.76,Cancelada,2024-03-09
+562,Helena 63,25,Porto Alegre,202,27108,Boleto,1594.26,Cancelada,2024-02-03
+563,Carlos 89,29,Rio de Janeiro,505,98312,DOC,1477.93,Cancelada,2024-03-05
+564,Ana 19,29,Curitiba,404,32676,TED,1616.67,Cancelada,2024-04-05
+565,Ana 17,49,São Paulo,202,87392,TED,4457.23,Efetivada,2024-03-12
+566,Daniela 40,41,Curitiba,101,40784,Boleto,3745.08,Cancelada,2024-05-12
+567,Daniela 45,52,Curitiba,505,48907,Pix,2052.94,Cancelada,2024-05-07
+568,Fernanda 25,62,Curitiba,505,81410,Cartão,1593.75,Cancelada,2024-04-22
+569,Daniela 53,40,Porto Alegre,404,94176,DOC,2522.51,Pendente,2024-01-31
+570,Ana 74,74,Rio de Janeiro,202,84468,Boleto,963.05,Efetivada,2024-05-12
+571,Ana 3,72,Rio de Janeiro,101,59301,DOC,4088.82,Efetivada,2024-05-19
+572,Daniela 52,67,Rio de Janeiro,505,74026,TED,1502.27,Pendente,2024-04-23
+573,Bruno 94,43,São Paulo,101,40452,Boleto,2362.97,Pendente,2024-02-05
+574,Eduardo 9,30,Belo Horizonte,202,86741,TED,278.53,Pendente,2024-02-24
+575,Eduardo 28,60,São Paulo,202,45236,Cartão,398.05,Cancelada,2024-03-07
+576,Bruno 77,67,Rio de Janeiro,202,44440,Cartão,280.91,Cancelada,2024-05-12
+577,Gustavo 78,70,Belo Horizonte,404,28158,Boleto,1706.78,Pendente,2024-01-12
+578,Daniela 5,23,Rio de Janeiro,202,18486,Pix,1687.48,Efetivada,2024-03-18
+579,Bruno 88,30,Belo Horizonte,505,91387,Cartão,4362.72,Pendente,2024-02-22
+580,Eduardo 71,37,Curitiba,303,96496,DOC,718.65,Pendente,2024-05-21
+581,Gustavo 73,63,Porto Alegre,101,17789,TED,518.53,Efetivada,2024-04-21
+582,Fernanda 77,34,São Paulo,404,70309,Pix,1961.63,Pendente,2024-05-23
+583,Fernanda 14,69,Rio de Janeiro,404,19275,Boleto,145.5,Efetivada,2024-03-01
+584,Bruno 68,63,Porto Alegre,202,92125,Cartão,1604.52,Pendente,2024-01-08
+585,Bruno 70,19,São Paulo,404,10143,Boleto,1564.73,Pendente,2024-01-20
+586,Eduardo 78,63,Belo Horizonte,404,36332,Cartão,1837.3,Cancelada,2024-04-09
+587,Carlos 56,75,Rio de Janeiro,404,53653,Pix,808.01,Cancelada,2024-05-28
+588,Ana 87,33,Belo Horizonte,303,37837,Pix,556.54,Cancelada,2024-05-28
+589,Helena 73,59,Rio de Janeiro,202,94409,Boleto,2739.11,Efetivada,2024-04-13
+590,Fernanda 71,61,Porto Alegre,101,71239,Pix,3167.42,Cancelada,2024-02-20
+591,Ana 19,65,Belo Horizonte,202,70554,Cartão,3746.85,Pendente,2024-03-21
+592,Gustavo 98,21,Belo Horizonte,303,70494,Boleto,2991.88,Efetivada,2024-02-04
+593,Daniela 94,50,São Paulo,505,29457,TED,3715.13,Efetivada,2024-03-11
+594,Bruno 76,41,São Paulo,404,19339,DOC,4492.57,Efetivada,2024-04-15
+595,Carlos 62,55,Porto Alegre,404,73588,Pix,1807.08,Pendente,2024-03-13
+596,Bruno 32,49,Belo Horizonte,303,47548,Pix,1182.23,Pendente,2024-04-13
+597,Gustavo 35,26,Belo Horizonte,303,17136,DOC,850.1,Efetivada,2024-05-18
+598,Carlos 67,25,Porto Alegre,505,14026,Cartão,2360.0,Efetivada,2024-03-16
+599,Gustavo 44,64,São Paulo,202,27500,Pix,2787.9,Cancelada,2024-05-03
+600,Eduardo 73,28,Belo Horizonte,404,23187,Boleto,1135.21,Cancelada,2024-03-25
+601,Fernanda 63,43,Curitiba,303,22676,Pix,2425.27,Efetivada,2024-04-06
+602,Bruno 34,23,São Paulo,303,59671,Pix,4844.2,Pendente,2024-05-22
+603,Eduardo 3,50,Porto Alegre,101,53392,Pix,4266.01,Efetivada,2024-02-02
+604,Daniela 33,51,São Paulo,202,95708,TED,823.16,Pendente,2024-05-25
+605,Carlos 84,51,São Paulo,404,86966,Pix,1436.97,Cancelada,2024-04-25
+606,Carlos 44,70,Rio de Janeiro,202,30227,Pix,3823.47,Pendente,2024-01-27
+607,Bruno 82,68,Porto Alegre,404,32383,Pix,731.96,Efetivada,2024-03-03
+608,Fernanda 66,43,Belo Horizonte,101,86567,Boleto,327.54,Efetivada,2024-01-15
+609,Carlos 63,69,Rio de Janeiro,505,76252,Pix,3126.21,Efetivada,2024-02-12
+610,Bruno 71,75,Belo Horizonte,202,30702,Boleto,963.35,Pendente,2024-05-05
+611,Bruno 55,68,Belo Horizonte,505,77965,Pix,1846.05,Cancelada,2024-03-10
+612,Daniela 82,36,Porto Alegre,202,37672,Cartão,4528.84,Efetivada,2024-05-04
+613,Bruno 27,32,Belo Horizonte,202,56662,TED,296.42,Cancelada,2024-05-20
+614,Bruno 15,41,Curitiba,505,58694,TED,4169.97,Efetivada,2024-03-17
+615,Bruno 76,29,Belo Horizonte,202,32166,TED,1159.64,Efetivada,2024-01-26
+616,Carlos 13,26,Porto Alegre,303,93492,Cartão,3311.44,Efetivada,2024-04-22
+617,Helena 78,52,São Paulo,101,76371,DOC,4382.24,Cancelada,2024-03-06
+618,Ana 47,27,Porto Alegre,202,23303,DOC,3022.48,Efetivada,2024-03-17
+619,Eduardo 68,72,Belo Horizonte,505,10328,TED,3097.15,Pendente,2024-02-16
+620,Helena 88,33,Rio de Janeiro,404,32540,DOC,2976.08,Efetivada,2024-05-29
+621,Fernanda 60,72,São Paulo,404,85922,Cartão,3875.93,Cancelada,2024-01-25
+622,Eduardo 97,37,Rio de Janeiro,505,74189,Cartão,1313.49,Cancelada,2024-01-27
+623,Carlos 53,64,Curitiba,404,20642,Boleto,1233.15,Pendente,2024-01-13
+624,Carlos 51,69,Porto Alegre,505,33513,DOC,967.62,Pendente,2024-05-18
+625,Carlos 13,49,Curitiba,505,72603,Cartão,132.36,Cancelada,2024-05-12
+626,Fernanda 63,74,Porto Alegre,404,14885,Cartão,17.7,Cancelada,2024-03-08
+627,Helena 49,19,Porto Alegre,101,49069,Boleto,2475.57,Cancelada,2024-01-03
+628,Gustavo 33,52,Curitiba,303,40755,Cartão,3894.53,Pendente,2024-01-08
+629,Ana 5,45,Rio de Janeiro,505,45887,Pix,989.1,Pendente,2024-02-11
+630,Helena 57,68,Curitiba,303,55186,DOC,4534.01,Cancelada,2024-01-20
+631,Gustavo 75,19,São Paulo,303,69643,DOC,359.62,Efetivada,2024-01-05
+632,Eduardo 84,71,São Paulo,404,34203,TED,554.95,Efetivada,2024-01-24
+633,Gustavo 75,46,Curitiba,505,17333,Cartão,2595.74,Pendente,2024-05-17
+634,Daniela 40,74,Porto Alegre,404,54533,Cartão,4713.63,Cancelada,2024-02-14
+635,Helena 57,75,Rio de Janeiro,404,43735,Pix,1525.34,Efetivada,2024-05-06
+636,Helena 54,65,Porto Alegre,303,37313,Boleto,2471.49,Pendente,2024-02-28
+637,Carlos 11,18,Porto Alegre,505,90144,Boleto,4480.61,Pendente,2024-04-18
+638,Helena 75,22,São Paulo,202,40339,Boleto,1655.01,Cancelada,2024-01-01
+639,Gustavo 61,71,Curitiba,404,44404,Boleto,4736.72,Cancelada,2024-02-26
+640,Bruno 17,51,Belo Horizonte,101,12692,TED,1565.59,Cancelada,2024-03-17
+641,Eduardo 87,75,Porto Alegre,505,14719,DOC,3761.05,Pendente,2024-04-09
+642,Gustavo 53,57,Porto Alegre,505,18564,Pix,974.76,Pendente,2024-05-16
+643,Carlos 58,70,São Paulo,202,23206,Cartão,4081.66,Efetivada,2024-03-10
+644,Daniela 40,38,Curitiba,505,43151,Cartão,2707.79,Efetivada,2024-02-06
+645,Bruno 70,24,Curitiba,404,49364,DOC,1201.55,Efetivada,2024-01-02
+646,Gustavo 83,71,Belo Horizonte,505,72630,TED,301.39,Cancelada,2024-02-27
+647,Eduardo 39,30,Curitiba,404,22427,Boleto,302.13,Efetivada,2024-04-12
+648,Gustavo 50,58,Belo Horizonte,303,54431,TED,1260.92,Efetivada,2024-05-01
+649,Fernanda 40,58,Rio de Janeiro,303,12355,TED,2444.64,Efetivada,2024-02-29
+650,Daniela 4,45,Porto Alegre,202,31168,DOC,4937.84,Efetivada,2024-04-03
+651,Ana 10,28,Rio de Janeiro,505,87471,DOC,2369.98,Cancelada,2024-05-27
+652,Fernanda 26,47,Curitiba,202,87750,TED,791.5,Pendente,2024-01-21
+653,Daniela 99,27,Curitiba,404,32393,DOC,1826.49,Efetivada,2024-05-14
+654,Eduardo 75,74,Curitiba,101,85494,Boleto,262.75,Efetivada,2024-01-19
+655,Bruno 27,57,São Paulo,404,42292,Boleto,4561.26,Cancelada,2024-05-18
+656,Gustavo 54,33,Porto Alegre,101,35616,Cartão,4628.54,Efetivada,2024-02-28
+657,Eduardo 70,48,São Paulo,202,55985,Boleto,4899.71,Cancelada,2024-01-04
+658,Bruno 41,45,Belo Horizonte,101,15559,TED,4178.45,Pendente,2024-04-21
+659,Bruno 41,35,Porto Alegre,404,58053,Boleto,4802.71,Pendente,2024-05-25
+660,Gustavo 82,21,São Paulo,505,47455,Pix,3582.26,Pendente,2024-03-10
+661,Gustavo 89,69,Porto Alegre,505,66979,Cartão,4464.59,Efetivada,2024-02-06
+662,Fernanda 19,31,Belo Horizonte,505,77326,DOC,3357.25,Cancelada,2024-04-22
+663,Helena 9,63,São Paulo,303,67897,Boleto,21.03,Pendente,2024-04-16
+664,Ana 17,34,Porto Alegre,101,54165,TED,4639.91,Cancelada,2024-05-16
+665,Helena 14,21,Belo Horizonte,404,45994,TED,1886.4,Efetivada,2024-02-02
+666,Ana 22,69,Curitiba,505,94430,Pix,3323.75,Efetivada,2024-04-09
+667,Fernanda 71,74,Curitiba,303,33784,DOC,362.28,Pendente,2024-05-14
+668,Ana 59,49,Belo Horizonte,505,28575,Boleto,2460.47,Efetivada,2024-05-16
+669,Gustavo 40,67,Porto Alegre,505,73484,DOC,59.83,Efetivada,2024-03-11
+670,Bruno 63,75,Porto Alegre,505,68098,DOC,4819.61,Pendente,2024-04-20
+671,Helena 73,71,Rio de Janeiro,101,68854,TED,1123.87,Cancelada,2024-05-02
+672,Eduardo 40,74,São Paulo,101,12539,TED,866.33,Cancelada,2024-05-16
+673,Ana 50,67,Porto Alegre,303,92028,DOC,2678.71,Pendente,2024-05-28
+674,Carlos 15,40,Porto Alegre,202,53532,TED,880.21,Cancelada,2024-04-06
+675,Bruno 21,34,São Paulo,202,12464,Boleto,3752.99,Efetivada,2024-02-03
+676,Helena 10,52,Curitiba,505,97583,Cartão,1624.72,Cancelada,2024-03-03
+677,Helena 50,68,Belo Horizonte,303,75092,TED,3556.25,Cancelada,2024-01-16
+678,Bruno 6,29,São Paulo,505,69514,Cartão,177.77,Efetivada,2024-03-17
+679,Eduardo 43,25,Porto Alegre,505,49284,Cartão,1484.45,Pendente,2024-03-09
+680,Fernanda 37,32,Porto Alegre,505,10536,Boleto,4585.06,Pendente,2024-04-08
+681,Carlos 18,55,Rio de Janeiro,505,16051,Cartão,135.52,Pendente,2024-04-10
+682,Gustavo 95,54,São Paulo,101,49535,Boleto,3604.73,Efetivada,2024-02-19
+683,Ana 10,48,Curitiba,202,37878,Pix,3087.33,Efetivada,2024-03-15
+684,Helena 7,58,Rio de Janeiro,505,18836,Pix,2075.6,Pendente,2024-03-09
+685,Daniela 95,31,Curitiba,505,33279,Boleto,1505.88,Pendente,2024-01-07
+686,Daniela 30,61,Rio de Janeiro,404,51118,DOC,4051.1,Efetivada,2024-02-04
+687,Fernanda 99,24,Curitiba,202,57824,Cartão,2493.68,Efetivada,2024-04-24
+688,Daniela 8,46,Belo Horizonte,404,64986,TED,3615.25,Pendente,2024-02-16
+689,Gustavo 63,39,São Paulo,303,91759,Pix,722.73,Efetivada,2024-04-14
+690,Ana 49,20,São Paulo,101,13713,TED,235.95,Efetivada,2024-05-20
+691,Eduardo 96,64,Rio de Janeiro,303,34536,TED,4347.92,Cancelada,2024-05-15
+692,Eduardo 5,70,Porto Alegre,202,58254,Boleto,23.13,Cancelada,2024-01-12
+693,Eduardo 66,25,Rio de Janeiro,101,26656,DOC,4130.17,Pendente,2024-02-23
+694,Gustavo 71,33,Porto Alegre,202,97550,TED,4347.51,Pendente,2024-03-11
+695,Fernanda 48,69,Curitiba,505,52445,Pix,340.96,Cancelada,2024-01-29
+696,Gustavo 62,43,São Paulo,505,37036,Cartão,4718.46,Efetivada,2024-05-02
+697,Helena 67,23,Belo Horizonte,404,22665,Cartão,3101.72,Efetivada,2024-05-11
+698,Bruno 79,52,Belo Horizonte,505,36074,Cartão,1654.64,Pendente,2024-02-02
+699,Fernanda 8,61,Curitiba,101,79728,DOC,851.29,Efetivada,2024-01-01
+700,Gustavo 35,30,Curitiba,303,60079,Cartão,2162.75,Cancelada,2024-04-08
+701,Daniela 77,18,Belo Horizonte,101,76699,Cartão,2113.4,Efetivada,2024-02-27
+702,Helena 4,62,São Paulo,303,33067,DOC,1191.82,Pendente,2024-03-11
+703,Bruno 67,73,São Paulo,202,27731,Pix,3397.63,Pendente,2024-03-21
+704,Eduardo 52,54,Belo Horizonte,202,80235,TED,226.54,Efetivada,2024-01-18
+705,Daniela 41,52,Rio de Janeiro,202,30248,Boleto,3429.57,Pendente,2024-04-24
+706,Carlos 79,59,Porto Alegre,505,36847,Boleto,1257.2,Pendente,2024-01-06
+707,Ana 7,37,Porto Alegre,303,97003,TED,4788.47,Efetivada,2024-04-10
+708,Ana 88,18,Porto Alegre,505,11257,Cartão,4418.07,Cancelada,2024-01-31
+709,Bruno 20,21,São Paulo,404,98871,Pix,2008.8,Cancelada,2024-03-03
+710,Helena 43,69,Rio de Janeiro,404,90743,Boleto,3839.59,Cancelada,2024-01-24
+711,Gustavo 27,49,Belo Horizonte,404,91956,Boleto,2444.29,Efetivada,2024-01-07
+712,Gustavo 90,58,Rio de Janeiro,101,89098,Boleto,2685.29,Efetivada,2024-01-07
+713,Daniela 55,64,Belo Horizonte,303,19966,TED,230.11,Cancelada,2024-01-24
+714,Daniela 73,27,Belo Horizonte,505,90669,DOC,2034.63,Cancelada,2024-01-03
+715,Ana 55,24,Porto Alegre,101,24734,Cartão,3307.24,Efetivada,2024-02-20
+716,Ana 36,39,Curitiba,101,20179,DOC,181.5,Pendente,2024-03-25
+717,Eduardo 35,20,Curitiba,303,61932,Pix,2758.31,Pendente,2024-03-26
+718,Eduardo 92,22,Belo Horizonte,202,64197,Boleto,4979.49,Efetivada,2024-03-05
+719,Ana 20,29,Rio de Janeiro,404,60543,DOC,1366.79,Pendente,2024-05-20
+720,Ana 19,27,Curitiba,101,44505,TED,3701.35,Efetivada,2024-03-06
+721,Gustavo 41,73,Rio de Janeiro,202,14042,Pix,2397.39,Cancelada,2024-03-22
+722,Eduardo 60,66,Curitiba,505,76443,DOC,2781.61,Cancelada,2024-04-25
+723,Daniela 12,67,São Paulo,303,27094,TED,3482.53,Efetivada,2024-02-01
+724,Eduardo 42,30,Belo Horizonte,505,41006,DOC,1464.58,Pendente,2024-04-04
+725,Ana 49,40,Belo Horizonte,202,90139,TED,3413.3,Efetivada,2024-05-28
+726,Eduardo 2,39,São Paulo,101,17953,TED,4099.86,Efetivada,2024-05-20
+727,Helena 47,56,Porto Alegre,101,45220,Pix,553.16,Efetivada,2024-02-08
+728,Fernanda 49,66,São Paulo,404,30944,DOC,4484.99,Cancelada,2024-04-03
+729,Carlos 92,36,São Paulo,303,87556,TED,1351.37,Efetivada,2024-02-27
+730,Daniela 26,50,Curitiba,202,81979,Pix,3895.54,Cancelada,2024-01-08
+731,Eduardo 81,33,Porto Alegre,303,55500,TED,3526.57,Cancelada,2024-05-14
+732,Bruno 99,57,São Paulo,505,29440,Cartão,2390.97,Pendente,2024-03-03
+733,Helena 10,32,Belo Horizonte,101,62961,Pix,3990.59,Pendente,2024-03-02
+734,Gustavo 61,19,Curitiba,303,51469,TED,250.24,Pendente,2024-04-08
+735,Eduardo 27,38,Rio de Janeiro,202,83949,Boleto,4063.32,Pendente,2024-04-08
+736,Eduardo 59,33,Curitiba,101,49097,TED,3530.05,Pendente,2024-04-30
+737,Gustavo 83,44,Porto Alegre,505,75309,Pix,4175.36,Pendente,2024-05-02
+738,Bruno 96,57,São Paulo,303,89633,Boleto,3264.5,Efetivada,2024-03-14
+739,Carlos 80,38,São Paulo,505,72754,Boleto,3003.56,Pendente,2024-01-14
+740,Carlos 1,57,Rio de Janeiro,303,27200,DOC,4896.75,Efetivada,2024-05-26
+741,Helena 16,34,Rio de Janeiro,202,66911,DOC,4397.77,Efetivada,2024-01-24
+742,Daniela 96,45,Porto Alegre,404,18394,Pix,1820.09,Cancelada,2024-04-07
+743,Carlos 52,33,Belo Horizonte,303,70875,DOC,4677.05,Cancelada,2024-02-20
+744,Gustavo 39,74,São Paulo,101,17374,Cartão,2141.38,Pendente,2024-04-25
+745,Carlos 50,54,São Paulo,303,44741,TED,272.75,Pendente,2024-04-05
+746,Ana 10,38,Belo Horizonte,404,12477,TED,4619.38,Efetivada,2024-02-14
+747,Carlos 60,56,Rio de Janeiro,404,65668,Pix,2599.74,Efetivada,2024-02-11
+748,Carlos 20,30,Curitiba,505,83655,Cartão,1621.11,Pendente,2024-02-26
+749,Daniela 12,62,Belo Horizonte,202,13623,Pix,4003.33,Cancelada,2024-03-19
+750,Carlos 17,47,Rio de Janeiro,303,48581,TED,4057.77,Pendente,2024-03-17
+751,Bruno 90,21,Belo Horizonte,202,94730,Pix,3819.34,Cancelada,2024-05-15
+752,Bruno 81,51,Rio de Janeiro,101,45582,Cartão,3137.29,Efetivada,2024-05-13
+753,Gustavo 62,39,Curitiba,505,96587,Pix,3990.32,Pendente,2024-01-22
+754,Daniela 76,73,Rio de Janeiro,303,37174,Pix,562.98,Efetivada,2024-02-28
+755,Carlos 98,45,Belo Horizonte,303,57318,Boleto,1743.56,Cancelada,2024-02-11
+756,Ana 42,74,São Paulo,303,52319,Cartão,4681.63,Pendente,2024-02-18
+757,Eduardo 64,24,Belo Horizonte,101,48545,Boleto,2287.55,Pendente,2024-03-27
+758,Helena 77,35,Rio de Janeiro,303,70566,DOC,2319.31,Efetivada,2024-02-13
+759,Daniela 54,42,Rio de Janeiro,101,68073,TED,1074.46,Cancelada,2024-02-21
+760,Gustavo 26,68,São Paulo,303,29372,Pix,1087.23,Pendente,2024-04-02
+761,Ana 17,42,Curitiba,202,20618,Cartão,3052.13,Efetivada,2024-02-03
+762,Bruno 42,57,Belo Horizonte,404,58363,Boleto,525.1,Pendente,2024-02-23
+763,Gustavo 5,50,Rio de Janeiro,202,37830,Pix,1612.97,Cancelada,2024-03-04
+764,Helena 15,68,Belo Horizonte,404,29729,TED,3196.3,Pendente,2024-01-22
+765,Fernanda 69,38,Porto Alegre,202,72441,DOC,2100.7,Pendente,2024-04-27
+766,Bruno 89,34,Belo Horizonte,101,93543,DOC,1044.01,Efetivada,2024-03-15
+767,Carlos 39,26,São Paulo,303,73697,TED,2332.45,Pendente,2024-05-03
+768,Fernanda 65,24,Porto Alegre,505,82123,DOC,4427.82,Efetivada,2024-02-16
+769,Carlos 24,74,Curitiba,404,43883,Boleto,3797.23,Pendente,2024-01-19
+770,Daniela 17,35,Curitiba,202,51759,Cartão,1616.78,Pendente,2024-01-26
+771,Bruno 38,70,Belo Horizonte,505,31630,TED,62.51,Cancelada,2024-04-16
+772,Gustavo 34,64,Rio de Janeiro,202,10529,Boleto,4412.87,Efetivada,2024-04-23
+773,Helena 57,26,Curitiba,202,64886,Cartão,3910.47,Efetivada,2024-05-04
+774,Daniela 52,52,Rio de Janeiro,404,47066,DOC,4694.62,Cancelada,2024-01-11
+775,Gustavo 68,58,São Paulo,101,35369,TED,335.33,Cancelada,2024-04-28
+776,Eduardo 45,24,São Paulo,101,29902,Boleto,792.56,Cancelada,2024-03-30
+777,Bruno 13,60,Porto Alegre,303,61325,DOC,561.41,Efetivada,2024-02-25
+778,Ana 72,21,Belo Horizonte,404,62802,Cartão,321.94,Cancelada,2024-03-29
+779,Ana 38,20,Rio de Janeiro,404,15343,Pix,3101.01,Efetivada,2024-02-14
+780,Bruno 69,64,Porto Alegre,303,38489,DOC,1860.46,Efetivada,2024-02-06
+781,Eduardo 76,20,Curitiba,404,70638,DOC,2191.7,Pendente,2024-04-02
+782,Gustavo 19,56,Porto Alegre,202,77157,TED,33.29,Efetivada,2024-04-27
+783,Gustavo 71,23,Porto Alegre,202,40836,Boleto,3436.8,Pendente,2024-01-13
+784,Gustavo 72,70,Rio de Janeiro,202,33091,Pix,3586.18,Efetivada,2024-05-19
+785,Helena 33,71,São Paulo,303,56381,Pix,2304.24,Efetivada,2024-01-25
+786,Helena 1,61,Curitiba,101,86454,Cartão,4730.57,Pendente,2024-03-09
+787,Ana 49,40,Belo Horizonte,202,81724,Pix,878.47,Cancelada,2024-04-14
+788,Bruno 57,61,Belo Horizonte,101,88613,DOC,4434.86,Efetivada,2024-04-05
+789,Carlos 78,33,São Paulo,202,96463,Cartão,2046.85,Pendente,2024-03-01
+790,Helena 66,53,Porto Alegre,101,92219,DOC,3914.16,Efetivada,2024-03-15
+791,Helena 85,34,Curitiba,101,12698,DOC,446.84,Cancelada,2024-04-16
+792,Fernanda 18,29,São Paulo,101,45207,DOC,3514.91,Efetivada,2024-04-14
+793,Helena 81,74,Rio de Janeiro,303,53354,Pix,2318.3,Cancelada,2024-04-03
+794,Gustavo 62,50,Belo Horizonte,101,85229,DOC,1936.89,Efetivada,2024-01-19
+795,Daniela 49,63,Porto Alegre,202,40478,Boleto,2181.15,Cancelada,2024-01-19
+796,Eduardo 89,66,São Paulo,101,58357,Pix,4633.99,Efetivada,2024-04-10
+797,Eduardo 9,19,São Paulo,303,32492,Boleto,2600.75,Pendente,2024-02-28
+798,Carlos 53,59,Porto Alegre,101,40177,TED,66.35,Pendente,2024-01-10
+799,Carlos 79,46,Porto Alegre,404,58865,DOC,4327.93,Efetivada,2024-01-20
+800,Carlos 32,48,Belo Horizonte,202,54197,Cartão,1891.86,Efetivada,2024-05-24
+801,Carlos 3,36,São Paulo,505,18703,Cartão,2379.03,Cancelada,2024-04-23
+802,Gustavo 56,44,Belo Horizonte,404,35097,Cartão,3496.11,Pendente,2024-01-19
+803,Eduardo 87,46,Belo Horizonte,101,72787,DOC,4963.72,Cancelada,2024-02-08
+804,Eduardo 27,35,Rio de Janeiro,101,68410,Pix,3965.6,Pendente,2024-01-13
+805,Bruno 36,71,Rio de Janeiro,101,44827,Boleto,3794.65,Cancelada,2024-03-08
+806,Bruno 55,35,São Paulo,404,75986,Pix,4657.26,Efetivada,2024-04-08
+807,Carlos 7,21,Rio de Janeiro,404,40799,TED,543.48,Pendente,2024-01-28
+808,Eduardo 16,74,Belo Horizonte,303,12114,Boleto,4922.41,Pendente,2024-04-03
+809,Helena 40,38,São Paulo,303,99392,Cartão,4281.52,Efetivada,2024-01-22
+810,Ana 16,70,Rio de Janeiro,303,90579,DOC,4870.85,Cancelada,2024-04-04
+811,Fernanda 58,41,Rio de Janeiro,303,21631,TED,650.05,Pendente,2024-01-28
+812,Gustavo 12,56,Curitiba,202,47874,TED,2813.59,Pendente,2024-05-05
+813,Bruno 68,50,São Paulo,101,52068,Pix,3342.55,Pendente,2024-02-28
+814,Daniela 35,27,Belo Horizonte,202,54572,TED,4188.15,Efetivada,2024-05-08
+815,Helena 45,58,Belo Horizonte,404,34038,Pix,3499.61,Pendente,2024-04-07
+816,Gustavo 37,62,Belo Horizonte,101,32938,Boleto,4710.58,Efetivada,2024-02-16
+817,Gustavo 22,43,Belo Horizonte,404,27151,Pix,2245.12,Efetivada,2024-05-30
+818,Fernanda 59,34,São Paulo,202,22930,TED,3092.62,Pendente,2024-01-03
+819,Carlos 37,53,Rio de Janeiro,404,68346,Cartão,1132.42,Cancelada,2024-03-16
+820,Carlos 56,64,Porto Alegre,404,59615,DOC,4582.6,Cancelada,2024-03-08
+821,Carlos 76,56,São Paulo,505,73238,TED,453.48,Pendente,2024-02-19
+822,Helena 31,67,São Paulo,505,94084,DOC,4637.08,Cancelada,2024-02-16
+823,Helena 91,26,Porto Alegre,505,85744,TED,307.54,Pendente,2024-03-11
+824,Helena 54,73,São Paulo,101,49182,TED,1523.34,Cancelada,2024-03-18
+825,Eduardo 53,59,Curitiba,404,88446,Pix,3659.5,Cancelada,2024-04-27
+826,Ana 19,36,Rio de Janeiro,303,73672,DOC,2228.24,Efetivada,2024-01-13
+827,Carlos 25,26,Porto Alegre,303,83707,Boleto,4425.3,Efetivada,2024-03-01
+828,Gustavo 59,48,Rio de Janeiro,505,73483,Boleto,3842.0,Efetivada,2024-05-16
+829,Eduardo 26,57,Belo Horizonte,101,12847,Boleto,2641.7,Pendente,2024-05-10
+830,Eduardo 88,71,Curitiba,505,20172,Cartão,1710.47,Efetivada,2024-04-26
+831,Ana 1,70,Rio de Janeiro,303,70024,TED,875.86,Cancelada,2024-04-09
+832,Helena 8,34,Belo Horizonte,505,14342,Cartão,3071.47,Pendente,2024-04-24
+833,Eduardo 70,29,Rio de Janeiro,404,52547,DOC,3153.34,Pendente,2024-04-01
+834,Eduardo 78,36,Curitiba,303,57513,Cartão,2632.76,Pendente,2024-04-11
+835,Bruno 26,66,Belo Horizonte,101,78213,DOC,728.77,Cancelada,2024-04-22
+836,Eduardo 44,47,Curitiba,505,20980,Boleto,2934.9,Efetivada,2024-04-17
+837,Helena 87,51,Rio de Janeiro,303,35043,TED,3727.93,Efetivada,2024-03-07
+838,Fernanda 22,66,São Paulo,202,85594,Boleto,4283.8,Efetivada,2024-02-03
+839,Eduardo 78,55,Curitiba,101,13629,Pix,1888.15,Efetivada,2024-03-14
+840,Bruno 59,43,Belo Horizonte,101,15072,Pix,4008.96,Pendente,2024-02-13
+841,Gustavo 21,55,Rio de Janeiro,303,94272,DOC,2760.15,Cancelada,2024-02-01
+842,Ana 80,40,Porto Alegre,101,72523,DOC,1903.05,Efetivada,2024-02-23
+843,Bruno 73,69,Belo Horizonte,202,51439,Pix,2638.9,Efetivada,2024-02-21
+844,Daniela 89,25,Rio de Janeiro,505,95784,TED,1038.63,Cancelada,2024-05-14
+845,Helena 54,44,Rio de Janeiro,505,32408,DOC,4794.02,Efetivada,2024-02-17
+846,Carlos 12,72,Porto Alegre,303,42664,Boleto,2912.25,Efetivada,2024-03-10
+847,Fernanda 36,44,São Paulo,505,81965,Boleto,2709.8,Pendente,2024-04-24
+848,Bruno 5,20,Rio de Janeiro,404,12820,Cartão,4737.22,Efetivada,2024-04-06
+849,Bruno 4,34,Curitiba,404,42654,TED,3655.28,Cancelada,2024-04-15
+850,Helena 97,25,Curitiba,404,61214,Pix,2535.32,Efetivada,2024-02-28
+851,Eduardo 28,57,Belo Horizonte,202,95134,Boleto,3084.21,Cancelada,2024-02-09
+852,Ana 59,71,Belo Horizonte,404,85407,DOC,3651.52,Cancelada,2024-02-23
+853,Eduardo 95,27,Curitiba,505,32080,Cartão,2594.96,Cancelada,2024-03-14
+854,Fernanda 69,64,Curitiba,202,91934,Cartão,3535.69,Pendente,2024-02-01
+855,Helena 13,19,Porto Alegre,303,81875,Pix,1597.27,Cancelada,2024-01-08
+856,Carlos 96,70,Porto Alegre,202,27108,Cartão,134.85,Pendente,2024-01-29
+857,Bruno 5,31,Curitiba,505,92635,Cartão,2607.58,Efetivada,2024-05-24
+858,Carlos 39,54,Belo Horizonte,202,21406,DOC,2186.77,Cancelada,2024-03-23
+859,Bruno 67,54,São Paulo,303,31824,Cartão,578.46,Efetivada,2024-02-10
+860,Fernanda 26,55,Rio de Janeiro,303,56474,Pix,510.48,Efetivada,2024-04-04
+861,Eduardo 49,51,Curitiba,505,94507,Boleto,121.39,Efetivada,2024-05-28
+862,Carlos 89,21,Belo Horizonte,505,56887,DOC,3664.86,Cancelada,2024-05-19
+863,Fernanda 28,29,Porto Alegre,202,66934,Pix,3156.42,Pendente,2024-03-18
+864,Daniela 83,59,Curitiba,404,93772,Pix,954.66,Efetivada,2024-03-14
+865,Ana 96,75,Rio de Janeiro,202,58253,TED,4850.35,Efetivada,2024-01-29
+866,Gustavo 71,35,Porto Alegre,303,61855,Pix,1928.64,Pendente,2024-03-02
+867,Eduardo 52,36,Curitiba,101,86250,Cartão,883.22,Cancelada,2024-04-19
+868,Eduardo 48,65,São Paulo,101,18367,Pix,1076.74,Efetivada,2024-03-03
+869,Ana 55,70,Rio de Janeiro,101,80196,Boleto,1185.98,Efetivada,2024-01-26
+870,Eduardo 40,70,Curitiba,303,83699,DOC,3425.21,Cancelada,2024-01-20
+871,Bruno 14,29,Porto Alegre,303,17602,Boleto,823.5,Cancelada,2024-02-26
+872,Carlos 79,50,Porto Alegre,101,59244,TED,233.36,Efetivada,2024-05-12
+873,Daniela 60,63,Belo Horizonte,404,18663,Cartão,1727.63,Cancelada,2024-02-23
+874,Daniela 94,35,Curitiba,101,11790,Boleto,1484.85,Cancelada,2024-04-20
+875,Daniela 61,58,Belo Horizonte,505,17787,Boleto,571.87,Cancelada,2024-05-15
+876,Eduardo 4,47,Rio de Janeiro,303,35775,Cartão,1327.51,Pendente,2024-02-23
+877,Fernanda 90,60,Belo Horizonte,101,59063,TED,2185.29,Efetivada,2024-03-31
+878,Eduardo 47,66,Belo Horizonte,303,33802,Boleto,2761.93,Pendente,2024-04-08
+879,Fernanda 87,29,Rio de Janeiro,505,45095,Cartão,3135.94,Efetivada,2024-02-29
+880,Daniela 85,45,Porto Alegre,101,75702,Cartão,4710.57,Pendente,2024-04-12
+881,Daniela 5,68,Curitiba,202,92970,DOC,2489.74,Cancelada,2024-03-18
+882,Fernanda 93,56,Belo Horizonte,505,60937,Boleto,4970.47,Efetivada,2024-03-17
+883,Helena 94,48,Porto Alegre,303,39292,DOC,2896.62,Cancelada,2024-01-16
+884,Daniela 53,60,Porto Alegre,303,27745,TED,4107.21,Pendente,2024-03-05
+885,Bruno 72,49,Porto Alegre,404,44342,Cartão,933.56,Cancelada,2024-05-01
+886,Fernanda 89,39,Porto Alegre,505,23955,Pix,2253.32,Efetivada,2024-03-02
+887,Bruno 85,65,São Paulo,202,89681,DOC,3030.73,Efetivada,2024-01-25
+888,Ana 10,37,Belo Horizonte,101,54954,Boleto,1096.95,Efetivada,2024-04-29
+889,Carlos 83,26,Rio de Janeiro,303,45107,Pix,4893.59,Cancelada,2024-04-21
+890,Helena 12,74,Belo Horizonte,505,29421,Boleto,4957.95,Cancelada,2024-04-10
+891,Carlos 40,72,Rio de Janeiro,404,36959,Cartão,2097.29,Cancelada,2024-04-17
+892,Daniela 35,65,Curitiba,101,79297,DOC,4380.0,Pendente,2024-05-10
+893,Carlos 27,37,Curitiba,202,95758,Boleto,217.51,Cancelada,2024-03-06
+894,Eduardo 72,50,Belo Horizonte,303,84179,DOC,3059.32,Cancelada,2024-02-21
+895,Daniela 54,65,Curitiba,202,74044,DOC,832.47,Efetivada,2024-04-04
+896,Fernanda 33,73,Porto Alegre,505,78579,DOC,4755.73,Pendente,2024-05-23
+897,Carlos 49,68,Rio de Janeiro,505,94832,Pix,2714.21,Cancelada,2024-02-15
+898,Fernanda 42,33,Curitiba,303,21908,Boleto,4874.64,Pendente,2024-05-02
+899,Carlos 61,41,Rio de Janeiro,404,55078,DOC,36.29,Efetivada,2024-01-16
+900,Bruno 78,27,Porto Alegre,101,76813,TED,266.61,Cancelada,2024-02-15
+901,Bruno 75,62,Rio de Janeiro,202,96171,Cartão,3883.16,Pendente,2024-03-04
+902,Gustavo 28,45,Curitiba,505,21742,Boleto,912.64,Cancelada,2024-02-27
+903,Carlos 59,18,Rio de Janeiro,505,13360,TED,645.71,Efetivada,2024-05-15
+904,Helena 76,50,Belo Horizonte,404,87239,Cartão,4000.09,Pendente,2024-04-03
+905,Eduardo 77,34,Porto Alegre,101,18873,Cartão,4662.05,Cancelada,2024-02-21
+906,Fernanda 17,48,Rio de Janeiro,505,46925,Pix,1644.3,Pendente,2024-02-19
+907,Gustavo 81,52,São Paulo,202,33777,TED,2364.49,Efetivada,2024-01-09
+908,Eduardo 8,62,Curitiba,202,43741,Boleto,3763.89,Pendente,2024-05-08
+909,Daniela 48,19,São Paulo,505,67923,TED,4807.28,Cancelada,2024-05-07
+910,Daniela 87,58,Belo Horizonte,202,38744,Pix,4738.1,Efetivada,2024-04-19
+911,Carlos 71,19,Curitiba,505,37033,Pix,2187.05,Efetivada,2024-04-18
+912,Ana 55,26,Rio de Janeiro,505,44795,Boleto,1158.48,Pendente,2024-04-14
+913,Ana 16,31,Rio de Janeiro,202,19033,TED,4083.0,Efetivada,2024-01-01
+914,Helena 16,21,Belo Horizonte,101,76412,TED,4057.7,Pendente,2024-02-21
+915,Fernanda 82,69,Porto Alegre,303,97577,Boleto,1982.13,Efetivada,2024-01-19
+916,Fernanda 29,48,Rio de Janeiro,505,88431,Pix,1281.71,Pendente,2024-01-19
+917,Ana 6,29,Curitiba,303,45562,Boleto,2407.99,Efetivada,2024-01-20
+918,Daniela 53,25,Porto Alegre,202,59070,Pix,773.79,Efetivada,2024-03-19
+919,Daniela 58,48,Rio de Janeiro,404,61420,Boleto,76.8,Cancelada,2024-01-06
+920,Fernanda 80,50,Rio de Janeiro,404,37857,Pix,159.72,Pendente,2024-05-19
+921,Eduardo 85,22,Curitiba,505,80065,TED,545.91,Efetivada,2024-05-13
+922,Helena 44,49,Rio de Janeiro,404,17241,TED,2366.87,Efetivada,2024-05-30
+923,Ana 84,63,Belo Horizonte,202,81888,Pix,179.36,Cancelada,2024-04-01
+924,Ana 43,67,Porto Alegre,202,85370,DOC,4076.38,Pendente,2024-01-22
+925,Helena 30,24,São Paulo,101,25959,Pix,2198.14,Pendente,2024-03-31
+926,Daniela 16,71,Belo Horizonte,505,25622,DOC,3601.96,Pendente,2024-05-07
+927,Gustavo 25,74,Rio de Janeiro,202,77555,Cartão,1363.45,Cancelada,2024-04-25
+928,Ana 4,64,Belo Horizonte,101,97620,TED,4585.72,Pendente,2024-01-28
+929,Eduardo 6,63,Belo Horizonte,202,65398,TED,2694.19,Cancelada,2024-02-19
+930,Helena 20,31,Belo Horizonte,404,24284,Pix,2839.75,Pendente,2024-02-20
+931,Eduardo 36,47,Porto Alegre,303,62689,Boleto,4454.29,Pendente,2024-01-06
+932,Gustavo 49,61,Rio de Janeiro,505,49917,Pix,2841.17,Cancelada,2024-05-21
+933,Daniela 5,75,São Paulo,202,92141,DOC,4618.62,Pendente,2024-01-09
+934,Carlos 10,20,Curitiba,404,21082,Cartão,4889.15,Cancelada,2024-05-09
+935,Carlos 94,22,Rio de Janeiro,202,96087,Pix,174.51,Cancelada,2024-03-28
+936,Daniela 60,37,Porto Alegre,505,73932,DOC,2461.22,Efetivada,2024-04-07
+937,Ana 16,19,São Paulo,303,44524,TED,2356.87,Efetivada,2024-02-08
+938,Helena 76,46,Curitiba,404,71199,Cartão,3082.97,Cancelada,2024-01-24
+939,Ana 36,39,Porto Alegre,505,97904,Cartão,1112.55,Pendente,2024-02-23
+940,Helena 3,47,Belo Horizonte,303,62694,Boleto,1903.98,Efetivada,2024-05-06
+941,Ana 34,46,Porto Alegre,505,31372,Cartão,4953.05,Pendente,2024-03-30
+942,Daniela 73,72,Rio de Janeiro,505,10189,TED,4475.67,Cancelada,2024-05-24
+943,Eduardo 96,61,Curitiba,202,54242,DOC,1458.97,Cancelada,2024-04-14
+944,Carlos 36,39,Curitiba,505,26046,DOC,3730.86,Cancelada,2024-02-02
+945,Gustavo 81,67,Curitiba,404,39420,TED,2619.98,Efetivada,2024-04-08
+946,Ana 54,31,São Paulo,505,26272,Pix,2068.73,Pendente,2024-02-26
+947,Carlos 24,31,São Paulo,404,31909,Boleto,704.0,Efetivada,2024-05-06
+948,Carlos 8,46,Porto Alegre,303,52406,Cartão,1226.24,Pendente,2024-03-08
+949,Daniela 12,39,Porto Alegre,505,73030,Cartão,4157.25,Cancelada,2024-05-01
+950,Bruno 84,66,São Paulo,303,46723,Boleto,4373.43,Pendente,2024-04-03
+951,Ana 36,39,Belo Horizonte,303,54476,TED,1971.49,Efetivada,2024-01-02
+952,Gustavo 91,24,Rio de Janeiro,404,40251,Boleto,4980.45,Cancelada,2024-04-17
+953,Eduardo 75,70,Curitiba,404,78308,Boleto,1474.95,Efetivada,2024-05-20
+954,Daniela 24,34,Porto Alegre,404,51432,TED,2659.66,Cancelada,2024-03-31
+955,Carlos 90,22,Curitiba,303,90120,Cartão,1705.07,Pendente,2024-03-20
+956,Helena 2,69,Porto Alegre,404,69535,Boleto,3039.21,Cancelada,2024-03-20
+957,Daniela 35,56,São Paulo,101,93664,Cartão,2954.88,Cancelada,2024-05-08
+958,Carlos 45,44,Belo Horizonte,404,96685,Boleto,4416.47,Pendente,2024-03-04
+959,Gustavo 82,28,Porto Alegre,404,47972,Pix,206.14,Cancelada,2024-05-01
+960,Fernanda 1,71,Belo Horizonte,303,25414,Boleto,1668.88,Pendente,2024-03-31
+961,Eduardo 85,63,Rio de Janeiro,101,84724,DOC,4970.92,Pendente,2024-03-28
+962,Ana 53,18,Porto Alegre,101,73785,Pix,3597.24,Pendente,2024-02-15
+963,Eduardo 29,32,Porto Alegre,202,19223,TED,3762.38,Efetivada,2024-04-28
+964,Daniela 1,45,Rio de Janeiro,202,29000,Pix,86.17,Efetivada,2024-02-08
+965,Bruno 93,67,Porto Alegre,101,84924,Pix,2726.87,Efetivada,2024-02-19
+966,Helena 4,28,Belo Horizonte,404,40388,Boleto,1350.66,Efetivada,2024-04-02
+967,Bruno 89,71,Porto Alegre,404,76194,DOC,1734.65,Pendente,2024-02-21
+968,Bruno 60,19,Porto Alegre,404,68605,DOC,1990.06,Pendente,2024-05-08
+969,Fernanda 64,46,São Paulo,101,35095,DOC,3989.22,Efetivada,2024-02-15
+970,Bruno 41,65,Rio de Janeiro,101,85770,Boleto,4347.52,Cancelada,2024-04-08
+971,Helena 89,49,São Paulo,202,70253,Cartão,4593.55,Cancelada,2024-02-04
+972,Gustavo 6,19,São Paulo,505,95855,Pix,876.2,Efetivada,2024-01-22
+973,Helena 66,40,Rio de Janeiro,505,65720,TED,403.34,Pendente,2024-02-13
+974,Daniela 69,24,Porto Alegre,404,68971,Pix,4787.42,Pendente,2024-04-18
+975,Bruno 49,40,São Paulo,202,55535,TED,759.61,Cancelada,2024-02-13
+976,Daniela 60,45,São Paulo,202,56657,Pix,4067.71,Cancelada,2024-02-05
+977,Daniela 32,39,Porto Alegre,303,95931,Pix,103.38,Efetivada,2024-03-16
+978,Helena 46,32,São Paulo,202,54883,Cartão,1393.93,Cancelada,2024-05-13
+979,Fernanda 34,64,Rio de Janeiro,404,50409,DOC,1483.41,Cancelada,2024-02-27
+980,Eduardo 16,70,São Paulo,505,57246,Cartão,3696.44,Efetivada,2024-01-28
+981,Daniela 48,64,Porto Alegre,303,12619,TED,3077.45,Pendente,2024-01-07
+982,Carlos 61,52,Curitiba,303,87554,DOC,1108.33,Efetivada,2024-05-27
+983,Fernanda 31,57,Belo Horizonte,505,50633,Boleto,471.16,Pendente,2024-04-10
+984,Eduardo 77,25,Belo Horizonte,404,96584,Cartão,645.33,Cancelada,2024-01-16
+985,Fernanda 55,28,São Paulo,101,61408,Pix,2538.13,Efetivada,2024-01-08
+986,Eduardo 89,61,Rio de Janeiro,202,99377,DOC,3760.66,Cancelada,2024-04-12
+987,Helena 17,72,São Paulo,505,45049,DOC,1546.04,Pendente,2024-03-16
+988,Daniela 27,20,São Paulo,505,22791,TED,4166.06,Efetivada,2024-02-27
+989,Carlos 65,22,Rio de Janeiro,404,13919,Cartão,967.76,Pendente,2024-01-21
+990,Helena 76,71,Curitiba,202,59276,Boleto,2296.83,Efetivada,2024-03-27
+991,Daniela 13,55,Rio de Janeiro,505,76131,TED,4937.04,Cancelada,2024-03-04
+992,Daniela 77,19,Porto Alegre,505,88494,DOC,3707.07,Cancelada,2024-04-29
+993,Fernanda 31,24,Belo Horizonte,505,25014,Pix,4950.86,Pendente,2024-04-07
+994,Fernanda 47,29,Curitiba,404,90718,Cartão,2837.63,Efetivada,2024-01-06
+995,Ana 96,33,Curitiba,404,38154,Cartão,4815.4,Cancelada,2024-02-29
+996,Daniela 84,33,Porto Alegre,101,54082,Cartão,2758.26,Pendente,2024-02-16
+997,Eduardo 57,30,Belo Horizonte,101,54468,TED,149.81,Cancelada,2024-05-16
+998,Gustavo 92,74,Rio de Janeiro,404,68584,Pix,2089.4,Cancelada,2024-02-07
+999,Fernanda 25,59,Curitiba,404,86381,DOC,1613.69,Efetivada,2024-02-09
+1000,Eduardo 10,29,Rio de Janeiro,101,58869,Pix,680.61,Pendente,2024-02-17
