@@ -1,0 +1,665 @@
+﻿Data       ;País ;Capital      ;Continente     ;Dispositivos Conectados;Tipo de Acesso;Tempo Média de Acesso
+21/02/2023;Nepal;Catmandu;Ásia;1675;Microsoft Edge;21:17:16
+10/01/2023;Essuatíni;Lobamba;África;838;Chrome;18:31:31
+11/03/2023;Sudão do Sul;Juba;África;1750;Safari ;14:55:12
+11/02/2023;Canadá;Otava;América;1007;iPhone;02:39:53
+17/02/2023;Maldivas;Malé;Ásia;770;Firefox;22:01:40
+09/03/2023;Palau;Ngerulmud;Oceania;2646;Microsoft Edge;14:22:48
+29/01/2023;Guatemala;Cidade da Guatemala;América;2431;Cellphone;07:15:56
+23/02/2023;Salvador;São Salvador;América;1065;Firefox;19:29:42
+01/02/2023;Gâmbia;Banjul;África;1405;iPad;20:33:19
+13/03/2023;Guiné-Bissau;Bissau;África;1041;Playstation;13:50:31
+14/02/2023;Arménia;Erevã;Ásia;1755;Tv Smart;12:52:46
+07/01/2023;Filipinas;Manila;Ásia;2206;Chrome;07:34:16
+25/01/2023;Fiji;Suva;Oceania;2494;Playstation;12:29:21
+10/03/2023;Alemanha;Berlim;Europa;1628;Playstation;01:24:44
+10/01/2023;Namíbia;Vinduque;África;1130;Notebook;23:48:25
+28/01/2023;Barbados;Bridgetown;América;2050;Cellphone;14:37:57
+14/03/2023;Barbados;Bridgetown;América;2568;Safari ;04:56:40
+18/01/2023;Congo-Brazzaville;Brazavile;África;1485;Firefox;05:23:32
+12/03/2023;Cuaite;Cidade do Cuaite;Ásia;1450;Apple TV;21:30:53
+04/02/2023;Timor-Leste;Díli;Oceania;1669;Firefox;18:42:05
+25/01/2023;Samoa;Apia;Oceania;2133;Box Android;01:35:06
+27/01/2023;Maurícia;Porto Luís;África;908;Playstation;20:09:00
+29/03/2023;Brasil;Brasília;América;1060;Apple TV;00:56:32
+21/02/2023;Bangladexe;Daca;Ásia;2017;Playstation;20:43:58
+23/02/2023;Turquia;Ancara;Ásia;2293;iPhone;17:38:11
+08/03/2023;Gâmbia;Banjul;África;1058;Tv Smart;14:58:54
+04/01/2023;Serra Leoa;Freetown;África;1904;iPhone;11:25:05
+01/03/2023;Filipinas;Manila;Ásia;2205;Box Android;04:35:03
+18/03/2023;Nauru;Iarém;Oceania;1126;Safari ;10:03:58
+10/03/2023;São Vicente e Granadinas;Kingstown;América;2312;Cellphone;19:00:36
+22/01/2023;Mianmar;Nepiedó;Ásia;1737;iPhone;09:03:42
+22/03/2023;Usbequistão;Tasquente;Ásia;1521;Cellphone;19:19:12
+09/03/2023;Itália;Roma;Europa;2199;Xbox;07:21:51
+03/03/2023;Gana;Acra;África;1556;Tv Smart;22:03:32
+29/03/2023;Cuba;Havana;América;1809;iPhone;14:27:03
+02/02/2023;Fiji;Suva;Oceania;1448;PC;03:53:41
+10/02/2023;Albânia;Tirana;Europa;1417;Apple TV;18:33:12
+24/03/2023;Chade;Jamena;África;2448;Microsoft Edge;16:02:17
+16/03/2023;Marrocos;Rebate;África;2114;Microsoft Edge;16:12:25
+27/03/2023;Cuba;Havana;América;1365;Notebook;18:14:50
+11/01/2023;Síria;Damasco;Ásia;1759;Tv Smart;07:22:49
+07/01/2023;Japão;Tóquio;Ásia;871;iPhone;22:45:09
+22/01/2023;Tonga;Nucualofa;Oceania;2167;Tv Smart;09:19:18
+19/02/2023;Índia;Nova Déli;Ásia;1938;Apple TV;08:47:17
+26/01/2023;República Democrática do Congo;Quinxassa;África;2343;iPhone;16:16:00
+02/01/2023;Turquia;Ancara;Ásia;2222;iPhone;04:09:55
+12/03/2023;África do Sul;Pretória;África;808;Firefox;13:05:57
+23/01/2023;Colômbia;Bogotá;América;1217;Notebook;03:25:44
+12/03/2023;Papua Nova Guiné;Porto Moresby;Oceania;1039;Playstation;09:33:31
+24/03/2023;Taiuã;Taipé;Ásia;2115;Microsoft Edge;21:32:08
+06/01/2023;Guiné;Conacri;África;1986;iPad;21:22:22
+14/01/2023;Arménia;Erevã;Ásia;1229;Notebook;22:54:05
+20/01/2023;Chile;Santiago;América;1762;Firefox;06:05:00
+24/03/2023;Uruguai;Montevideu;América;1574;Safari ;09:57:11
+05/03/2023;Guiana;Georgetown;América;1081;Cellphone;00:59:48
+16/02/2023;Maldivas;Malé;Ásia;2613;Microsoft Edge;21:16:15
+14/02/2023;Togo;Lomé;África;848;Box Android;17:00:39
+12/03/2023;Cosovo;Pristina;Europa;2339;Chrome;02:52:11
+26/02/2023;Sudão do Sul;Juba;África;1952;Playstation;14:19:10
+09/01/2023;Israel;Jerusalém;Ásia;2588;Box Android;20:28:31
+14/02/2023;Hungria;Budapeste;Europa;759;Xbox;10:35:52
+03/02/2023;Fiji;Suva;Oceania;2235;PC;17:43:50
+09/02/2023;Quiribáti;Taraua do Sul;Oceania;1974;iPhone;11:57:40
+06/03/2023;Finlândia;Helsínquia;Europa;2394;iPhone;20:07:21
+24/03/2023;Guiana;Georgetown;América;1447;Microsoft Edge;13:58:42
+03/01/2023;Micronésia;Paliquir;Oceania;1659;PC;15:36:46
+02/01/2023;Nicarágua;Manágua;América;1328;iPad;05:26:23
+16/02/2023;Nova Zelândia;Wellington;Oceania;1571;Apple TV;17:15:43
+15/01/2023;Mongólia;Ulã Bator;Ásia;1963;Cellphone;02:53:38
+04/03/2023;Maláui;Lilôngue;África;1651;Playstation;03:02:59
+01/03/2023;Namíbia;Vinduque;África;1347;iPhone;23:00:25
+06/03/2023;Sudão;Cartum;África;2467;Firefox;17:21:31
+06/01/2023;São Vicente e Granadinas;Kingstown;América;2101;Cellphone;19:52:57
+06/01/2023;Arménia;Erevã;Ásia;2044;PC;20:53:34
+20/02/2023;Chade;Jamena;África;1143;Firefox;05:10:11
+15/01/2023;Reino Unido;Londres;Europa;2608;Notebook;09:33:50
+15/01/2023;Líbano;Beirute;Ásia;2186;Apple TV;10:27:16
+28/02/2023;Brunei;Bandar Seri Begauã;Ásia;849;Xbox;12:31:39
+26/03/2023;Laus;Vienciana;Ásia;1042;Tv Smart;10:52:11
+02/03/2023;Equador;Quito;América;2627;Microsoft Edge;17:05:58
+25/03/2023;Ucrânia;Quieve;Europa;1761;iPhone;07:09:49
+26/01/2023;Noruega;Oslo;Europa;2162;iPad;06:14:30
+19/01/2023;Bélgica;Bruxelas;Europa;1967;Chrome;00:47:48
+25/02/2023;Uruguai;Montevideu;América;2272;Notebook;06:28:50
+26/01/2023;Uganda;Campala;África;1419;iPad;09:07:13
+15/01/2023;Seicheles;Vitória;África;2204;iPad;12:27:47
+08/01/2023;Granada;São Jorge;América;2347;Cellphone;22:41:06
+11/03/2023;Guiana;Georgetown;América;1848;Safari ;07:15:26
+09/03/2023;Jamaica;Kingston;América;1649;Playstation;21:01:39
+21/03/2023;Cuba;Havana;América;1734;Chrome;06:59:48
+13/02/2023;Países Baixos;Amesterdão;Europa;2556;Box Android;06:49:49
+22/01/2023;Lituânia;Vílnius;Europa;1440;Cellphone;15:15:39
+02/01/2023;Malta;Valeta;Europa;2279;iPhone;14:51:18
+10/03/2023;Venezuela;Caracas;América;1213;Microsoft Edge;00:21:20
+18/02/2023;Laus;Vienciana;Ásia;1289;Box Android;05:00:24
+06/02/2023;Letónia;Riga;Europa;939;Safari ;19:57:48
+19/03/2023;Bolívia;Sucre;América;1805;PC;21:12:12
+27/03/2023;Seicheles;Vitória;África;2192;iPad;13:54:20
+25/02/2023;Paquistão;Islamabade;Ásia;801;Firefox;00:16:20
+04/01/2023;África do Sul;Pretória;África;919;Microsoft Edge;00:51:14
+28/01/2023;Luxemburgo;Luxemburgo;Europa;1554;PC;07:43:21
+11/03/2023;Síria;Damasco;Ásia;2180;Apple TV;11:38:53
+06/03/2023;Salvador;São Salvador;América;2114;Firefox;12:34:59
+23/02/2023;São Cristóvão e Neves;Basseterre;América;1871;Safari ;03:05:48
+30/01/2023;Benim;Porto Novo;África;1661;iPad;19:39:40
+09/01/2023;Eslováquia;Bratislava;Europa;1539;Tv Smart;04:53:21
+17/01/2023;Tajiquistão;Duchambé;Ásia;1087;Playstation;21:26:10
+25/02/2023;Nicarágua;Manágua;América;2614;Tv Smart;19:37:10
+25/02/2023;Uganda;Campala;África;1936;PC;13:01:58
+25/03/2023;Hungria;Budapeste;Europa;2497;Apple TV;08:02:29
+01/02/2023;Coreia do Norte;Pionguiangue;Ásia;1405;Safari ;01:03:16
+24/03/2023;Arábia Saudita;Riade;Ásia;1710;Tv Smart;02:55:50
+21/02/2023;Vietname;Hanói;Ásia;1466;Box Android;12:04:55
+02/01/2023;Fiji;Suva;Oceania;2550;Notebook;01:50:40
+03/01/2023;Argélia;Argel;África;1787;Apple TV;21:38:54
+05/03/2023;Senegal;Dacar;África;914;Tv Smart;03:10:35
+02/02/2023;Tailândia;Banguecoque;Ásia;937;PC;10:20:14
+20/01/2023;República Dominicana;São Domingos;América;2138;iPad;13:01:32
+24/01/2023;Alemanha;Berlim;Europa;1260;Microsoft Edge;08:34:48
+28/03/2023;Malta;Valeta;Europa;2372;Cellphone;04:25:52
+02/03/2023;Namíbia;Vinduque;África;2484;Xbox;21:59:33
+25/02/2023;Alemanha;Berlim;Europa;1352;Microsoft Edge;17:45:58
+05/02/2023;Salomão;Honiara;Oceania;901;Apple TV;18:07:56
+03/01/2023;Vanuatu;Porto Vila;Oceania;2073;Microsoft Edge;16:46:40
+28/03/2023;Azerbaijão;Bacu;Ásia;913;Firefox;01:00:48
+15/02/2023;Honduras;Tegucigalpa;América;1463;iPhone;08:01:50
+19/01/2023;Tajiquistão;Duchambé;Ásia;1436;PC;07:37:36
+12/01/2023;Rússia;Moscovo;Europa;2415;Firefox;07:13:01
+18/03/2023;Áustria;Viena;Europa;1959;PC;18:10:55
+07/03/2023;Bolívia;Sucre;América;2164;Notebook;12:27:29
+25/01/2023;Estados Unidos;Washington, D.C.;América;1095;Safari ;22:03:46
+16/02/2023;Áustria;Viena;Europa;802;Notebook;19:44:09
+02/02/2023;Iémen;Saná;Ásia;1244;Notebook;20:13:08
+06/03/2023;Taiuã;Taipé;Ásia;772;Chrome;13:41:40
+02/03/2023;Botsuana;Gaborone;África;2094;Tv Smart;08:44:35
+28/03/2023;Guatemala;Cidade da Guatemala;América;871;Box Android;07:34:08
+07/02/2023;Filipinas;Manila;Ásia;1216;Playstation;08:45:03
+24/01/2023;Lituânia;Vílnius;Europa;715;Notebook;22:13:45
+23/01/2023;Índia;Nova Déli;Ásia;781;Cellphone;13:05:13
+29/01/2023;Brunei;Bandar Seri Begauã;Ásia;1085;Playstation;06:20:49
+07/01/2023;Tanzânia;Dodoma;África;1000;Cellphone;11:44:43
+28/03/2023;Cosovo;Pristina;Europa;1830;Playstation;19:18:49
+07/02/2023;Finlândia;Helsínquia;Europa;1669;Tv Smart;03:18:11
+06/01/2023;Bangladexe;Daca;Ásia;2043;Firefox;08:57:44
+22/03/2023;Vietname;Hanói;Ásia;1186;Box Android;02:26:43
+06/03/2023;Timor-Leste;Díli;Oceania;1369;Firefox;01:29:00
+12/03/2023;Micronésia;Paliquir;Oceania;1610;Playstation;22:15:01
+13/03/2023;Omã;Mascate;Ásia;698;Safari ;23:05:46
+06/01/2023;Líbano;Beirute;Ásia;1456;Chrome;14:01:08
+21/02/2023;Estónia;Talim;Europa;697;Cellphone;20:31:41
+22/01/2023;Burquina Faso;Uagadugu;África;1691;Cellphone;23:18:42
+02/01/2023;Albânia;Tirana;Europa;2081;Safari ;19:18:40
+09/01/2023;Mianmar;Nepiedó;Ásia;893;Playstation;10:56:51
+09/03/2023;Nauru;Iarém;Oceania;1732;Box Android;22:34:08
+28/02/2023;Omã;Mascate;Ásia;2498;Tv Smart;15:05:16
+09/03/2023;Salomão;Honiara;Oceania;2342;iPhone;13:27:32
+12/02/2023;Camboja;Pnom Pene;Ásia;1865;iPad;21:41:25
+06/02/2023;Afeganistão;Cabul;Ásia;1788;Safari ;11:51:20
+09/02/2023;Portugal;Lisboa;Europa;2281;Xbox;09:23:52
+25/01/2023;Azerbaijão;Bacu;Ásia;1129;Box Android;11:01:11
+14/03/2023;Jibuti;Jibuti;África;2583;PC;18:24:57
+27/03/2023;Guiné Equatorial;Malabo;África;833;Microsoft Edge;00:32:35
+14/02/2023;Ucrânia;Quieve;Europa;1927;Safari ;11:22:37
+15/03/2023;Austrália;Camberra;Oceania;2387;Safari ;22:57:12
+12/02/2023;Tonga;Nucualofa;Oceania;1367;Safari ;15:12:02
+11/03/2023;África do Sul;Pretória;África;1449;iPad;16:21:29
+13/02/2023;Tajiquistão;Duchambé;Ásia;1369;iPad;00:43:56
+24/02/2023;São Vicente e Granadinas;Kingstown;América;1221;Xbox;02:58:04
+03/02/2023;Granada;São Jorge;América;2263;Playstation;16:25:35
+23/01/2023;Bélgica;Bruxelas;Europa;1448;PC;01:18:13
+09/03/2023;Libéria;Monróvia;África;1196;Firefox;09:43:18
+25/01/2023;República Centro-Africana;Bangui;África;2324;Chrome;10:03:30
+11/03/2023;Coreia do Norte;Pionguiangue;Ásia;897;Safari ;05:38:59
+26/01/2023;Roménia;Bucareste;Europa;2126;iPad;05:27:39
+17/01/2023;Peru;Lima;América;1820;Chrome;06:39:16
+24/03/2023;Camarões;Iaundé;África;2026;iPad;03:00:59
+29/03/2023;Micronésia;Paliquir;Oceania;2555;Apple TV;08:59:11
+06/03/2023;França;Paris;Europa;1866;Microsoft Edge;05:24:58
+15/02/2023;Afeganistão;Cabul;Ásia;1373;PC;00:22:38
+11/01/2023;Tailândia;Banguecoque;Ásia;2241;Chrome;12:01:45
+24/02/2023;México;Cidade do México;América;2465;Cellphone;20:15:28
+23/02/2023;Geórgia;Tebilíssi;Ásia;2083;Firefox;05:00:08
+16/02/2023;Camboja;Pnom Pene;Ásia;1110;Chrome;18:25:25
+09/01/2023;Tanzânia;Dodoma;África;1715;Microsoft Edge;02:49:58
+22/01/2023;Paraguai;Assunção;América;1798;Box Android;04:21:39
+13/03/2023;Suíça;Berna;Europa;1265;Xbox;04:11:57
+14/01/2023;Japão;Tóquio;Ásia;2378;Microsoft Edge;16:39:52
+15/03/2023;Indonésia;Jacarta;Ásia;2502;PC;01:47:58
+06/02/2023;Serra Leoa;Freetown;África;960;iPhone;04:25:14
+05/02/2023;Moldávia;Quixinau;Europa;1834;Chrome;03:15:31
+27/03/2023;Iraque;Bagdade;Ásia;753;iPad;09:09:14
+26/02/2023;Salvador;São Salvador;América;1338;Playstation;01:59:33
+18/02/2023;Burúndi;Bujumbura;África;1581;Xbox;12:28:45
+04/02/2023;Colômbia;Bogotá;América;1810;iPad;19:57:21
+23/01/2023;Omã;Mascate;Ásia;1028;Chrome;00:55:25
+01/03/2023;Azerbaijão;Bacu;Ásia;1015;Tv Smart;12:45:17
+03/03/2023;Guiana;Georgetown;América;1086;Playstation;08:58:59
+05/02/2023;Zimbábue;Harare;África;1583;Cellphone;15:26:05
+30/03/2023;Lituânia;Vílnius;Europa;1700;Apple TV;19:51:05
+27/03/2023;Sri Lanca;Sri Jaiavardenapura-Cota;Ásia;2292;Apple TV;00:53:04
+03/01/2023;Croácia;Zagrebe;Europa;1397;Notebook;21:35:45
+10/03/2023;Palau;Ngerulmud;Oceania;2228;Tv Smart;08:44:11
+08/03/2023;Singapura;Singapura;Ásia;2610;Microsoft Edge;05:06:58
+22/03/2023;França;Paris;Europa;2167;iPad;17:08:44
+15/03/2023;Grécia;Atenas;Europa;1024;iPad;16:36:32
+26/03/2023;Mauritânia;Nuaquechote;África;2428;Apple TV;21:02:24
+23/01/2023;Bulgária;Sófia;Europa;1516;Playstation;19:53:16
+17/01/2023;Coreia do Norte;Pionguiangue;Ásia;1975;Firefox;08:15:58
+07/03/2023;Eritreia;Asmara;África;1324;Box Android;14:11:27
+24/03/2023;Omã;Mascate;Ásia;2650;Tv Smart;12:12:51
+24/01/2023;Geórgia;Tebilíssi;Ásia;1555;Xbox;21:55:30
+20/01/2023;Andorra;Andorra-a-Velha;Europa;2133;Safari ;05:35:42
+13/01/2023;Jamaica;Kingston;América;761;Notebook;08:47:15
+06/02/2023;Fiji;Suva;Oceania;1392;Microsoft Edge;23:36:24
+26/02/2023;Eritreia;Asmara;África;2181;Firefox;03:17:40
+30/03/2023;Zâmbia;Lusaca;África;777;Firefox;02:12:28
+28/03/2023;Omã;Mascate;Ásia;1631;Firefox;04:49:10
+02/03/2023;Mauritânia;Nuaquechote;África;921;Apple TV;18:30:28
+15/02/2023;Senegal;Dacar;África;1479;Xbox;02:13:56
+05/03/2023;Butão;Timbu;Ásia;1900;Chrome;18:28:03
+11/03/2023;Eritreia;Asmara;África;1013;Xbox;13:10:37
+25/03/2023;Argélia;Argel;África;1186;Safari ;09:35:16
+04/02/2023;Arménia;Erevã;Ásia;921;PC;07:27:54
+19/01/2023;Suriname;Paramaribo;América;1501;Xbox;08:38:14
+11/01/2023;Fiji;Suva;Oceania;1485;Playstation;02:40:07
+04/03/2023;Benim;Porto Novo;África;2340;Box Android;11:04:02
+16/03/2023;Costa do Marfim;Iamussucro;África;1095;Firefox;21:41:58
+01/01/2023;República Checa;Praga;Europa;812;Xbox;17:29:55
+11/03/2023;Taiuã;Taipé;Ásia;2298;Cellphone;23:21:36
+24/01/2023;Somália;Mogadíscio;África;916;iPad;09:19:22
+16/01/2023;Croácia;Zagrebe;Europa;1482;Notebook;18:10:27
+20/01/2023;Bósnia e Herzegovina;Saraievo;Europa;1023;Notebook;19:28:17
+19/03/2023;Tajiquistão;Duchambé;Ásia;1435;Xbox;11:39:28
+16/03/2023;Azerbaijão;Bacu;Ásia;1034;PC;10:15:49
+23/02/2023;Barém;Manama;Ásia;812;PC;23:00:52
+27/02/2023;Gana;Acra;África;2099;Notebook;15:35:37
+15/01/2023;Mónaco;Mónaco;Europa;2145;Box Android;16:46:03
+19/03/2023;Alemanha;Berlim;Europa;1831;Box Android;06:13:13
+14/01/2023;Estados Unidos;Washington, D.C.;América;2535;Cellphone;18:32:14
+23/02/2023;Eslovénia;Liubliana;Europa;2356;Box Android;11:41:13
+09/02/2023;Argélia;Argel;África;1081;iPhone;01:51:55
+08/03/2023;Grécia;Atenas;Europa;2443;iPhone;05:52:33
+21/02/2023;Palau;Ngerulmud;Oceania;1533;Notebook;19:53:06
+20/01/2023;República Checa;Praga;Europa;1173;Playstation;08:34:07
+10/03/2023;Barém;Manama;Ásia;1186;Chrome;17:27:47
+03/01/2023;Moçambique;Maputo;África;2330;Chrome;11:21:09
+26/03/2023;Sudão do Sul;Juba;África;2121;Notebook;16:14:08
+26/02/2023;Reino Unido;Londres;Europa;898;Playstation;21:58:05
+16/03/2023;Nova Zelândia;Wellington;Oceania;1512;PC;12:59:20
+02/03/2023;Iraque;Bagdade;Ásia;2182;Xbox;00:58:08
+31/03/2023;China;Pequim;Ásia;2180;Box Android;11:57:16
+14/01/2023;Iémen;Saná;Ásia;1142;Firefox;05:04:43
+26/03/2023;Trindade e Tobago;Porto de Espanha;América;1930;Firefox;01:49:11
+01/02/2023;Nicarágua;Manágua;América;1789;Apple TV;19:08:53
+23/01/2023;Japão;Tóquio;Ásia;1808;Apple TV;01:04:13
+25/02/2023;México;Cidade do México;América;1646;iPhone;01:35:34
+31/03/2023;Índia;Nova Déli;Ásia;2650;Tv Smart;23:37:21
+29/01/2023;Gabão;Libreville;África;2195;Playstation;21:53:41
+10/01/2023;Iraque;Bagdade;Ásia;756;Firefox;19:23:39
+31/01/2023;Zâmbia;Lusaca;África;2209;Cellphone;10:08:41
+31/01/2023;Croácia;Zagrebe;Europa;2394;Firefox;13:05:58
+19/03/2023;Rússia;Moscovo;Europa;1677;iPhone;08:23:08
+12/03/2023;Santa Lúcia;Castries;América;910;iPad;12:15:18
+29/03/2023;Brasil;Brasília;América;1955;Notebook;14:49:41
+01/02/2023;Mali;Bamaco;África;2517;Tv Smart;07:35:04
+27/03/2023;Roménia;Bucareste;Europa;1841;Notebook;05:53:56
+25/02/2023;Moldávia;Quixinau;Europa;2516;Tv Smart;14:49:19
+09/02/2023;Zâmbia;Lusaca;África;1769;Apple TV;14:42:13
+01/03/2023;Azerbaijão;Bacu;Ásia;1662;Tv Smart;19:36:42
+12/03/2023;Butão;Timbu;Ásia;914;iPhone;05:52:00
+01/03/2023;Índia;Nova Déli;Ásia;966;iPad;19:20:30
+03/02/2023;Indonésia;Jacarta;Ásia;2626;Notebook;22:51:47
+15/01/2023;Micronésia;Paliquir;Oceania;1849;iPad;18:55:58
+26/01/2023;Polónia;Varsóvia;Europa;739;Tv Smart;12:09:32
+12/02/2023;Espanha;Madrid;Europa;941;iPad;13:17:08
+15/03/2023;Reino Unido;Londres;Europa;2044;Playstation;10:31:40
+07/01/2023;Arménia;Erevã;Ásia;1686;Safari ;05:34:31
+28/02/2023;Eslovénia;Liubliana;Europa;2344;Notebook;17:37:24
+22/01/2023;Taiuã;Taipé;Ásia;949;Safari ;13:14:25
+16/02/2023;Timor-Leste;Díli;Oceania;937;Firefox;19:32:40
+28/02/2023;Tanzânia;Dodoma;África;2421;Box Android;07:07:44
+26/02/2023;Haiti;Porto Príncipe;América;1016;Chrome;06:47:02
+21/03/2023;Bielorrússia;Minsque;Europa;1507;PC;17:19:15
+24/02/2023;Usbequistão;Tasquente;Ásia;2422;Playstation;14:27:31
+17/03/2023;Bolívia;Sucre;América;2636;Microsoft Edge;05:12:22
+24/03/2023;Mali;Bamaco;África;755;PC;04:59:14
+07/01/2023;Ucrânia;Quieve;Europa;919;Tv Smart;22:42:04
+14/03/2023;Cabo Verde;Praia;África;1097;Apple TV;08:10:25
+10/03/2023;Bahamas;Nassau;América;2521;Apple TV;03:53:00
+11/01/2023;República Centro-Africana;Bangui;África;1876;Xbox;20:31:53
+07/03/2023;Vaticano;Vaticano;Europa;940;Chrome;18:48:47
+31/03/2023;Costa Rica;São José;América;2310;Playstation;12:34:48
+21/02/2023;Cuaite;Cidade do Cuaite;Ásia;723;PC;01:26:44
+08/03/2023;Jamaica;Kingston;América;2445;PC;03:03:32
+22/02/2023;Dominica;Roseau;América;1557;Microsoft Edge;00:07:44
+24/01/2023;Guiné Equatorial;Malabo;África;773;iPhone;04:30:41
+04/01/2023;Vietname;Hanói;Ásia;2606;Xbox;23:24:10
+03/02/2023;Austrália;Camberra;Oceania;1518;Microsoft Edge;14:26:58
+28/02/2023;França;Paris;Europa;769;Cellphone;16:14:27
+22/02/2023;Arménia;Erevã;Ásia;1087;Tv Smart;06:05:53
+09/02/2023;Trindade e Tobago;Porto de Espanha;América;736;Notebook;18:59:44
+05/02/2023;Jibuti;Jibuti;África;1661;Notebook;04:27:48
+19/03/2023;Burúndi;Bujumbura;África;2433;PC;13:16:41
+15/01/2023;Namíbia;Vinduque;África;1893;Tv Smart;19:11:29
+31/03/2023;Barbados;Bridgetown;América;2589;Playstation;04:06:57
+08/02/2023;São Cristóvão e Neves;Basseterre;América;1477;Safari ;13:33:54
+04/03/2023;Colômbia;Bogotá;América;706;Chrome;19:52:26
+20/02/2023;Bósnia e Herzegovina;Saraievo;Europa;2209;Playstation;07:24:11
+15/03/2023;Grécia;Atenas;Europa;1447;Playstation;08:28:23
+29/01/2023;Camboja;Pnom Pene;Ásia;1365;iPhone;21:59:25
+15/01/2023;Congo-Brazzaville;Brazavile;África;737;iPhone;11:19:15
+12/03/2023;África do Sul;Pretória;África;1218;iPhone;17:56:46
+11/02/2023;Letónia;Riga;Europa;995;Notebook;22:12:30
+02/02/2023;Quénia;Nairóbi;África;1027;Chrome;18:16:20
+23/03/2023;Angola;Luanda;África;723;Chrome;23:53:25
+15/01/2023;Tonga;Nucualofa;Oceania;799;Tv Smart;19:42:07
+30/03/2023;Comores;Moroni;África;1755;Safari ;19:11:26
+31/03/2023;Montenegro;Podgoritsa;Europa;691;Playstation;00:21:18
+18/02/2023;Cazaquistão;Astana;Ásia;1179;PC;14:15:08
+08/01/2023;Países Baixos;Amesterdão;Europa;1648;Tv Smart;08:41:26
+06/03/2023;Sudão;Cartum;África;2591;Firefox;18:37:00
+25/03/2023;Omã;Mascate;Ásia;2084;Safari ;02:39:40
+21/01/2023;Bangladexe;Daca;Ásia;2371;Playstation;18:27:38
+09/01/2023;China;Pequim;Ásia;1560;Notebook;04:15:55
+04/01/2023;Jordânia;Amã;Ásia;1931;Playstation;18:38:03
+20/03/2023;República Democrática do Congo;Quinxassa;África;1954;Tv Smart;05:14:25
+06/02/2023;Nepal;Catmandu;Ásia;887;Firefox;02:50:03
+07/02/2023;Turcomenistão;Asgabate;Ásia;1614;Safari ;01:05:11
+22/01/2023;Equador;Quito;América;1074;Xbox;06:39:25
+30/01/2023;Brasil;Brasília;América;1227;Playstation;14:10:03
+29/03/2023;Camarões;Iaundé;África;1248;Cellphone;14:17:39
+04/03/2023;Moçambique;Maputo;África;815;Chrome;23:13:21
+08/01/2023;São Tomé e Príncipe;São Tomé;África;1809;Chrome;06:02:25
+18/02/2023;Vietname;Hanói;Ásia;2283;Playstation;07:13:51
+03/03/2023;Polónia;Varsóvia;Europa;815;Microsoft Edge;03:23:16
+07/01/2023;Granada;São Jorge;América;2503;Microsoft Edge;23:35:58
+10/03/2023;Polónia;Varsóvia;Europa;1200;Cellphone;08:33:29
+01/03/2023;Equador;Quito;América;2216;PC;12:21:53
+20/03/2023;Brasil;Brasília;América;1353;Chrome;23:28:51
+03/03/2023;Congo-Brazzaville;Brazavile;África;1785;iPhone;04:50:22
+02/03/2023;Haiti;Porto Príncipe;América;2324;iPhone;15:14:21
+13/02/2023;Sérvia;Belgrado;Europa;1784;Xbox;02:09:13
+07/01/2023;Reino Unido;Londres;Europa;1982;PC;23:08:47
+23/02/2023;Cuba;Havana;América;2048;Playstation;06:19:04
+03/03/2023;Iraque;Bagdade;Ásia;1375;PC;06:49:43
+08/03/2023;Hungria;Budapeste;Europa;2200;iPad;06:52:02
+01/03/2023;Haiti;Porto Príncipe;América;930;Tv Smart;03:54:29
+10/02/2023;África do Sul;Pretória;África;2175;Box Android;23:58:42
+25/01/2023;Jibuti;Jibuti;África;2205;Firefox;23:03:21
+17/02/2023;Uganda;Campala;África;2375;Tv Smart;02:53:51
+23/02/2023;Granada;São Jorge;América;1061;iPad;07:07:48
+16/02/2023;República Checa;Praga;Europa;721;Playstation;06:33:05
+09/03/2023;Noruega;Oslo;Europa;2453;Apple TV;07:24:44
+01/03/2023;Trindade e Tobago;Porto de Espanha;América;1422;Microsoft Edge;23:48:49
+17/01/2023;Croácia;Zagrebe;Europa;2105;Cellphone;22:54:03
+07/03/2023;Vietname;Hanói;Ásia;977;Firefox;20:42:34
+25/03/2023;Quénia;Nairóbi;África;1330;Chrome;16:25:57
+16/03/2023;Mali;Bamaco;África;697;Playstation;15:36:13
+03/03/2023;Espanha;Madrid;Europa;984;Safari ;01:28:50
+11/01/2023;Equador;Quito;América;2309;iPhone;01:59:30
+22/03/2023;Malásia;Cuala Lumpur;Ásia;1632;Playstation;03:12:44
+06/03/2023;Tunísia;Tunes;África;2012;Microsoft Edge;01:21:58
+20/03/2023;Quénia;Nairóbi;África;2487;iPhone;12:01:21
+02/01/2023;Honduras;Tegucigalpa;América;2104;Tv Smart;21:11:54
+18/01/2023;Islândia;Reiquiavique;Europa;1274;Playstation;16:53:44
+01/02/2023;Guiné-Bissau;Bissau;África;1871;Safari ;15:23:27
+20/02/2023;Singapura;Singapura;Ásia;1005;Chrome;23:46:18
+29/03/2023;República Centro-Africana;Bangui;África;2047;Cellphone;06:31:08
+09/02/2023;Libéria;Monróvia;África;1677;Notebook;15:08:14
+08/01/2023;República Dominicana;São Domingos;América;1901;Firefox;06:56:59
+23/03/2023;Sérvia;Belgrado;Europa;952;Chrome;11:04:24
+26/01/2023;França;Paris;Europa;2305;Box Android;19:32:10
+20/02/2023;Maldivas;Malé;Ásia;1003;Box Android;09:43:31
+21/01/2023;Arábia Saudita;Riade;Ásia;859;Xbox;00:39:49
+31/01/2023;Camarões;Iaundé;África;1661;Box Android;21:00:08
+31/03/2023;Bahamas;Nassau;América;1790;Firefox;06:38:00
+20/03/2023;Senegal;Dacar;África;1860;iPhone;17:01:16
+10/03/2023;Uganda;Campala;África;2297;Box Android;23:20:49
+21/02/2023;Andorra;Andorra-a-Velha;Europa;2612;Tv Smart;12:39:29
+28/01/2023;Luxemburgo;Luxemburgo;Europa;1275;PC;15:41:44
+02/01/2023;Nauru;Iarém;Oceania;2479;iPhone;04:14:16
+27/01/2023;Guiné-Bissau;Bissau;África;2568;Playstation;11:42:46
+26/03/2023;Quénia;Nairóbi;África;1940;PC;14:42:36
+09/01/2023;Egito;Cairo;África;1500;Notebook;11:23:20
+10/03/2023;Turcomenistão;Asgabate;Ásia;2362;Xbox;02:10:17
+08/03/2023;Somália;Mogadíscio;África;1696;Tv Smart;05:35:40
+26/02/2023;Noruega;Oslo;Europa;1874;iPhone;12:18:41
+26/01/2023;Nauru;Iarém;Oceania;1948;Firefox;22:01:27
+16/02/2023;Togo;Lomé;África;928;Playstation;21:59:40
+05/03/2023;Quiribáti;Taraua do Sul;Oceania;2419;Playstation;19:17:38
+23/02/2023;Emirados Árabes Unidos;Abu Dabi;Ásia;1853;Box Android;02:08:07
+14/01/2023;Sudão;Cartum;África;1680;Playstation;12:15:58
+05/03/2023;Arménia;Erevã;Ásia;995;Box Android;07:39:42
+12/01/2023;Síria;Damasco;Ásia;2244;iPad;01:52:26
+29/03/2023;Vanuatu;Porto Vila;Oceania;701;iPhone;10:15:01
+30/01/2023;Indonésia;Jacarta;Ásia;1664;iPad;16:49:49
+11/01/2023;Angola;Luanda;África;1243;Chrome;07:13:54
+14/01/2023;Reino Unido;Londres;Europa;1106;Firefox;00:29:42
+12/02/2023;Andorra;Andorra-a-Velha;Europa;2142;Notebook;05:48:58
+06/03/2023;Essuatíni;Lobamba;África;2565;Cellphone;09:27:10
+21/01/2023;Maldivas;Malé;Ásia;995;Firefox;22:21:31
+28/01/2023;Arábia Saudita;Riade;Ásia;1928;PC;16:19:52
+12/01/2023;Índia;Nova Déli;Ásia;2198;Notebook;06:27:03
+14/03/2023;Uruguai;Montevideu;América;1408;Safari ;16:52:19
+08/01/2023;Benim;Porto Novo;África;1436;iPad;06:31:48
+09/02/2023;Guatemala;Cidade da Guatemala;América;704;Chrome;13:29:06
+02/02/2023;Seicheles;Vitória;África;2336;Playstation;18:26:50
+27/02/2023;Estado da Palestina;Jerusalém Oriental;Ásia;2143;iPad;00:01:06
+25/03/2023;Uruguai;Montevideu;América;2276;Xbox;18:46:37
+31/01/2023;São Marinho;São Marinho;Europa;978;iPhone;12:24:53
+06/03/2023;Suécia;Estocolmo;Europa;1125;PC;18:18:49
+26/01/2023;Barém;Manama;Ásia;1031;Box Android;12:25:09
+03/03/2023;Guiné Equatorial;Malabo;África;963;Box Android;06:29:00
+01/02/2023;Marrocos;Rebate;África;2449;iPhone;21:01:59
+19/03/2023;Eslovénia;Liubliana;Europa;2298;iPad;19:11:29
+22/02/2023;Taiuã;Taipé;Ásia;1895;Playstation;12:57:53
+14/03/2023;Essuatíni;Lobamba;África;1112;Tv Smart;03:46:49
+20/02/2023;Tonga;Nucualofa;Oceania;1566;Cellphone;05:21:47
+05/02/2023;Albânia;Tirana;Europa;1207;Apple TV;08:22:52
+22/01/2023;Nova Zelândia;Wellington;Oceania;1249;Xbox;04:36:09
+26/01/2023;Croácia;Zagrebe;Europa;1425;Apple TV;13:20:29
+04/03/2023;Vietname;Hanói;Ásia;2461;iPhone;20:09:11
+22/03/2023;Bulgária;Sófia;Europa;827;Xbox;06:54:20
+16/01/2023;Egito;Cairo;África;1780;Playstation;10:03:09
+31/01/2023;Macedónia do Norte;Escópia;Europa;844;Apple TV;22:15:06
+26/01/2023;Países Baixos;Amesterdão;Europa;782;Tv Smart;02:10:58
+18/01/2023;Samoa;Apia;Oceania;1291;Firefox;14:25:13
+11/02/2023;Quiribáti;Taraua do Sul;Oceania;814;Playstation;04:35:53
+10/03/2023;Papua Nova Guiné;Porto Moresby;Oceania;1228;Xbox;17:28:27
+03/03/2023;Congo-Brazzaville;Brazavile;África;1624;Box Android;11:41:05
+09/01/2023;Eslováquia;Bratislava;Europa;820;Chrome;15:34:27
+17/01/2023;Paquistão;Islamabade;Ásia;1400;iPhone;18:35:34
+11/03/2023;Maldivas;Malé;Ásia;1753;Apple TV;14:28:22
+22/01/2023;Filipinas;Manila;Ásia;1621;Microsoft Edge;17:03:25
+11/03/2023;Burúndi;Bujumbura;África;2196;Chrome;09:56:41
+07/01/2023;Quirguistão;Bisqueque;Ásia;1528;Chrome;14:55:17
+28/02/2023;Canadá;Otava;América;2380;PC;07:28:26
+19/02/2023;África do Sul;Pretória;África;1735;Playstation;04:57:31
+24/01/2023;Maurícia;Porto Luís;África;845;Chrome;13:44:20
+02/01/2023;Malásia;Cuala Lumpur;Ásia;1822;Playstation;00:35:02
+26/02/2023;Roménia;Bucareste;Europa;1955;iPhone;20:43:30
+01/02/2023;Rússia;Moscovo;Europa;1080;Playstation;10:21:52
+25/01/2023;Reino Unido;Londres;Europa;739;Notebook;00:35:04
+26/01/2023;Filipinas;Manila;Ásia;1018;Notebook;06:55:56
+31/03/2023;Nova Zelândia;Wellington;Oceania;756;Microsoft Edge;04:30:38
+12/01/2023;Belize;Belmopã;América;912;Playstation;18:05:06
+23/02/2023;Somália;Mogadíscio;África;2559;Microsoft Edge;07:33:12
+08/03/2023;Uganda;Campala;África;1867;Chrome;09:39:30
+13/03/2023;Letónia;Riga;Europa;1955;Notebook;22:04:34
+27/02/2023;Trindade e Tobago;Porto de Espanha;América;830;Playstation;12:27:23
+10/03/2023;Bolívia;Sucre;América;2007;Box Android;03:58:33
+16/02/2023;Chade;Jamena;África;1349;iPad;16:21:10
+05/01/2023;Costa do Marfim;Iamussucro;África;1885;Microsoft Edge;16:22:40
+27/01/2023;Antiga e Barbuda;São João;América;1149;Tv Smart;19:19:16
+01/01/2023;Libéria;Monróvia;África;2194;Playstation;07:18:51
+26/01/2023;Hungria;Budapeste;Europa;2249;Microsoft Edge;18:38:47
+21/03/2023;Angola;Luanda;África;2583;Apple TV;18:57:36
+27/02/2023;Namíbia;Vinduque;África;1851;Box Android;01:07:18
+14/03/2023;Laus;Vienciana;Ásia;2638;PC;21:28:04
+26/02/2023;Cuaite;Cidade do Cuaite;Ásia;1575;Notebook;16:37:18
+10/01/2023;Grécia;Atenas;Europa;2157;Cellphone;05:08:40
+08/01/2023;Líbano;Beirute;Ásia;850;Firefox;06:14:57
+26/01/2023;Coreia do Sul;Seul;Ásia;1495;Chrome;12:03:38
+02/02/2023;Salomão;Honiara;Oceania;833;Playstation;04:53:48
+13/01/2023;Burúndi;Bujumbura;África;916;Apple TV;05:11:48
+05/03/2023;Reino Unido;Londres;Europa;1608;PC;03:55:04
+14/03/2023;Camarões;Iaundé;África;978;Tv Smart;12:17:16
+03/01/2023;Austrália;Camberra;Oceania;1548;Chrome;02:49:15
+08/02/2023;Antiga e Barbuda;São João;América;2198;iPhone;01:20:41
+03/02/2023;Israel;Jerusalém;Ásia;1529;PC;06:22:04
+14/03/2023;Colômbia;Bogotá;América;2581;Safari ;20:45:17
+23/01/2023;Síria;Damasco;Ásia;949;Xbox;15:14:28
+16/01/2023;Taiuã;Taipé;Ásia;1714;Microsoft Edge;18:50:53
+18/03/2023;Nauru;Iarém;Oceania;920;Microsoft Edge;22:18:45
+20/03/2023;Maláui;Lilôngue;África;1246;iPhone;19:48:21
+12/01/2023;Uganda;Campala;África;2653;Notebook;04:34:33
+23/02/2023;Nigéria;Abuja;África;1165;Microsoft Edge;03:31:54
+12/02/2023;Dominica;Roseau;América;1259;Xbox;10:38:32
+12/03/2023;Belize;Belmopã;América;2147;Chrome;19:47:21
+26/03/2023;Quénia;Nairóbi;África;1969;Tv Smart;09:38:42
+05/03/2023;Papua Nova Guiné;Porto Moresby;Oceania;1587;Playstation;08:38:04
+07/03/2023;Índia;Nova Déli;Ásia;2368;Safari ;12:51:21
+31/03/2023;Grécia;Atenas;Europa;2132;Firefox;06:19:47
+13/01/2023;Macedónia do Norte;Escópia;Europa;1581;Cellphone;04:48:55
+28/01/2023;Malásia;Cuala Lumpur;Ásia;1223;Notebook;01:42:16
+02/02/2023;São Marinho;São Marinho;Europa;1457;Tv Smart;18:36:45
+03/03/2023;Nova Zelândia;Wellington;Oceania;765;Cellphone;17:08:02
+08/01/2023;Seicheles;Vitória;África;967;Tv Smart;10:44:28
+15/03/2023;Suíça;Berna;Europa;1798;Cellphone;18:47:43
+12/02/2023;Burúndi;Bujumbura;África;1838;PC;10:01:04
+03/02/2023;Gana;Acra;África;1903;Xbox;05:19:10
+03/01/2023;Israel;Jerusalém;Ásia;1369;Box Android;16:11:01
+24/02/2023;Guiana;Georgetown;América;2528;iPhone;19:37:32
+18/01/2023;Moçambique;Maputo;África;2323;Xbox;10:11:54
+11/03/2023;Equador;Quito;América;1229;Box Android;09:51:45
+31/01/2023;Essuatíni;Lobamba;África;1182;Safari ;00:21:43
+07/02/2023;Coreia do Sul;Seul;Ásia;2428;iPad;12:19:00
+04/03/2023;Polónia;Varsóvia;Europa;2107;Notebook;11:58:14
+29/01/2023;Samoa;Apia;Oceania;1550;iPhone;15:44:02
+16/02/2023;Vietname;Hanói;Ásia;1160;Box Android;04:23:01
+05/02/2023;Egito;Cairo;África;1679;Xbox;04:25:30
+22/03/2023;Libéria;Monróvia;África;1525;iPhone;07:18:08
+01/02/2023;Andorra;Andorra-a-Velha;Europa;1053;Firefox;22:11:05
+27/03/2023;Jibuti;Jibuti;África;1736;Box Android;20:15:33
+01/03/2023;Estado da Palestina;Jerusalém Oriental;Ásia;1565;Playstation;20:36:05
+23/01/2023;Costa Rica;São José;América;2497;iPad;00:12:08
+17/02/2023;Áustria;Viena;Europa;2326;iPad;11:04:56
+12/03/2023;Benim;Porto Novo;África;836;Xbox;07:03:16
+19/03/2023;Burúndi;Bujumbura;África;2645;iPad;17:03:11
+26/01/2023;República Centro-Africana;Bangui;África;898;iPhone;06:19:33
+11/02/2023;Eslovénia;Liubliana;Europa;1525;Box Android;16:43:34
+28/01/2023;Gana;Acra;África;1718;Cellphone;07:19:04
+01/02/2023;Catar;Doa;Ásia;1848;Apple TV;03:23:21
+17/02/2023;Timor-Leste;Díli;Oceania;2344;Chrome;12:57:38
+01/02/2023;Zâmbia;Lusaca;África;1206;Cellphone;00:52:22
+27/01/2023;Índia;Nova Déli;Ásia;1259;iPhone;11:30:59
+17/01/2023;Grécia;Atenas;Europa;2095;Box Android;18:43:26
+27/03/2023;Camboja;Pnom Pene;Ásia;2393;iPad;08:03:45
+09/01/2023;Lituânia;Vílnius;Europa;2304;Playstation;20:43:19
+07/02/2023;Arménia;Erevã;Ásia;2074;Safari ;19:33:26
+27/01/2023;Mauritânia;Nuaquechote;África;701;Chrome;07:58:17
+05/02/2023;Haiti;Porto Príncipe;América;1226;iPhone;17:25:25
+04/03/2023;Venezuela;Caracas;América;2256;Playstation;18:15:44
+31/03/2023;Azerbaijão;Bacu;Ásia;2487;Box Android;05:58:07
+24/01/2023;Papua Nova Guiné;Porto Moresby;Oceania;705;iPad;14:08:12
+05/01/2023;Salvador;São Salvador;América;2339;Firefox;05:55:48
+25/01/2023;Lesoto;Maseru;África;1622;Safari ;21:53:43
+25/01/2023;Austrália;Camberra;Oceania;745;Cellphone;00:34:23
+05/03/2023;Vaticano;Vaticano;Europa;1631;Firefox;18:56:24
+19/02/2023;Noruega;Oslo;Europa;2061;Box Android;23:05:59
+29/01/2023;Tanzânia;Dodoma;África;1994;PC;11:01:03
+13/02/2023;Bolívia;Sucre;América;1684;PC;22:10:08
+28/01/2023;Austrália;Camberra;Oceania;1141;Tv Smart;08:54:42
+16/01/2023;Panamá;Cidade do Panamá;América;1831;Apple TV;02:52:02
+13/03/2023;Suriname;Paramaribo;América;1319;Notebook;13:19:20
+18/01/2023;Ucrânia;Quieve;Europa;1351;Tv Smart;21:06:20
+21/02/2023;Suíça;Berna;Europa;1484;Xbox;12:27:28
+08/01/2023;Cuba;Havana;América;2402;PC;17:59:12
+23/02/2023;Usbequistão;Tasquente;Ásia;881;iPad;05:49:57
+09/03/2023;Azerbaijão;Bacu;Ásia;1368;PC;23:03:46
+18/03/2023;República Checa;Praga;Europa;2374;Safari ;20:18:08
+15/02/2023;Estónia;Talim;Europa;2299;Apple TV;00:00:50
+18/02/2023;Omã;Mascate;Ásia;1045;Chrome;20:17:20
+11/01/2023;Uruguai;Montevideu;América;2553;Chrome;10:54:11
+01/03/2023;Venezuela;Caracas;América;758;iPad;12:02:45
+21/03/2023;Bósnia e Herzegovina;Saraievo;Europa;2604;Firefox;20:05:44
+28/01/2023;Luxemburgo;Luxemburgo;Europa;1649;Microsoft Edge;21:33:48
+06/01/2023;Coreia do Norte;Pionguiangue;Ásia;2040;Chrome;23:22:05
+05/03/2023;Letónia;Riga;Europa;2363;Playstation;08:04:52
+30/03/2023;Letónia;Riga;Europa;1650;Firefox;06:16:26
+28/01/2023;Reino Unido;Londres;Europa;721;Xbox;19:30:33
+27/01/2023;Cabo Verde;Praia;África;2538;Safari ;20:15:55
+19/02/2023;Guiana;Georgetown;América;1391;Apple TV;21:27:52
+23/02/2023;Índia;Nova Déli;Ásia;1633;PC;00:30:29
+11/02/2023;Tunísia;Tunes;África;1327;Tv Smart;17:48:40
+23/01/2023;Haiti;Porto Príncipe;América;1241;Apple TV;05:10:56
+15/01/2023;Suécia;Estocolmo;Europa;2567;Xbox;06:35:15
+03/03/2023;Geórgia;Tebilíssi;Ásia;1337;iPad;17:35:36
+12/01/2023;Bósnia e Herzegovina;Saraievo;Europa;2590;iPhone;02:50:02
+27/01/2023;Egito;Cairo;África;1801;Firefox;00:43:28
+18/01/2023;Mongólia;Ulã Bator;Ásia;994;Cellphone;16:12:49
+05/02/2023;França;Paris;Europa;1299;PC;19:04:41
+31/03/2023;Dominica;Roseau;América;1920;iPhone;09:57:16
+12/01/2023;Irão;Teerão;Ásia;1395;Tv Smart;16:44:02
+02/02/2023;Jamaica;Kingston;América;1980;Cellphone;03:21:41
+29/03/2023;Serra Leoa;Freetown;África;2640;Microsoft Edge;18:23:29
+20/01/2023;Tonga;Nucualofa;Oceania;1516;iPhone;19:47:12
+07/01/2023;Suécia;Estocolmo;Europa;1088;PC;04:23:29
+23/02/2023;Gâmbia;Banjul;África;2048;Box Android;14:58:53
+04/03/2023;Montenegro;Podgoritsa;Europa;1468;Cellphone;17:31:58
+17/02/2023;Tailândia;Banguecoque;Ásia;2316;Cellphone;03:34:57
+27/02/2023;Granada;São Jorge;América;1412;Cellphone;23:25:47
+22/03/2023;Guiana;Georgetown;América;819;Xbox;10:05:37
+19/02/2023;Trindade e Tobago;Porto de Espanha;América;1243;iPhone;23:10:23
+23/03/2023;República Centro-Africana;Bangui;África;760;Microsoft Edge;07:01:52
+06/03/2023;Angola;Luanda;África;1442;Apple TV;16:44:38
+14/01/2023;Países Baixos;Amesterdão;Europa;2040;Box Android;15:12:43
+09/02/2023;Gâmbia;Banjul;África;2330;Playstation;04:21:23
+27/01/2023;Irão;Teerão;Ásia;1538;Safari ;23:29:40
+18/03/2023;Zimbábue;Harare;África;1472;Microsoft Edge;09:20:17
+18/01/2023;Áustria;Viena;Europa;2072;Box Android;21:53:47
+27/03/2023;Síria;Damasco;Ásia;1072;Cellphone;23:43:45
+18/01/2023;Austrália;Camberra;Oceania;2212;Tv Smart;22:29:23
+28/03/2023;Seicheles;Vitória;África;1006;Safari ;17:59:39
+17/01/2023;Butão;Timbu;Ásia;2189;Playstation;01:58:37
+04/03/2023;Irlanda;Dublim;Europa;1050;Apple TV;11:42:47
+28/02/2023;Eslovénia;Liubliana;Europa;780;Notebook;20:24:53
+24/01/2023;Quirguistão;Bisqueque;Ásia;1739;Chrome;00:05:34
+25/01/2023;Coreia do Sul;Seul;Ásia;2069;iPad;08:20:40
+07/03/2023;Venezuela;Caracas;América;858;iPhone;14:18:46
+04/03/2023;Mónaco;Mónaco;Europa;2349;Box Android;16:14:32
+06/01/2023;Venezuela;Caracas;América;2357;Notebook;10:18:16
+05/02/2023;Barém;Manama;Ásia;1916;Chrome;15:36:15
+18/02/2023;Argentina;Buenos Aires;América;2038;Box Android;10:47:54
+07/03/2023;Granada;São Jorge;América;998;Apple TV;04:27:24
+27/02/2023;Togo;Lomé;África;2215;iPhone;19:21:03
+19/02/2023;Países Baixos;Amesterdão;Europa;1041;iPad;03:58:32
+31/01/2023;Fiji;Suva;Oceania;1684;Xbox;00:39:56
+24/01/2023;Guiné Equatorial;Malabo;África;1059;Safari ;01:48:31
+29/03/2023;Itália;Roma;Europa;764;iPad;03:42:46
+21/02/2023;Madagáscar;Antananarivo;África;1239;Notebook;07:18:47
+06/01/2023;Serra Leoa;Freetown;África;1543;Cellphone;23:43:31
+27/03/2023;Grécia;Atenas;Europa;1177;PC;14:10:58
+27/02/2023;Cuba;Havana;América;2412;Microsoft Edge;07:37:15
+23/03/2023;Cazaquistão;Astana;Ásia;1450;Microsoft Edge;09:56:15
+01/02/2023;Argélia;Argel;África;1474;Notebook;02:11:05
+07/01/2023;Libéria;Monróvia;África;1454;Notebook;09:37:59
+19/03/2023;Zâmbia;Lusaca;África;2611;Safari ;12:10:25
+15/02/2023;Bangladexe;Daca;Ásia;1049;Microsoft Edge;21:48:37
+19/02/2023;Cazaquistão;Astana;Ásia;1503;PC;13:09:13
+03/01/2023;Uganda;Campala;África;2111;iPad;12:35:45
+10/01/2023;Venezuela;Caracas;América;892;Playstation;18:15:25
+11/02/2023;Líbia;Trípoli;África;882;Chrome;18:44:50
+12/01/2023;República Democrática do Congo;Quinxassa;África;1119;Notebook;19:24:14
+09/03/2023;Granada;São Jorge;América;2152;Chrome;06:55:43
+21/03/2023;Bangladexe;Daca;Ásia;1598;Safari ;21:53:45
+16/02/2023;Eslovénia;Liubliana;Europa;1627;Firefox;06:29:31
+16/02/2023;Chade;Jamena;África;2206;Cellphone;06:42:01
+03/03/2023;Barbados;Bridgetown;América;1617;Box Android;16:33:23
+12/01/2023;Angola;Luanda;África;840;Apple TV;11:31:30
+15/02/2023;Bangladexe;Daca;Ásia;2071;Tv Smart;04:59:22
+21/03/2023;Burquina Faso;Uagadugu;África;1707;Box Android;08:18:57
+26/01/2023;Bélgica;Bruxelas;Europa;2039;Xbox;14:50:15
+03/03/2023;São Marinho;São Marinho;Europa;1855;Box Android;20:06:52
+06/01/2023;Panamá;Cidade do Panamá;América;2472;Safari ;09:00:54
+21/01/2023;Mauritânia;Nuaquechote;África;2129;Apple TV;07:08:23
+10/02/2023;Antiga e Barbuda;São João;América;732;Microsoft Edge;13:17:02
+04/03/2023;Panamá;Cidade do Panamá;América;909;iPad;16:19:02
+14/02/2023;Brunei;Bandar Seri Begauã;Ásia;994;Xbox;22:23:12
+08/03/2023;Guiana;Georgetown;América;1808;Xbox;18:22:02
+05/01/2023;Moldávia;Quixinau;Europa;1771;Box Android;07:48:35
+23/02/2023;Arábia Saudita;Riade;Ásia;973;Apple TV;15:07:46
+20/02/2023;Estados Unidos;Washington, D.C.;América;2510;Xbox;16:17:30
+07/03/2023;Costa do Marfim;Iamussucro;África;1562;Playstation;09:56:39
+09/03/2023;Barém;Manama;Ásia;718;Firefox;09:00:50
+04/02/2023;Antiga e Barbuda;São João;América;1691;Tv Smart;05:01:41
+10/02/2023;Moçambique;Maputo;África;1711;Cellphone;23:23:40
+26/01/2023;Turcomenistão;Asgabate;Ásia;1907;Box Android;16:05:52
+30/03/2023;Libéria;Monróvia;África;1548;iPhone;17:26:31
+23/02/2023;Moçambique;Maputo;África;1777;Cellphone;23:16:23
+28/02/2023;Butão;Timbu;Ásia;1803;iPad;04:03:13
+08/03/2023;Antiga e Barbuda;São João;América;1345;Notebook;07:25:59
+07/02/2023;Quirguistão;Bisqueque;Ásia;2307;Xbox;16:43:34
+21/03/2023;Andorra;Andorra-a-Velha;Europa;2644;Chrome;07:55:04
+24/03/2023;Moçambique;Maputo;África;831;Notebook;20:14:12
+17/01/2023;Libéria;Monróvia;África;2615;Cellphone;03:14:15
+02/02/2023;Catar;Doa;Ásia;1556;Tv Smart;21:17:33
+26/01/2023;Sudão;Cartum;África;2291;PC;11:20:00
+16/01/2023;Grécia;Atenas;Europa;1780;Microsoft Edge;10:28:42
+19/01/2023;São Vicente e Granadinas;Kingstown;América;1284;Safari ;03:30:30
+20/01/2023;Jordânia;Amã;Ásia;1342;Microsoft Edge;10:06:05
+03/02/2023;Lituânia;Vílnius;Europa;1250;Firefox;06:39:36
+17/02/2023;Letónia;Riga;Europa;956;PC;05:39:42
+18/02/2023;Paquistão;Islamabade;Ásia;771;Xbox;22:33:14
+14/01/2023;França;Paris;Europa;2470;Xbox;06:24:42
+03/02/2023;Costa Rica;São José;América;2174;Box Android;19:14:13
+26/02/2023;Países Baixos;Amesterdão;Europa;1118;Tv Smart;21:50:43
+07/01/2023;Colômbia;Bogotá;América;2109;Playstation;02:25:56
+28/02/2023;Salvador;São Salvador;América;2556;Xbox;11:03:28
+19/02/2023;Omã;Mascate;Ásia;1188;Xbox;18:48:29
+27/01/2023;China;Pequim;Ásia;2381;Tv Smart;02:12:26
+08/02/2023;Bolívia;Sucre;América;2140;iPad;18:43:32
+14/02/2023;Sérvia;Belgrado;Europa;717;iPhone;12:16:24
+03/02/2023;Bolívia;Sucre;América;2293;Chrome;14:33:02

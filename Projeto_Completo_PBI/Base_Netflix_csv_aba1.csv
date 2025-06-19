@@ -1,0 +1,665 @@
+﻿DATA;ESTADOS;UF;TOTAL DE ACESSOS;PERIODO_DE_ACESSOS;QTDE_SEGMENTOS_ESTADOS;TIPO_DE_CONTA;VALOR
+21/02/2023;Alagoas;AL;5553;Manhã;Drama;PLANO BASICO; R$ 19,90 
+10/01/2023;Bahia;BA;6074;Manhã;Politica;PLANO PADRAO; R$ 27,90 
+11/03/2023;Pará;PA;8564;Tarde;Para Crianças;PLANO PADRAO; R$ 27,90 
+11/02/2023;Pernambuco;PE;3089;Tarde;Novas Pers.Sobre. Def;PLANO PADRAO; R$ 27,90 
+17/02/2023;Tocantins;TO;5766;Manhã;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+09/03/2023;Mato Grosso do Sul;MS;5467;Tarde;Romance;PLANO PREMIUM; R$ 37,90 
+29/01/2023;Pernambuco;PE;8839;Noite;Terror;PLANO PADRAO; R$ 27,90 
+23/02/2023;Amapá;AP;5257;Noite;Series e Documentarios;PLANO PREMIUM; R$ 37,90 
+01/02/2023;Goiás;GO;9294;Noite;Terror;PLANO PREMIUM; R$ 37,90 
+13/03/2023;Rondônia;RO;3862;Manhã;Anime;PLANO BASICO; R$ 19,90 
+14/02/2023;Mato Grosso do Sul;MS;5725;Madrugada;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+07/01/2023;Bahia;BA;3507;Noite;Novelas;PLANO PREMIUM; R$ 37,90 
+25/01/2023;Santa Catarina;SC;8798;Manhã;Ciência e Natureza;PLANO PADRAO; R$ 27,90 
+10/03/2023;Rio Grande do Norte;RN;2222;Madrugada;Ficção Cientifica e fantasia;PLANO PREMIUM; R$ 37,90 
+10/01/2023;Espírito Santo;ES;6887;Manhã;Teen;PLANO PADRAO; R$ 27,90 
+28/01/2023;Sergipe;SE;662;Madrugada;Teen;PLANO PADRAO; R$ 27,90 
+14/03/2023;Acre;AC;639;Manhã;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+18/01/2023;Espírito Santo;ES;3010;Madrugada;Esporte;PLANO PADRAO; R$ 27,90 
+12/03/2023;Piauí;PI;6283;Noite;Terror;PLANO BASICO; R$ 19,90 
+04/02/2023;Amapá;AP;5649;Tarde;Esporte;PLANO PADRAO; R$ 27,90 
+25/01/2023;Tocantins;TO;3525;Manhã;Ação;PLANO PADRAO; R$ 27,90 
+27/01/2023;Maranhão;MA;4670;Tarde;Asiaticos;PLANO PREMIUM; R$ 37,90 
+29/03/2023;Rio Grande do Sul;RS;4912;Manhã;Terror;PLANO BASICO; R$ 19,90 
+21/02/2023;Piauí;PI;3275;Noite;Para Crianças;PLANO PREMIUM; R$ 37,90 
+23/02/2023;Sergipe;SE;449;Manhã;Reality e Talks;PLANO BASICO; R$ 19,90 
+08/03/2023;Sergipe;SE;5183;Madrugada;Comédia;PLANO PADRAO; R$ 27,90 
+04/01/2023;Piauí;PI;9706;Manhã;Misterio;PLANO PREMIUM; R$ 37,90 
+01/03/2023;Alagoas;AL;7525;Noite;Para Crianças;PLANO PREMIUM; R$ 37,90 
+18/03/2023;Rondônia;RO;6958;Tarde;Drama;PLANO BASICO; R$ 19,90 
+10/03/2023;Espírito Santo;ES;2413;Madrugada;Novelas;PLANO BASICO; R$ 19,90 
+22/01/2023;Mato Grosso do Sul;MS;9296;Noite;Teen;PLANO PADRAO; R$ 27,90 
+22/03/2023;Roraima;RR;4654;Noite;Braliseiros;PLANO BASICO; R$ 19,90 
+09/03/2023;Amapá;AP;1410;Madrugada;Para Crianças;PLANO PREMIUM; R$ 37,90 
+03/03/2023;Rio Grande do Norte;RN;7166;Manhã;Drama;PLANO BASICO; R$ 19,90 
+29/03/2023;Rio de Janeiro;RJ;6717;Madrugada;Terror;PLANO PREMIUM; R$ 37,90 
+02/02/2023;Minas Gerais;MG;5015;Tarde;Comédia;PLANO PREMIUM; R$ 37,90 
+10/02/2023;Rio Grande do Sul;RS;3545;Noite;Ficção Cientifica e fantasia;PLANO PADRAO; R$ 27,90 
+24/03/2023;Alagoas;AL;4941;Manhã;Asiaticos;PLANO PADRAO; R$ 27,90 
+16/03/2023;Rio de Janeiro;RJ;5898;Madrugada;Romance;PLANO PADRAO; R$ 27,90 
+27/03/2023;Acre;AC;5528;Madrugada;Esporte;PLANO PADRAO; R$ 27,90 
+11/01/2023;Santa Catarina;SC;5936;Tarde;Ficção Cientifica e fantasia;PLANO BASICO; R$ 19,90 
+07/01/2023;Amapá;AP;5321;Tarde;Asiaticos;PLANO PREMIUM; R$ 37,90 
+22/01/2023;Rio Grande do Norte;RN;3814;Tarde;Reality e Talks;PLANO PADRAO; R$ 27,90 
+19/02/2023;Piauí;PI;4510;Manhã;Esporte;PLANO BASICO; R$ 19,90 
+26/01/2023;Minas Gerais;MG;9839;Manhã;Politica;PLANO PREMIUM; R$ 37,90 
+02/01/2023;Sergipe;SE;4908;Madrugada;EUA;PLANO PREMIUM; R$ 37,90 
+12/03/2023;Paraná;PR;3181;Madrugada;EUA;PLANO BASICO; R$ 19,90 
+23/01/2023;Rondônia;RO;1374;Tarde;Teen;PLANO PADRAO; R$ 27,90 
+12/03/2023;Mato Grosso do Sul;MS;1240;Madrugada;Novelas;PLANO BASICO; R$ 19,90 
+24/03/2023;Amazonas;AM;1797;Noite;Terror;PLANO PREMIUM; R$ 37,90 
+06/01/2023;Santa Catarina;SC;9444;Tarde;Para Crianças;PLANO PREMIUM; R$ 37,90 
+14/01/2023;Rio Grande do Sul;RS;4178;Noite;Misterio;PLANO PADRAO; R$ 27,90 
+20/01/2023;Amapá;AP;1036;Noite;Braliseiros;PLANO PREMIUM; R$ 37,90 
+24/03/2023;Goiás;GO;2219;Madrugada;EUA;PLANO PADRAO; R$ 27,90 
+05/03/2023;Paraíba;PB;5633;Tarde;Novelas;PLANO PREMIUM; R$ 37,90 
+16/02/2023;Espírito Santo;ES;717;Manhã;Asiaticos;PLANO BASICO; R$ 19,90 
+14/02/2023;Mato Grosso do Sul;MS;4171;Manhã;Series e Documentarios;PLANO PADRAO; R$ 27,90 
+12/03/2023;Bahia;BA;5473;Manhã;Series e Documentarios;PLANO PADRAO; R$ 27,90 
+26/02/2023;Rio Grande do Sul;RS;6344;Manhã;Ciência e Natureza;PLANO BASICO; R$ 19,90 
+09/01/2023;Amazonas;AM;6126;Tarde;Para Crianças;PLANO PREMIUM; R$ 37,90 
+14/02/2023;Sergipe;SE;5060;Noite;Anime;PLANO PREMIUM; R$ 37,90 
+03/02/2023;Rondônia;RO;2788;Madrugada;Anime;PLANO BASICO; R$ 19,90 
+09/02/2023;Piauí;PI;3053;Noite;Romance;PLANO BASICO; R$ 19,90 
+06/03/2023;Rio de Janeiro;RJ;609;Manhã;Drama;PLANO BASICO; R$ 19,90 
+24/03/2023;Bahia;BA;3926;Tarde;Terror;PLANO PREMIUM; R$ 37,90 
+03/01/2023;Rio Grande do Sul;RS;9246;Tarde;Series e Documentarios;PLANO PADRAO; R$ 27,90 
+02/01/2023;Maranhão;MA;5431;Madrugada;Misterio;PLANO BASICO; R$ 19,90 
+16/02/2023;Rio de Janeiro;RJ;5598;Tarde;Romance;PLANO PREMIUM; R$ 37,90 
+15/01/2023;Alagoas;AL;3616;Tarde;Ficção Cientifica e fantasia;PLANO BASICO; R$ 19,90 
+04/03/2023;Goiás;GO;5570;Tarde;Asiaticos;PLANO PADRAO; R$ 27,90 
+01/03/2023;Rondônia;RO;3337;Manhã;Para Crianças;PLANO PADRAO; R$ 27,90 
+06/03/2023;Santa Catarina;SC;6492;Tarde;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+06/01/2023;Santa Catarina;SC;5790;Tarde;Novelas;PLANO PREMIUM; R$ 37,90 
+06/01/2023;Rondônia;RO;5525;Madrugada;Novelas;PLANO PREMIUM; R$ 37,90 
+20/02/2023;Tocantins;TO;6330;Tarde;Asiaticos;PLANO PREMIUM; R$ 37,90 
+15/01/2023;Pernambuco;PE;1180;Noite;Misterio;PLANO PADRAO; R$ 27,90 
+15/01/2023;Piauí;PI;519;Tarde;Misterio;PLANO BASICO; R$ 19,90 
+28/02/2023;Santa Catarina;SC;442;Tarde;Series e Documentarios;PLANO PREMIUM; R$ 37,90 
+26/03/2023;Espírito Santo;ES;3643;Manhã;Comédia;PLANO BASICO; R$ 19,90 
+02/03/2023;Acre;AC;2221;Tarde;Ciência e Natureza;PLANO PADRAO; R$ 27,90 
+25/03/2023;São Paulo;SP;2337;Tarde;Terror;PLANO BASICO; R$ 19,90 
+26/01/2023;Mato Grosso;MT;4505;Manhã;Ciência e Natureza;PLANO BASICO; R$ 19,90 
+19/01/2023;Sergipe;SE;6819;Manhã;Drama;PLANO PADRAO; R$ 27,90 
+25/02/2023;Pernambuco;PE;8915;Tarde;Braliseiros;PLANO BASICO; R$ 19,90 
+26/01/2023;Ceará;CE;3443;Tarde;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+15/01/2023;Tocantins;TO;5459;Noite;Para Crianças;PLANO BASICO; R$ 19,90 
+08/01/2023;Amapá;AP;2323;Manhã;Ficção Cientifica e fantasia;PLANO PREMIUM; R$ 37,90 
+11/03/2023;Paraná;PR;7976;Noite;Esporte;PLANO PREMIUM; R$ 37,90 
+09/03/2023;Sergipe;SE;5294;Tarde;Ciência e Natureza;PLANO BASICO; R$ 19,90 
+21/03/2023;Santa Catarina;SC;7500;Madrugada;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+13/02/2023;Maranhão;MA;8035;Madrugada;Comédia;PLANO PADRAO; R$ 27,90 
+22/01/2023;Minas Gerais;MG;3601;Madrugada;Teen;PLANO PADRAO; R$ 27,90 
+02/01/2023;Amazonas;AM;6523;Madrugada;EUA;PLANO PREMIUM; R$ 37,90 
+10/03/2023;Santa Catarina;SC;7047;Tarde;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+18/02/2023;Rio Grande do Sul;RS;7378;Manhã;Series e Documentarios;PLANO PREMIUM; R$ 37,90 
+06/02/2023;Rio de Janeiro;RJ;7313;Tarde;Novelas;PLANO PADRAO; R$ 27,90 
+19/03/2023;Paraíba;PB;6468;Tarde;Reality e Talks;PLANO PREMIUM; R$ 37,90 
+27/03/2023;Distrito Federal;DF;9769;Madrugada;Esporte;PLANO PREMIUM; R$ 37,90 
+25/02/2023;Distrito Federal;DF;7123;Manhã;EUA;PLANO PREMIUM; R$ 37,90 
+04/01/2023;Sergipe;SE;4856;Manhã;Para Crianças;PLANO PADRAO; R$ 27,90 
+28/01/2023;Rio Grande do Norte;RN;547;Noite;Braliseiros;PLANO BASICO; R$ 19,90 
+11/03/2023;Paraná;PR;517;Noite;Para Crianças;PLANO PREMIUM; R$ 37,90 
+06/03/2023;Goiás;GO;5625;Madrugada;Reality e Talks;PLANO PADRAO; R$ 27,90 
+23/02/2023;Rio Grande do Sul;RS;2087;Tarde;Romance;PLANO PREMIUM; R$ 37,90 
+30/01/2023;Espírito Santo;ES;591;Noite;Drama;PLANO PREMIUM; R$ 37,90 
+09/01/2023;Goiás;GO;7365;Noite;Ação;PLANO PREMIUM; R$ 37,90 
+17/01/2023;Distrito Federal;DF;4109;Tarde;Asiaticos;PLANO BASICO; R$ 19,90 
+25/02/2023;Mato Grosso;MT;6462;Madrugada;Asiaticos;PLANO BASICO; R$ 19,90 
+25/02/2023;Ceará;CE;1112;Madrugada;Braliseiros;PLANO PADRAO; R$ 27,90 
+25/03/2023;Paraíba;PB;503;Tarde;Asiaticos;PLANO PREMIUM; R$ 37,90 
+01/02/2023;Acre;AC;708;Noite;Romance;PLANO PREMIUM; R$ 37,90 
+24/03/2023;Maranhão;MA;1095;Noite;Ficção Cientifica e fantasia;PLANO PREMIUM; R$ 37,90 
+21/02/2023;Rondônia;RO;9656;Manhã;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+02/01/2023;Piauí;PI;6577;Madrugada;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+03/01/2023;Santa Catarina;SC;8753;Noite;Romance;PLANO BASICO; R$ 19,90 
+05/03/2023;Tocantins;TO;7640;Madrugada;Para Crianças;PLANO PADRAO; R$ 27,90 
+02/02/2023;Distrito Federal;DF;9032;Manhã;Para Crianças;PLANO PREMIUM; R$ 37,90 
+20/01/2023;São Paulo;SP;6425;Madrugada;Novas Pers.Sobre. Def;PLANO PADRAO; R$ 27,90 
+24/01/2023;Goiás;GO;7064;Noite;Misterio;PLANO PADRAO; R$ 27,90 
+28/03/2023;Amapá;AP;6663;Manhã;Para Crianças;PLANO PREMIUM; R$ 37,90 
+02/03/2023;Rondônia;RO;7662;Noite;Reality e Talks;PLANO PREMIUM; R$ 37,90 
+25/02/2023;Rio Grande do Sul;RS;8327;Tarde;Misterio;PLANO BASICO; R$ 19,90 
+05/02/2023;Paraíba;PB;2177;Madrugada;Para Crianças;PLANO PREMIUM; R$ 37,90 
+03/01/2023;Acre;AC;7411;Madrugada;Politica;PLANO PREMIUM; R$ 37,90 
+28/03/2023;Minas Gerais;MG;5065;Manhã;Ficção Cientifica e fantasia;PLANO PADRAO; R$ 27,90 
+15/02/2023;Rondônia;RO;1943;Madrugada;Teen;PLANO PADRAO; R$ 27,90 
+19/01/2023;Piauí;PI;4620;Tarde;Drama;PLANO PREMIUM; R$ 37,90 
+12/01/2023;Distrito Federal;DF;802;Madrugada;Ficção Cientifica e fantasia;PLANO PREMIUM; R$ 37,90 
+18/03/2023;Rio de Janeiro;RJ;9122;Manhã;EUA;PLANO BASICO; R$ 19,90 
+07/03/2023;Rio Grande do Sul;RS;4950;Noite;Romance;PLANO PADRAO; R$ 27,90 
+25/01/2023;Paraíba;PB;9560;Noite;Misterio;PLANO PREMIUM; R$ 37,90 
+16/02/2023;Acre;AC;8616;Manhã;Ficção Cientifica e fantasia;PLANO PREMIUM; R$ 37,90 
+02/02/2023;Rio Grande do Norte;RN;634;Tarde;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+06/03/2023;Paraíba;PB;7299;Tarde;Anime;PLANO BASICO; R$ 19,90 
+02/03/2023;Goiás;GO;2866;Noite;Drama;PLANO PADRAO; R$ 27,90 
+28/03/2023;Rio de Janeiro;RJ;2427;Manhã;Comédia;PLANO PREMIUM; R$ 37,90 
+07/02/2023;Paraíba;PB;5606;Manhã;Asiaticos;PLANO PADRAO; R$ 27,90 
+24/01/2023;Espírito Santo;ES;7965;Tarde;Esporte;PLANO PADRAO; R$ 27,90 
+23/01/2023;São Paulo;SP;5656;Noite;EUA;PLANO BASICO; R$ 19,90 
+29/01/2023;Goiás;GO;7672;Madrugada;Novelas;PLANO PREMIUM; R$ 37,90 
+07/01/2023;Rio de Janeiro;RJ;2072;Tarde;Asiaticos;PLANO PREMIUM; R$ 37,90 
+28/03/2023;Rondônia;RO;3509;Madrugada;Anime;PLANO PREMIUM; R$ 37,90 
+07/02/2023;Rio Grande do Sul;RS;8097;Manhã;Series e Documentarios;PLANO BASICO; R$ 19,90 
+06/01/2023;Amazonas;AM;5102;Tarde;Terror;PLANO PREMIUM; R$ 37,90 
+22/03/2023;Minas Gerais;MG;8031;Noite;Teen;PLANO PREMIUM; R$ 37,90 
+06/03/2023;Mato Grosso do Sul;MS;7529;Madrugada;Misterio;PLANO PREMIUM; R$ 37,90 
+12/03/2023;Minas Gerais;MG;1524;Manhã;Asiaticos;PLANO BASICO; R$ 19,90 
+13/03/2023;Tocantins;TO;2459;Tarde;Esporte;PLANO PREMIUM; R$ 37,90 
+06/01/2023;Maranhão;MA;1888;Manhã;Anime;PLANO BASICO; R$ 19,90 
+21/02/2023;Paraíba;PB;7927;Tarde;Esporte;PLANO PREMIUM; R$ 37,90 
+22/01/2023;Amazonas;AM;4332;Madrugada;Novelas;PLANO PREMIUM; R$ 37,90 
+02/01/2023;Pará;PA;9760;Manhã;Teen;PLANO BASICO; R$ 19,90 
+09/01/2023;Amazonas;AM;8366;Noite;EUA;PLANO PREMIUM; R$ 37,90 
+09/03/2023;Pará;PA;3239;Manhã;Series e Documentarios;PLANO PREMIUM; R$ 37,90 
+28/02/2023;Distrito Federal;DF;7661;Tarde;Teen;PLANO PREMIUM; R$ 37,90 
+09/03/2023;Piauí;PI;8271;Manhã;Series e Documentarios;PLANO BASICO; R$ 19,90 
+12/02/2023;Espírito Santo;ES;3747;Tarde;Para Crianças;PLANO PREMIUM; R$ 37,90 
+06/02/2023;Tocantins;TO;9217;Noite;Ação;PLANO BASICO; R$ 19,90 
+09/02/2023;Roraima;RR;2172;Noite;Misterio;PLANO PREMIUM; R$ 37,90 
+25/01/2023;Rondônia;RO;6517;Madrugada;Ciência e Natureza;PLANO BASICO; R$ 19,90 
+14/03/2023;Piauí;PI;5178;Madrugada;EUA;PLANO PADRAO; R$ 27,90 
+27/03/2023;Distrito Federal;DF;9137;Manhã;Braliseiros;PLANO PREMIUM; R$ 37,90 
+14/02/2023;Rio Grande do Sul;RS;1569;Noite;Series e Documentarios;PLANO PREMIUM; R$ 37,90 
+15/03/2023;Roraima;RR;7619;Noite;Esporte;PLANO PREMIUM; R$ 37,90 
+12/02/2023;Minas Gerais;MG;6379;Madrugada;Braliseiros;PLANO PADRAO; R$ 27,90 
+11/03/2023;Espírito Santo;ES;8440;Noite;Terror;PLANO BASICO; R$ 19,90 
+13/02/2023;Ceará;CE;3324;Madrugada;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+24/02/2023;Ceará;CE;6613;Manhã;Ficção Cientifica e fantasia;PLANO PREMIUM; R$ 37,90 
+03/02/2023;Santa Catarina;SC;4605;Noite;Misterio;PLANO PADRAO; R$ 27,90 
+23/01/2023;Maranhão;MA;2547;Manhã;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+09/03/2023;Mato Grosso do Sul;MS;8184;Manhã;Novelas;PLANO PADRAO; R$ 27,90 
+25/01/2023;Rio de Janeiro;RJ;7351;Madrugada;Ficção Cientifica e fantasia;PLANO BASICO; R$ 19,90 
+11/03/2023;Paraíba;PB;8588;Tarde;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+26/01/2023;Maranhão;MA;6580;Noite;Reality e Talks;PLANO BASICO; R$ 19,90 
+17/01/2023;Santa Catarina;SC;844;Tarde;Braliseiros;PLANO PREMIUM; R$ 37,90 
+24/03/2023;Espírito Santo;ES;5189;Madrugada;Para Crianças;PLANO BASICO; R$ 19,90 
+29/03/2023;Espírito Santo;ES;5189;Manhã;EUA;PLANO BASICO; R$ 19,90 
+06/03/2023;Rio Grande do Norte;RN;6407;Tarde;Para Crianças;PLANO PREMIUM; R$ 37,90 
+15/02/2023;Paraíba;PB;8639;Noite;Asiaticos;PLANO PREMIUM; R$ 37,90 
+11/01/2023;Espírito Santo;ES;8103;Manhã;Teen;PLANO PREMIUM; R$ 37,90 
+24/02/2023;Rio Grande do Sul;RS;7005;Noite;Ação;PLANO PREMIUM; R$ 19,90 
+23/02/2023;Bahia;BA;8982;Noite;Asiaticos;PLANO PADRAO; R$ 27,90 
+16/02/2023;Espírito Santo;ES;3179;Manhã;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+09/01/2023;Goiás;GO;1246;Noite;Anime;PLANO BASICO; R$ 19,90 
+22/01/2023;Piauí;PI;2024;Madrugada;Drama;PLANO PADRAO; R$ 27,90 
+13/03/2023;Piauí;PI;9634;Noite;Drama;PLANO PREMIUM; R$ 37,90 
+14/01/2023;Santa Catarina;SC;9685;Noite;Series e Documentarios;PLANO PADRAO; R$ 27,90 
+15/03/2023;Santa Catarina;SC;366;Manhã;Anime;PLANO PREMIUM; R$ 37,90 
+06/02/2023;Minas Gerais;MG;687;Noite;Novas Pers.Sobre. Def;PLANO PREMIUM; R$ 37,90 
+05/02/2023;São Paulo;SP;2142;Noite;Braliseiros;PLANO BASICO; R$ 19,90 
+27/03/2023;Amapá;AP;592;Noite;Series e Documentarios;PLANO PREMIUM; R$ 37,90 
+26/02/2023;Espírito Santo;ES;6607;Manhã;Terror;PLANO BASICO; R$ 19,90 
+18/02/2023;Rio Grande do Norte;RN;6897;Madrugada;Drama;PLANO PADRAO; R$ 27,90 
+04/02/2023;Maranhão;MA;7732;Noite;Novas Pers.Sobre. Def;PLANO PREMIUM; R$ 37,90 
+23/01/2023;Amapá;AP;921;Noite;Teen;PLANO BASICO; R$ 19,90 
+01/03/2023;Mato Grosso do Sul;MS;6238;Madrugada;Asiaticos;PLANO PREMIUM; R$ 37,90 
+03/03/2023;Rondônia;RO;3267;Manhã;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+05/02/2023;Acre;AC;5992;Manhã;Reality e Talks;PLANO PREMIUM; R$ 37,90 
+30/03/2023;Bahia;BA;7031;Noite;Reality e Talks;PLANO BASICO; R$ 19,90 
+27/03/2023;Amazonas;AM;5876;Tarde;Para Crianças;PLANO PREMIUM; R$ 37,90 
+03/01/2023;Bahia;BA;9555;Manhã;Esporte;PLANO PADRAO; R$ 27,90 
+10/03/2023;Sergipe;SE;1914;Manhã;Ficção Cientifica e fantasia;PLANO PREMIUM; R$ 37,90 
+08/03/2023;Paraná;PR;7085;Manhã;Ciência e Natureza;PLANO BASICO; R$ 19,90 
+22/03/2023;São Paulo;SP;8177;Madrugada;Novelas;PLANO PREMIUM; R$ 37,90 
+15/03/2023;Roraima;RR;6667;Noite;Novelas;PLANO PREMIUM; R$ 37,90 
+26/03/2023;Maranhão;MA;6702;Manhã;Ação;PLANO PREMIUM; R$ 37,90 
+23/01/2023;Amapá;AP;3642;Manhã;Ciência e Natureza;PLANO BASICO; R$ 19,90 
+17/01/2023;Rio Grande do Sul;RS;3142;Noite;Comédia;PLANO PREMIUM; R$ 37,90 
+07/03/2023;Paraná;PR;7179;Noite;Drama;PLANO PREMIUM; R$ 37,90 
+24/03/2023;Amazonas;AM;9255;Noite;Misterio;PLANO PREMIUM; R$ 37,90 
+24/01/2023;Distrito Federal;DF;1458;Madrugada;Comédia;PLANO PREMIUM; R$ 37,90 
+20/01/2023;Tocantins;TO;5869;Noite;Terror;PLANO BASICO; R$ 19,90 
+13/01/2023;Minas Gerais;MG;7836;Madrugada;Ciência e Natureza;PLANO BASICO; R$ 19,90 
+06/02/2023;Rondônia;RO;5473;Tarde;Reality e Talks;PLANO BASICO; R$ 19,90 
+26/02/2023;Pará;PA;4988;Manhã;Politica;PLANO BASICO; R$ 19,90 
+30/03/2023;Minas Gerais;MG;5709;Tarde;Novelas;PLANO PREMIUM; R$ 37,90 
+28/03/2023;Mato Grosso do Sul;MS;1616;Noite;Braliseiros;PLANO BASICO; R$ 19,90 
+02/03/2023;São Paulo;SP;891;Tarde;Drama;PLANO PADRAO; R$ 27,90 
+15/02/2023;Mato Grosso;MT;9845;Manhã;Politica;PLANO PADRAO; R$ 27,90 
+05/03/2023;Paraíba;PB;4504;Noite;Misterio;PLANO PREMIUM; R$ 37,90 
+11/03/2023;Distrito Federal;DF;6685;Noite;Romance;PLANO BASICO; R$ 19,90 
+25/03/2023;Sergipe;SE;1893;Manhã;Teen;PLANO BASICO; R$ 19,90 
+04/02/2023;Roraima;RR;3841;Madrugada;Asiaticos;PLANO BASICO; R$ 19,90 
+19/01/2023;São Paulo;SP;7482;Noite;Asiaticos;PLANO BASICO; R$ 19,90 
+11/01/2023;Minas Gerais;MG;7462;Manhã;Ciência e Natureza;PLANO PADRAO; R$ 27,90 
+04/03/2023;Rondônia;RO;599;Tarde;Novas Pers.Sobre. Def;PLANO PADRAO; R$ 27,90 
+16/03/2023;Paraíba;PB;2231;Madrugada;Drama;PLANO PREMIUM; R$ 37,90 
+01/01/2023;Maranhão;MA;3596;Manhã;Series e Documentarios;PLANO BASICO; R$ 19,90 
+11/03/2023;Goiás;GO;525;Noite;Reality e Talks;PLANO PADRAO; R$ 27,90 
+24/01/2023;Rio Grande do Sul;RS;3326;Tarde;Romance;PLANO PADRAO; R$ 27,90 
+16/01/2023;Rio de Janeiro;RJ;7895;Tarde;Romance;PLANO PREMIUM; R$ 37,90 
+20/01/2023;Pará;PA;7981;Manhã;EUA;PLANO BASICO; R$ 19,90 
+19/03/2023;Ceará;CE;6049;Madrugada;EUA;PLANO PREMIUM; R$ 37,90 
+16/03/2023;Mato Grosso do Sul;MS;8994;Noite;Novelas;PLANO PREMIUM; R$ 37,90 
+23/02/2023;Acre;AC;4489;Noite;EUA;PLANO BASICO; R$ 19,90 
+27/02/2023;Minas Gerais;MG;1023;Manhã;Drama;PLANO BASICO; R$ 19,90 
+15/01/2023;Bahia;BA;8606;Madrugada;Politica;PLANO PREMIUM; R$ 37,90 
+19/03/2023;Minas Gerais;MG;7068;Noite;Ficção Cientifica e fantasia;PLANO PADRAO; R$ 27,90 
+14/01/2023;Minas Gerais;MG;9203;Madrugada;EUA;PLANO PADRAO; R$ 27,90 
+23/02/2023;Goiás;GO;1678;Manhã;Braliseiros;PLANO BASICO; R$ 19,90 
+09/02/2023;Alagoas;AL;2773;Manhã;Ação;PLANO BASICO; R$ 19,90 
+08/03/2023;Espírito Santo;ES;5683;Tarde;Braliseiros;PLANO BASICO; R$ 19,90 
+21/02/2023;Roraima;RR;1953;Tarde;Reality e Talks;PLANO PREMIUM; R$ 37,90 
+20/01/2023;Pernambuco;PE;932;Tarde;Ficção Cientifica e fantasia;PLANO BASICO; R$ 19,90 
+10/03/2023;Acre;AC;949;Madrugada;Asiaticos;PLANO PADRAO; R$ 27,90 
+03/01/2023;Tocantins;TO;7990;Manhã;Drama;PLANO PADRAO; R$ 27,90 
+26/03/2023;Santa Catarina;SC;1047;Manhã;Ficção Cientifica e fantasia;PLANO PREMIUM; R$ 37,90 
+26/02/2023;Pernambuco;PE;648;Madrugada;Ação;PLANO PADRAO; R$ 27,90 
+16/03/2023;Bahia;BA;5270;Tarde;Politica;PLANO BASICO; R$ 19,90 
+02/03/2023;Minas Gerais;MG;7978;Noite;Teen;PLANO PREMIUM; R$ 37,90 
+31/03/2023;Paraíba;PB;6179;Tarde;Asiaticos;PLANO PADRAO; R$ 27,90 
+14/01/2023;Distrito Federal;DF;3296;Noite;Comédia;PLANO BASICO; R$ 19,90 
+26/03/2023;Minas Gerais;MG;9203;Noite;Ação;PLANO PREMIUM; R$ 37,90 
+01/02/2023;Amazonas;AM;2565;Madrugada;Teen;PLANO PREMIUM; R$ 37,90 
+23/01/2023;Rio de Janeiro;RJ;4393;Madrugada;Terror;PLANO PREMIUM; R$ 37,90 
+25/02/2023;Mato Grosso;MT;5783;Madrugada;Misterio;PLANO PREMIUM; R$ 37,90 
+31/03/2023;Pará;PA;8174;Noite;Esporte;PLANO PREMIUM; R$ 37,90 
+29/01/2023;Paraíba;PB;5454;Noite;EUA;PLANO PREMIUM; R$ 37,90 
+10/01/2023;Rio de Janeiro;RJ;3411;Tarde;Para Crianças;PLANO BASICO; R$ 19,90 
+31/01/2023;Roraima;RR;2911;Tarde;Anime;PLANO PREMIUM; R$ 37,90 
+31/01/2023;Espírito Santo;ES;6146;Tarde;Novas Pers.Sobre. Def;PLANO PADRAO; R$ 27,90 
+19/03/2023;Ceará;CE;5415;Tarde;Politica;PLANO BASICO; R$ 19,90 
+12/03/2023;Pará;PA;5820;Noite;Series e Documentarios;PLANO PADRAO; R$ 27,90 
+29/03/2023;Alagoas;AL;4088;Madrugada;Asiaticos;PLANO BASICO; R$ 19,90 
+01/02/2023;Minas Gerais;MG;908;Tarde;Braliseiros;PLANO BASICO; R$ 19,90 
+27/03/2023;Roraima;RR;7911;Madrugada;Ficção Cientifica e fantasia;PLANO PADRAO; R$ 27,90 
+25/02/2023;Mato Grosso do Sul;MS;9118;Manhã;EUA;PLANO BASICO; R$ 19,90 
+09/02/2023;Sergipe;SE;7492;Madrugada;Politica;PLANO BASICO; R$ 19,90 
+01/03/2023;Espírito Santo;ES;7779;Manhã;Ciência e Natureza;PLANO BASICO; R$ 19,90 
+12/03/2023;Roraima;RR;8888;Manhã;Terror;PLANO BASICO; R$ 19,90 
+01/03/2023;Pará;PA;3086;Tarde;Ciência e Natureza;PLANO BASICO; R$ 19,90 
+03/02/2023;São Paulo;SP;7054;Manhã;Comédia;PLANO PADRAO; R$ 27,90 
+15/01/2023;Paraíba;PB;9592;Manhã;Ação;PLANO PREMIUM; R$ 37,90 
+26/01/2023;Mato Grosso do Sul;MS;8833;Manhã;Terror;PLANO PREMIUM; R$ 37,90 
+12/02/2023;Bahia;BA;822;Tarde;Anime;PLANO PREMIUM; R$ 37,90 
+15/03/2023;Bahia;BA;5765;Tarde;Comédia;PLANO BASICO; R$ 19,90 
+07/01/2023;Rio Grande do Sul;RS;2052;Tarde;Comédia;PLANO PADRAO; R$ 27,90 
+28/02/2023;Bahia;BA;435;Manhã;Romance;PLANO PADRAO; R$ 27,90 
+22/01/2023;Maranhão;MA;4733;Noite;Misterio;PLANO BASICO; R$ 19,90 
+16/02/2023;Distrito Federal;DF;9044;Noite;Teen;PLANO PREMIUM; R$ 37,90 
+28/02/2023;Bahia;BA;8358;Tarde;Novelas;PLANO PADRAO; R$ 27,90 
+26/02/2023;Ceará;CE;4279;Noite;Reality e Talks;PLANO PREMIUM; R$ 37,90 
+21/03/2023;Sergipe;SE;2565;Noite;Terror;PLANO PREMIUM; R$ 37,90 
+24/02/2023;Roraima;RR;7085;Noite;Asiaticos;PLANO PREMIUM; R$ 37,90 
+17/03/2023;Ceará;CE;2933;Madrugada;Ação;PLANO PADRAO; R$ 27,90 
+24/03/2023;Sergipe;SE;1172;Tarde;Ação;PLANO PREMIUM; R$ 37,90 
+07/01/2023;Goiás;GO;3772;Tarde;Teen;PLANO BASICO; R$ 19,90 
+14/03/2023;Amazonas;AM;2052;Madrugada;Series e Documentarios;PLANO PADRAO; R$ 27,90 
+10/03/2023;Bahia;BA;7860;Tarde;Novelas;PLANO BASICO; R$ 19,90 
+11/01/2023;Distrito Federal;DF;1266;Tarde;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+07/03/2023;Amapá;AP;9482;Manhã;Ciência e Natureza;PLANO PADRAO; R$ 27,90 
+31/03/2023;Paraná;PR;6930;Manhã;Para Crianças;PLANO PREMIUM; R$ 37,90 
+21/02/2023;Goiás;GO;9790;Noite;Anime;PLANO BASICO; R$ 19,90 
+08/03/2023;Maranhão;MA;5783;Tarde;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+22/02/2023;Paraíba;PB;421;Madrugada;Para Crianças;PLANO BASICO; R$ 19,90 
+24/01/2023;Espírito Santo;ES;8664;Tarde;Reality e Talks;PLANO BASICO; R$ 19,90 
+04/01/2023;Goiás;GO;3336;Noite;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+03/02/2023;Maranhão;MA;3173;Madrugada;Anime;PLANO BASICO; R$ 19,90 
+28/02/2023;Pará;PA;8671;Madrugada;Ficção Cientifica e fantasia;PLANO PREMIUM; R$ 37,90 
+22/02/2023;Ceará;CE;410;Noite;Novelas;PLANO BASICO; R$ 19,90 
+09/02/2023;Rio Grande do Norte;RN;8794;Noite;Para Crianças;PLANO PREMIUM; R$ 37,90 
+05/02/2023;Rondônia;RO;3350;Tarde;Teen;PLANO PREMIUM; R$ 37,90 
+19/03/2023;São Paulo;SP;7704;Noite;EUA;PLANO PADRAO; R$ 27,90 
+15/01/2023;Mato Grosso do Sul;MS;1750;Madrugada;EUA;PLANO BASICO; R$ 19,90 
+31/03/2023;Espírito Santo;ES;1780;Noite;Asiaticos;PLANO PREMIUM; R$ 37,90 
+08/02/2023;Paraíba;PB;1494;Madrugada;Romance;PLANO BASICO; R$ 19,90 
+04/03/2023;Rio de Janeiro;RJ;4095;Manhã;Terror;PLANO BASICO; R$ 19,90 
+20/02/2023;Espírito Santo;ES;3283;Tarde;Braliseiros;PLANO BASICO; R$ 19,90 
+15/03/2023;Tocantins;TO;6372;Madrugada;Asiaticos;PLANO BASICO; R$ 19,90 
+29/01/2023;Bahia;BA;7327;Tarde;Esporte;PLANO BASICO; R$ 19,90 
+15/01/2023;Rio Grande do Norte;RN;3419;Madrugada;Drama;PLANO BASICO; R$ 19,90 
+12/03/2023;Mato Grosso do Sul;MS;1679;Manhã;EUA;PLANO BASICO; R$ 19,90 
+11/02/2023;Rio de Janeiro;RJ;1257;Madrugada;Politica;PLANO PADRAO; R$ 27,90 
+02/02/2023;Rio de Janeiro;RJ;9220;Noite;Reality e Talks;PLANO PADRAO; R$ 27,90 
+23/03/2023;Maranhão;MA;2152;Madrugada;Braliseiros;PLANO BASICO; R$ 19,90 
+15/01/2023;Santa Catarina;SC;4365;Tarde;Novelas;PLANO PREMIUM; R$ 37,90 
+30/03/2023;Espírito Santo;ES;1025;Madrugada;Novelas;PLANO PADRAO; R$ 27,90 
+31/03/2023;Distrito Federal;DF;3564;Madrugada;Esporte;PLANO BASICO; R$ 19,90 
+18/02/2023;Pará;PA;3640;Madrugada;Misterio;PLANO BASICO; R$ 19,90 
+08/01/2023;Maranhão;MA;7532;Noite;Series e Documentarios;PLANO PREMIUM; R$ 37,90 
+06/03/2023;Tocantins;TO;7364;Tarde;Esporte;PLANO PADRAO; R$ 27,90 
+25/03/2023;Paraná;PR;7292;Noite;Politica;PLANO BASICO; R$ 19,90 
+21/01/2023;Ceará;CE;6860;Manhã;Drama;PLANO PREMIUM; R$ 37,90 
+09/01/2023;Goiás;GO;8278;Tarde;Esporte;PLANO PADRAO; R$ 27,90 
+04/01/2023;Roraima;RR;6254;Manhã;Reality e Talks;PLANO BASICO; R$ 19,90 
+20/03/2023;Piauí;PI;2570;Tarde;Drama;PLANO BASICO; R$ 19,90 
+06/02/2023;Paraná;PR;6260;Noite;Comédia;PLANO PADRAO; R$ 27,90 
+07/02/2023;Mato Grosso do Sul;MS;4307;Manhã;Ficção Cientifica e fantasia;PLANO BASICO; R$ 19,90 
+22/01/2023;Rondônia;RO;8081;Madrugada;Ficção Cientifica e fantasia;PLANO BASICO; R$ 19,90 
+30/01/2023;Pernambuco;PE;1653;Noite;Esporte;PLANO PREMIUM; R$ 37,90 
+29/03/2023;Roraima;RR;1283;Manhã;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+04/03/2023;Ceará;CE;9797;Tarde;Ficção Cientifica e fantasia;PLANO PREMIUM; R$ 37,90 
+08/01/2023;Mato Grosso do Sul;MS;2844;Madrugada;Anime;PLANO PREMIUM; R$ 37,90 
+18/02/2023;Rondônia;RO;4567;Manhã;Esporte;PLANO PADRAO; R$ 27,90 
+03/03/2023;Distrito Federal;DF;1482;Madrugada;Ação;PLANO PADRAO; R$ 27,90 
+07/01/2023;Espírito Santo;ES;8867;Manhã;Para Crianças;PLANO PADRAO; R$ 27,90 
+10/03/2023;Pernambuco;PE;2957;Noite;Ficção Cientifica e fantasia;PLANO BASICO; R$ 19,90 
+01/03/2023;Alagoas;AL;2541;Tarde;Drama;PLANO PREMIUM; R$ 37,90 
+20/03/2023;Rondônia;RO;8941;Noite;Misterio;PLANO BASICO; R$ 19,90 
+03/03/2023;Goiás;GO;5400;Manhã;Politica;PLANO PREMIUM; R$ 37,90 
+02/03/2023;Paraíba;PB;5730;Manhã;Novelas;PLANO BASICO; R$ 19,90 
+13/02/2023;Paraíba;PB;2282;Noite;Novelas;PLANO PADRAO; R$ 27,90 
+07/01/2023;Rio de Janeiro;RJ;4160;Madrugada;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+23/02/2023;Tocantins;TO;9701;Manhã;Asiaticos;PLANO PREMIUM; R$ 37,90 
+03/03/2023;Distrito Federal;DF;2161;Madrugada;Ciência e Natureza;PLANO PADRAO; R$ 27,90 
+08/03/2023;Santa Catarina;SC;562;Manhã;Asiaticos;PLANO PADRAO; R$ 27,90 
+01/03/2023;Alagoas;AL;3554;Tarde;Ação;PLANO PREMIUM; R$ 37,90 
+10/02/2023;Ceará;CE;695;Tarde;Misterio;PLANO BASICO; R$ 19,90 
+25/01/2023;Minas Gerais;MG;8755;Noite;Novas Pers.Sobre. Def;PLANO PREMIUM; R$ 37,90 
+17/02/2023;São Paulo;SP;7975;Noite;Ciência e Natureza;PLANO PADRAO; R$ 27,90 
+23/02/2023;Alagoas;AL;5261;Noite;Comédia;PLANO PADRAO; R$ 27,90 
+16/02/2023;Roraima;RR;2217;Noite;Ação;PLANO PREMIUM; R$ 37,90 
+09/03/2023;São Paulo;SP;7591;Madrugada;Anime;PLANO PADRAO; R$ 27,90 
+01/03/2023;São Paulo;SP;862;Manhã;Ficção Cientifica e fantasia;PLANO PADRAO; R$ 27,90 
+17/01/2023;Rio Grande do Norte;RN;6520;Manhã;Novas Pers.Sobre. Def;PLANO PREMIUM; R$ 37,90 
+07/03/2023;Ceará;CE;4986;Madrugada;Reality e Talks;PLANO BASICO; R$ 19,90 
+25/03/2023;Alagoas;AL;1860;Manhã;Misterio;PLANO PREMIUM; R$ 37,90 
+16/03/2023;Rio de Janeiro;RJ;8058;Tarde;Comédia;PLANO BASICO; R$ 19,90 
+03/03/2023;Roraima;RR;8301;Noite;Series e Documentarios;PLANO PADRAO; R$ 27,90 
+11/01/2023;Santa Catarina;SC;9444;Tarde;Teen;PLANO PADRAO; R$ 27,90 
+22/03/2023;Pará;PA;964;Manhã;Asiaticos;PLANO PADRAO; R$ 27,90 
+06/03/2023;Goiás;GO;1638;Noite;Braliseiros;PLANO BASICO; R$ 19,90 
+20/03/2023;Rio de Janeiro;RJ;7961;Manhã;Reality e Talks;PLANO PADRAO; R$ 27,90 
+02/01/2023;Ceará;CE;5968;Noite;Drama;PLANO PREMIUM; R$ 37,90 
+18/01/2023;Santa Catarina;SC;2958;Manhã;Anime;PLANO PREMIUM; R$ 37,90 
+01/02/2023;Alagoas;AL;6938;Noite;Ação;PLANO PADRAO; R$ 27,90 
+20/02/2023;Paraná;PR;3169;Manhã;Ação;PLANO BASICO; R$ 19,90 
+29/03/2023;Distrito Federal;DF;7098;Manhã;Ação;PLANO PREMIUM; R$ 37,90 
+09/02/2023;Piauí;PI;3170;Noite;Comédia;PLANO BASICO; R$ 19,90 
+08/01/2023;Mato Grosso;MT;4571;Noite;Ação;PLANO PREMIUM; R$ 37,90 
+23/03/2023;Amazonas;AM;4852;Noite;Ficção Cientifica e fantasia;PLANO PADRAO; R$ 27,90 
+26/01/2023;Espírito Santo;ES;711;Manhã;Ciência e Natureza;PLANO PADRAO; R$ 27,90 
+20/02/2023;Minas Gerais;MG;1904;Manhã;Para Crianças;PLANO PADRAO; R$ 27,90 
+21/01/2023;Ceará;CE;1473;Manhã;Comédia;PLANO PADRAO; R$ 27,90 
+31/01/2023;Piauí;PI;5258;Tarde;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+31/03/2023;Sergipe;SE;6198;Manhã;Novelas;PLANO PREMIUM; R$ 37,90 
+20/03/2023;Maranhão;MA;1698;Noite;Braliseiros;PLANO BASICO; R$ 19,90 
+10/03/2023;Acre;AC;8089;Madrugada;Teen;PLANO BASICO; R$ 19,90 
+21/02/2023;Mato Grosso do Sul;MS;2873;Noite;Esporte;PLANO BASICO; R$ 19,90 
+28/01/2023;Mato Grosso do Sul;MS;7331;Manhã;Ficção Cientifica e fantasia;PLANO BASICO; R$ 19,90 
+02/01/2023;Acre;AC;3010;Noite;Braliseiros;PLANO PREMIUM; R$ 37,90 
+27/01/2023;Goiás;GO;4685;Noite;Reality e Talks;PLANO PREMIUM; R$ 37,90 
+26/03/2023;Maranhão;MA;9158;Manhã;Para Crianças;PLANO BASICO; R$ 19,90 
+09/01/2023;Rio Grande do Norte;RN;6033;Madrugada;Reality e Talks;PLANO PADRAO; R$ 27,90 
+10/03/2023;Maranhão;MA;3756;Madrugada;Ficção Cientifica e fantasia;PLANO PADRAO; R$ 27,90 
+08/03/2023;Paraná;PR;9137;Manhã;Esporte;PLANO PADRAO; R$ 27,90 
+26/02/2023;Pernambuco;PE;2167;Noite;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+26/01/2023;Pará;PA;1181;Tarde;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+16/02/2023;Acre;AC;9153;Tarde;Romance;PLANO PADRAO; R$ 27,90 
+05/03/2023;Mato Grosso do Sul;MS;4490;Noite;Teen;PLANO BASICO; R$ 19,90 
+23/02/2023;Piauí;PI;888;Manhã;Comédia;PLANO PADRAO; R$ 27,90 
+14/01/2023;Distrito Federal;DF;7017;Manhã;Para Crianças;PLANO PADRAO; R$ 27,90 
+05/03/2023;Santa Catarina;SC;7957;Noite;Para Crianças;PLANO BASICO; R$ 19,90 
+12/01/2023;Mato Grosso do Sul;MS;998;Manhã;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+29/03/2023;Acre;AC;4572;Manhã;Anime;PLANO PADRAO; R$ 27,90 
+30/01/2023;Mato Grosso;MT;1023;Noite;Para Crianças;PLANO PREMIUM; R$ 37,90 
+11/01/2023;Paraná;PR;5046;Tarde;Romance;PLANO PADRAO; R$ 27,90 
+14/01/2023;Bahia;BA;1429;Noite;Comédia;PLANO BASICO; R$ 19,90 
+12/02/2023;Sergipe;SE;8839;Noite;Politica;PLANO BASICO; R$ 19,90 
+06/03/2023;Espírito Santo;ES;2850;Noite;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+21/01/2023;Goiás;GO;3642;Tarde;Ação;PLANO PREMIUM; R$ 37,90 
+28/01/2023;Ceará;CE;8291;Madrugada;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+12/01/2023;Maranhão;MA;2118;Manhã;Esporte;PLANO PADRAO; R$ 27,90 
+14/03/2023;Goiás;GO;5520;Madrugada;Romance;PLANO PREMIUM; R$ 37,90 
+08/01/2023;Alagoas;AL;6733;Tarde;Reality e Talks;PLANO BASICO; R$ 19,90 
+09/02/2023;Roraima;RR;797;Madrugada;Braliseiros;PLANO PADRAO; R$ 27,90 
+02/02/2023;Goiás;GO;7141;Madrugada;Braliseiros;PLANO PREMIUM; R$ 37,90 
+27/02/2023;São Paulo;SP;3779;Tarde;Romance;PLANO PADRAO; R$ 27,90 
+25/03/2023;Piauí;PI;9080;Madrugada;Novelas;PLANO PREMIUM; R$ 37,90 
+31/01/2023;Paraíba;PB;9084;Manhã;Ação;PLANO BASICO; R$ 19,90 
+06/03/2023;Sergipe;SE;4027;Madrugada;Novas Pers.Sobre. Def;PLANO PADRAO; R$ 27,90 
+26/01/2023;Ceará;CE;7778;Madrugada;Teen;PLANO PADRAO; R$ 27,90 
+03/03/2023;Mato Grosso do Sul;MS;3740;Noite;Braliseiros;PLANO BASICO; R$ 19,90 
+01/02/2023;São Paulo;SP;2084;Noite;Ação;PLANO BASICO; R$ 19,90 
+19/03/2023;Ceará;CE;802;Tarde;Novelas;PLANO PADRAO; R$ 27,90 
+22/02/2023;Amazonas;AM;8098;Manhã;Series e Documentarios;PLANO PREMIUM; R$ 37,90 
+14/03/2023;Rio Grande do Norte;RN;3778;Manhã;Terror;PLANO BASICO; R$ 19,90 
+20/02/2023;Amapá;AP;6261;Manhã;Comédia;PLANO PREMIUM; R$ 37,90 
+05/02/2023;Paraná;PR;8393;Madrugada;Anime;PLANO PREMIUM; R$ 37,90 
+22/01/2023;Acre;AC;2085;Madrugada;Ficção Cientifica e fantasia;PLANO PREMIUM; R$ 37,90 
+26/01/2023;Bahia;BA;7936;Madrugada;Anime;PLANO PADRAO; R$ 27,90 
+04/03/2023;Rio de Janeiro;RJ;6853;Noite;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+22/03/2023;Espírito Santo;ES;8081;Madrugada;Politica;PLANO PADRAO; R$ 27,90 
+16/01/2023;Acre;AC;1807;Tarde;Ação;PLANO BASICO; R$ 19,90 
+31/01/2023;Mato Grosso;MT;1598;Tarde;Asiaticos;PLANO PADRAO; R$ 27,90 
+26/01/2023;Distrito Federal;DF;9377;Manhã;Terror;PLANO PADRAO; R$ 27,90 
+18/01/2023;Minas Gerais;MG;9449;Madrugada;Novelas;PLANO PADRAO; R$ 27,90 
+11/02/2023;Roraima;RR;3427;Madrugada;Esporte;PLANO PADRAO; R$ 27,90 
+10/03/2023;Rio Grande do Norte;RN;1428;Manhã;Series e Documentarios;PLANO PREMIUM; R$ 37,90 
+03/03/2023;Goiás;GO;2379;Madrugada;Terror;PLANO PREMIUM; R$ 37,90 
+09/01/2023;Rio Grande do Norte;RN;8651;Manhã;Anime;PLANO PREMIUM; R$ 37,90 
+17/01/2023;Paraíba;PB;4680;Noite;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+11/03/2023;Minas Gerais;MG;4982;Tarde;Reality e Talks;PLANO BASICO; R$ 19,90 
+22/01/2023;Pará;PA;4072;Madrugada;Ficção Cientifica e fantasia;PLANO PREMIUM; R$ 37,90 
+11/03/2023;Rio Grande do Norte;RN;7648;Madrugada;Comédia;PLANO PADRAO; R$ 27,90 
+07/01/2023;Piauí;PI;5872;Manhã;Esporte;PLANO PADRAO; R$ 27,90 
+28/02/2023;Alagoas;AL;4888;Manhã;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+19/02/2023;Roraima;RR;9511;Tarde;EUA;PLANO PADRAO; R$ 27,90 
+24/01/2023;Maranhão;MA;1922;Madrugada;Novelas;PLANO PADRAO; R$ 27,90 
+02/01/2023;Mato Grosso do Sul;MS;1549;Tarde;Drama;PLANO PADRAO; R$ 27,90 
+26/02/2023;Distrito Federal;DF;774;Madrugada;Novas Pers.Sobre. Def;PLANO PREMIUM; R$ 37,90 
+01/02/2023;Santa Catarina;SC;2831;Madrugada;Misterio;PLANO PREMIUM; R$ 37,90 
+25/01/2023;Pará;PA;3626;Noite;Misterio;PLANO PADRAO; R$ 27,90 
+26/01/2023;Bahia;BA;2863;Tarde;Comédia;PLANO PADRAO; R$ 27,90 
+31/03/2023;Roraima;RR;2027;Noite;Reality e Talks;PLANO PREMIUM; R$ 37,90 
+12/01/2023;Paraná;PR;3917;Tarde;Series e Documentarios;PLANO PADRAO; R$ 27,90 
+23/02/2023;Roraima;RR;8468;Manhã;Series e Documentarios;PLANO PADRAO; R$ 27,90 
+08/03/2023;Paraná;PR;2794;Manhã;Anime;PLANO PREMIUM; R$ 37,90 
+13/03/2023;Mato Grosso do Sul;MS;3325;Noite;Comédia;PLANO PREMIUM; R$ 37,90 
+27/02/2023;Acre;AC;8082;Madrugada;Novelas;PLANO PADRAO; R$ 27,90 
+10/03/2023;Amazonas;AM;8709;Noite;Misterio;PLANO BASICO; R$ 19,90 
+16/02/2023;Espírito Santo;ES;3324;Tarde;Teen;PLANO BASICO; R$ 19,90 
+05/01/2023;São Paulo;SP;2483;Madrugada;Braliseiros;PLANO PREMIUM; R$ 37,90 
+27/01/2023;Paraíba;PB;4835;Manhã;Misterio;PLANO BASICO; R$ 19,90 
+01/01/2023;Mato Grosso;MT;7580;Manhã;EUA;PLANO PREMIUM; R$ 37,90 
+26/01/2023;Distrito Federal;DF;3493;Tarde;Teen;PLANO PREMIUM; R$ 37,90 
+21/03/2023;Ceará;CE;8184;Noite;Esporte;PLANO PREMIUM; R$ 37,90 
+27/02/2023;Mato Grosso;MT;2998;Manhã;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+14/03/2023;Rio de Janeiro;RJ;4346;Tarde;Series e Documentarios;PLANO PADRAO; R$ 27,90 
+26/02/2023;Paraná;PR;4661;Noite;Novas Pers.Sobre. Def;PLANO PADRAO; R$ 27,90 
+10/01/2023;Piauí;PI;8138;Noite;Asiaticos;PLANO PADRAO; R$ 27,90 
+08/01/2023;Pará;PA;9116;Tarde;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+26/01/2023;Bahia;BA;7604;Madrugada;Braliseiros;PLANO BASICO; R$ 19,90 
+02/02/2023;Rio de Janeiro;RJ;409;Noite;Anime;PLANO PADRAO; R$ 27,90 
+13/01/2023;Roraima;RR;5961;Noite;Comédia;PLANO PADRAO; R$ 27,90 
+05/03/2023;Rio de Janeiro;RJ;3871;Manhã;Drama;PLANO BASICO; R$ 19,90 
+14/03/2023;Mato Grosso;MT;7664;Tarde;Para Crianças;PLANO BASICO; R$ 19,90 
+03/01/2023;Alagoas;AL;7723;Manhã;Comédia;PLANO BASICO; R$ 19,90 
+08/02/2023;Amazonas;AM;8007;Noite;Braliseiros;PLANO PADRAO; R$ 27,90 
+03/02/2023;Mato Grosso do Sul;MS;2179;Madrugada;Drama;PLANO PREMIUM; R$ 37,90 
+14/03/2023;Bahia;BA;7066;Noite;Para Crianças;PLANO PADRAO; R$ 27,90 
+23/01/2023;Amapá;AP;3846;Manhã;EUA;PLANO PADRAO; R$ 27,90 
+16/01/2023;Amapá;AP;2393;Tarde;Anime;PLANO PREMIUM; R$ 37,90 
+18/03/2023;Bahia;BA;2150;Manhã;Para Crianças;PLANO BASICO; R$ 19,90 
+20/03/2023;Acre;AC;5904;Manhã;Ação;PLANO BASICO; R$ 19,90 
+12/01/2023;Sergipe;SE;9193;Noite;Reality e Talks;PLANO PREMIUM; R$ 37,90 
+23/02/2023;Rio de Janeiro;RJ;7527;Tarde;Teen;PLANO BASICO; R$ 19,90 
+12/02/2023;Mato Grosso do Sul;MS;1755;Manhã;Ação;PLANO PADRAO; R$ 27,90 
+12/03/2023;Goiás;GO;4279;Tarde;Teen;PLANO PADRAO; R$ 27,90 
+26/03/2023;Amazonas;AM;3796;Tarde;EUA;PLANO BASICO; R$ 19,90 
+05/03/2023;Tocantins;TO;8311;Noite;Drama;PLANO PREMIUM; R$ 37,90 
+07/03/2023;Piauí;PI;5278;Tarde;Ficção Cientifica e fantasia;PLANO PADRAO; R$ 27,90 
+31/03/2023;Maranhão;MA;2889;Tarde;Novas Pers.Sobre. Def;PLANO PREMIUM; R$ 37,90 
+13/01/2023;Espírito Santo;ES;1105;Manhã;Romance;PLANO PREMIUM; R$ 37,90 
+28/01/2023;Paraíba;PB;8887;Madrugada;Anime;PLANO PREMIUM; R$ 37,90 
+02/02/2023;Minas Gerais;MG;480;Manhã;Asiaticos;PLANO BASICO; R$ 19,90 
+03/03/2023;Acre;AC;5406;Tarde;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+08/01/2023;Roraima;RR;5984;Madrugada;Ciência e Natureza;PLANO BASICO; R$ 19,90 
+15/03/2023;Espírito Santo;ES;5082;Madrugada;Terror;PLANO PREMIUM; R$ 37,90 
+12/02/2023;Pará;PA;7834;Noite;Reality e Talks;PLANO PREMIUM; R$ 37,90 
+03/02/2023;Rondônia;RO;564;Tarde;Misterio;PLANO PADRAO; R$ 27,90 
+03/01/2023;Santa Catarina;SC;6262;Tarde;Novas Pers.Sobre. Def;PLANO PREMIUM; R$ 37,90 
+24/02/2023;Acre;AC;3647;Madrugada;Ciência e Natureza;PLANO PADRAO; R$ 27,90 
+18/01/2023;Rio Grande do Norte;RN;6505;Tarde;Teen;PLANO PREMIUM; R$ 37,90 
+11/03/2023;Amazonas;AM;5152;Noite;Terror;PLANO PADRAO; R$ 27,90 
+31/01/2023;Minas Gerais;MG;1060;Madrugada;Novelas;PLANO BASICO; R$ 19,90 
+07/02/2023;Rio de Janeiro;RJ;9756;Noite;Comédia;PLANO PREMIUM; R$ 37,90 
+04/03/2023;Roraima;RR;1184;Madrugada;Comédia;PLANO PADRAO; R$ 27,90 
+29/01/2023;Sergipe;SE;6530;Tarde;Reality e Talks;PLANO BASICO; R$ 19,90 
+16/02/2023;Rio Grande do Norte;RN;7929;Madrugada;Novelas;PLANO PADRAO; R$ 27,90 
+05/02/2023;Mato Grosso;MT;8951;Madrugada;Teen;PLANO BASICO; R$ 19,90 
+22/03/2023;Goiás;GO;5068;Manhã;Para Crianças;PLANO BASICO; R$ 19,90 
+01/02/2023;Bahia;BA;3635;Noite;Esporte;PLANO PREMIUM; R$ 37,90 
+27/03/2023;Distrito Federal;DF;9495;Noite;Terror;PLANO PADRAO; R$ 27,90 
+01/03/2023;Amazonas;AM;9212;Madrugada;Ficção Cientifica e fantasia;PLANO BASICO; R$ 19,90 
+23/01/2023;Rio Grande do Sul;RS;1190;Manhã;Misterio;PLANO BASICO; R$ 19,90 
+17/02/2023;Alagoas;AL;5749;Manhã;Misterio;PLANO PREMIUM; R$ 37,90 
+12/03/2023;Ceará;CE;6926;Noite;Terror;PLANO BASICO; R$ 19,90 
+19/03/2023;Amazonas;AM;9702;Madrugada;Esporte;PLANO PADRAO; R$ 27,90 
+26/01/2023;Distrito Federal;DF;5604;Noite;Novas Pers.Sobre. Def;PLANO PADRAO; R$ 27,90 
+11/02/2023;Acre;AC;534;Tarde;Terror;PLANO BASICO; R$ 19,90 
+28/01/2023;Paraíba;PB;3316;Manhã;Romance;PLANO BASICO; R$ 19,90 
+01/02/2023;Amapá;AP;9173;Noite;Politica;PLANO PREMIUM; R$ 37,90 
+17/02/2023;Minas Gerais;MG;5933;Tarde;Novas Pers.Sobre. Def;PLANO PADRAO; R$ 27,90 
+01/02/2023;Piauí;PI;8277;Noite;Ficção Cientifica e fantasia;PLANO BASICO; R$ 19,90 
+27/01/2023;Rio Grande do Norte;RN;5505;Manhã;Teen;PLANO BASICO; R$ 19,90 
+17/01/2023;Rio de Janeiro;RJ;6490;Noite;Novas Pers.Sobre. Def;PLANO PADRAO; R$ 27,90 
+27/03/2023;Santa Catarina;SC;9320;Madrugada;Terror;PLANO PREMIUM; R$ 37,90 
+09/01/2023;Roraima;RR;5245;Tarde;Romance;PLANO BASICO; R$ 19,90 
+07/02/2023;Minas Gerais;MG;6758;Manhã;Anime;PLANO BASICO; R$ 19,90 
+27/01/2023;Rio Grande do Sul;RS;1676;Tarde;Teen;PLANO PREMIUM; R$ 37,90 
+05/02/2023;Amazonas;AM;7918;Tarde;Comédia;PLANO BASICO; R$ 19,90 
+04/03/2023;Santa Catarina;SC;4583;Noite;Drama;PLANO PREMIUM; R$ 37,90 
+31/03/2023;Maranhão;MA;9599;Noite;Novelas;PLANO PADRAO; R$ 27,90 
+24/01/2023;Amapá;AP;7306;Noite;Ciência e Natureza;PLANO PADRAO; R$ 27,90 
+05/01/2023;Rondônia;RO;4734;Tarde;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+25/01/2023;Pará;PA;9401;Madrugada;Braliseiros;PLANO PREMIUM; R$ 37,90 
+25/01/2023;Distrito Federal;DF;7854;Noite;Ciência e Natureza;PLANO BASICO; R$ 19,90 
+05/03/2023;Rondônia;RO;981;Madrugada;Reality e Talks;PLANO PADRAO; R$ 27,90 
+19/02/2023;Alagoas;AL;7280;Madrugada;Teen;PLANO PREMIUM; R$ 37,90 
+29/01/2023;Maranhão;MA;5950;Tarde;Politica;PLANO BASICO; R$ 19,90 
+13/02/2023;Rondônia;RO;8219;Madrugada;Ação;PLANO PREMIUM; R$ 37,90 
+28/01/2023;Maranhão;MA;4503;Madrugada;Braliseiros;PLANO PREMIUM; R$ 37,90 
+16/01/2023;Roraima;RR;2339;Madrugada;Reality e Talks;PLANO BASICO; R$ 19,90 
+13/03/2023;Pará;PA;8000;Tarde;Ação;PLANO BASICO; R$ 19,90 
+18/01/2023;Ceará;CE;4293;Noite;Ciência e Natureza;PLANO BASICO; R$ 19,90 
+21/02/2023;Goiás;GO;7020;Manhã;Misterio;PLANO BASICO; R$ 19,90 
+08/01/2023;Santa Catarina;SC;3719;Manhã;Para Crianças;PLANO BASICO; R$ 19,90 
+23/02/2023;Rio Grande do Sul;RS;2508;Madrugada;Misterio;PLANO PREMIUM; R$ 37,90 
+09/03/2023;Piauí;PI;764;Manhã;Ação;PLANO PADRAO; R$ 27,90 
+18/03/2023;Acre;AC;909;Tarde;Romance;PLANO PADRAO; R$ 27,90 
+15/02/2023;Piauí;PI;9682;Madrugada;Esporte;PLANO PADRAO; R$ 27,90 
+18/02/2023;Piauí;PI;4147;Manhã;Asiaticos;PLANO PREMIUM; R$ 37,90 
+11/01/2023;São Paulo;SP;6908;Tarde;Reality e Talks;PLANO BASICO; R$ 19,90 
+01/03/2023;Pernambuco;PE;4732;Manhã;Series e Documentarios;PLANO PADRAO; R$ 27,90 
+21/03/2023;Amazonas;AM;9510;Madrugada;Series e Documentarios;PLANO PADRAO; R$ 27,90 
+28/01/2023;Rio Grande do Norte;RN;9131;Noite;Terror;PLANO PREMIUM; R$ 37,90 
+06/01/2023;Espírito Santo;ES;9116;Madrugada;Terror;PLANO PADRAO; R$ 27,90 
+05/03/2023;Ceará;CE;4079;Noite;Novelas;PLANO BASICO; R$ 19,90 
+30/03/2023;São Paulo;SP;8252;Madrugada;Esporte;PLANO BASICO; R$ 19,90 
+28/01/2023;Tocantins;TO;6824;Manhã;Novelas;PLANO PADRAO; R$ 27,90 
+27/01/2023;Rio de Janeiro;RJ;4897;Madrugada;Novas Pers.Sobre. Def;PLANO PREMIUM; R$ 37,90 
+19/02/2023;Pará;PA;8592;Manhã;Drama;PLANO BASICO; R$ 19,90 
+23/02/2023;Ceará;CE;4572;Manhã;Teen;PLANO PREMIUM; R$ 37,90 
+11/02/2023;Tocantins;TO;1625;Tarde;Terror;PLANO BASICO; R$ 19,90 
+23/01/2023;Rio Grande do Norte;RN;4290;Manhã;Braliseiros;PLANO PADRAO; R$ 27,90 
+15/01/2023;Paraíba;PB;7452;Madrugada;Ficção Cientifica e fantasia;PLANO PREMIUM; R$ 37,90 
+03/03/2023;Minas Gerais;MG;1602;Manhã;Ação;PLANO PADRAO; R$ 27,90 
+12/01/2023;Rio Grande do Norte;RN;5223;Noite;Asiaticos;PLANO BASICO; R$ 19,90 
+27/01/2023;Rondônia;RO;3812;Tarde;Drama;PLANO PREMIUM; R$ 37,90 
+18/01/2023;Amapá;AP;2821;Madrugada;Reality e Talks;PLANO PADRAO; R$ 27,90 
+05/02/2023;Roraima;RR;9376;Madrugada;Teen;PLANO PREMIUM; R$ 37,90 
+31/03/2023;Bahia;BA;8997;Noite;Novas Pers.Sobre. Def;PLANO BASICO; R$ 19,90 
+12/01/2023;Tocantins;TO;3356;Noite;Drama;PLANO PADRAO; R$ 27,90 
+02/02/2023;Pernambuco;PE;5316;Manhã;Drama;PLANO PADRAO; R$ 27,90 
+29/03/2023;Pernambuco;PE;4415;Noite;Esporte;PLANO PREMIUM; R$ 37,90 
+20/01/2023;Ceará;CE;4038;Noite;Series e Documentarios;PLANO BASICO; R$ 19,90 
+07/01/2023;Mato Grosso do Sul;MS;854;Madrugada;Terror;PLANO PADRAO; R$ 27,90 
+23/02/2023;Santa Catarina;SC;639;Noite;Teen;PLANO PREMIUM; R$ 37,90 
+04/03/2023;Mato Grosso do Sul;MS;4670;Tarde;Reality e Talks;PLANO BASICO; R$ 19,90 
+17/02/2023;Minas Gerais;MG;4277;Manhã;Terror;PLANO BASICO; R$ 19,90 
+27/02/2023;Pernambuco;PE;5168;Manhã;Ficção Cientifica e fantasia;PLANO PREMIUM; R$ 37,90 
+22/03/2023;Roraima;RR;5132;Noite;Comédia;PLANO PREMIUM; R$ 37,90 
+19/02/2023;Minas Gerais;MG;9761;Madrugada;Reality e Talks;PLANO PADRAO; R$ 27,90 
+23/03/2023;Piauí;PI;4686;Manhã;EUA;PLANO PADRAO; R$ 27,90 
+06/03/2023;Tocantins;TO;7570;Manhã;Braliseiros;PLANO PADRAO; R$ 27,90 
+14/01/2023;Tocantins;TO;6363;Noite;Series e Documentarios;PLANO PREMIUM; R$ 37,90 
+09/02/2023;Goiás;GO;6131;Tarde;Reality e Talks;PLANO BASICO; R$ 19,90 
+27/01/2023;Maranhão;MA;5521;Madrugada;Drama;PLANO PREMIUM; R$ 37,90 
+18/03/2023;Amapá;AP;1591;Manhã;Braliseiros;PLANO BASICO; R$ 19,90 
+18/01/2023;Paraná;PR;1290;Tarde;Teen;PLANO PADRAO; R$ 27,90 
+27/03/2023;Paraíba;PB;709;Madrugada;Novas Pers.Sobre. Def;PLANO PADRAO; R$ 27,90 
+18/01/2023;Goiás;GO;8851;Tarde;Braliseiros;PLANO BASICO; R$ 19,90 
+28/03/2023;Pará;PA;2981;Tarde;Romance;PLANO BASICO; R$ 19,90 
+17/01/2023;Amapá;AP;9400;Manhã;EUA;PLANO BASICO; R$ 19,90 
+04/03/2023;Paraíba;PB;9525;Tarde;Politica;PLANO PADRAO; R$ 27,90 
+28/02/2023;Paraná;PR;835;Tarde;Misterio;PLANO PREMIUM; R$ 37,90 
+24/01/2023;Acre;AC;9194;Tarde;Para Crianças;PLANO PREMIUM; R$ 37,90 
+25/01/2023;Rondônia;RO;2311;Noite;Braliseiros;PLANO PREMIUM; R$ 37,90 
+07/03/2023;Tocantins;TO;3621;Noite;Romance;PLANO BASICO; R$ 19,90 
+04/03/2023;Santa Catarina;SC;9163;Noite;Braliseiros;PLANO PADRAO; R$ 27,90 
+06/01/2023;Distrito Federal;DF;9771;Tarde;Romance;PLANO BASICO; R$ 19,90 
+05/02/2023;Amapá;AP;8921;Manhã;Braliseiros;PLANO BASICO; R$ 19,90 
+18/02/2023;Pernambuco;PE;9418;Tarde;Ação;PLANO PREMIUM; R$ 37,90 
+07/03/2023;Distrito Federal;DF;1650;Tarde;Comédia;PLANO PREMIUM; R$ 37,90 
+27/02/2023;Maranhão;MA;6302;Madrugada;Series e Documentarios;PLANO PADRAO; R$ 27,90 
+19/02/2023;Bahia;BA;496;Noite;Ciência e Natureza;PLANO PADRAO; R$ 27,90 
+31/01/2023;Alagoas;AL;2942;Noite;Esporte;PLANO PREMIUM; R$ 37,90 
+24/01/2023;Paraíba;PB;8649;Madrugada;Comédia;PLANO BASICO; R$ 19,90 
+29/03/2023;Goiás;GO;2007;Manhã;Politica;PLANO BASICO; R$ 19,90 
+21/02/2023;Sergipe;SE;7773;Madrugada;Series e Documentarios;PLANO BASICO; R$ 19,90 
+06/01/2023;Amazonas;AM;4926;Madrugada;Teen;PLANO PREMIUM; R$ 37,90 
+27/03/2023;Sergipe;SE;2085;Tarde;Ciência e Natureza;PLANO BASICO; R$ 19,90 
+27/02/2023;Distrito Federal;DF;3552;Madrugada;Terror;PLANO PREMIUM; R$ 37,90 
+23/03/2023;Rio de Janeiro;RJ;4376;Tarde;Esporte;PLANO BASICO; R$ 19,90 
+01/02/2023;Rio Grande do Sul;RS;4685;Manhã;Terror;PLANO PREMIUM; R$ 37,90 
+07/01/2023;Espírito Santo;ES;7922;Manhã;Para Crianças;PLANO PREMIUM; R$ 37,90 
+19/03/2023;Mato Grosso;MT;2504;Madrugada;Ciência e Natureza;PLANO PADRAO; R$ 27,90 
+15/02/2023;Rondônia;RO;7515;Manhã;Misterio;PLANO PADRAO; R$ 27,90 
+19/02/2023;Paraíba;PB;6403;Noite;Drama;PLANO PADRAO; R$ 27,90 
+03/01/2023;Rondônia;RO;7216;Madrugada;Ciência e Natureza;PLANO BASICO; R$ 19,90 
+10/01/2023;Roraima;RR;9730;Madrugada;Romance;PLANO BASICO; R$ 19,90 
+11/02/2023;São Paulo;SP;1923;Manhã;Ficção Cientifica e fantasia;PLANO PREMIUM; R$ 37,90 
+12/01/2023;Amazonas;AM;3841;Manhã;Teen;PLANO PADRAO; R$ 27,90 
+09/03/2023;Acre;AC;9342;Manhã;Asiaticos;PLANO PREMIUM; R$ 37,90 
+21/03/2023;Goiás;GO;1098;Noite;Novas Pers.Sobre. Def;PLANO PREMIUM; R$ 37,90 
+16/02/2023;São Paulo;SP;3953;Madrugada;Misterio;PLANO PREMIUM; R$ 37,90 
+16/02/2023;Santa Catarina;SC;1561;Madrugada;Reality e Talks;PLANO PADRAO; R$ 27,90 
+03/03/2023;Maranhão;MA;9199;Noite;EUA;PLANO PADRAO; R$ 27,90 
+12/01/2023;Goiás;GO;7134;Madrugada;Asiaticos;PLANO BASICO; R$ 19,90 
+15/02/2023;Piauí;PI;8832;Tarde;Romance;PLANO BASICO; R$ 19,90 
+21/03/2023;Tocantins;TO;2459;Tarde;EUA;PLANO BASICO; R$ 19,90 
+26/01/2023;Ceará;CE;1913;Tarde;Teen;PLANO PADRAO; R$ 27,90 
+03/03/2023;Mato Grosso;MT;6196;Tarde;Reality e Talks;PLANO PREMIUM; R$ 37,90 
+06/01/2023;Paraná;PR;7047;Tarde;Asiaticos;PLANO PADRAO; R$ 27,90 
+21/01/2023;Goiás;GO;6188;Tarde;Reality e Talks;PLANO BASICO; R$ 19,90 
+10/02/2023;Santa Catarina;SC;892;Manhã;Series e Documentarios;PLANO BASICO; R$ 19,90 
+04/03/2023;Sergipe;SE;9351;Madrugada;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+14/02/2023;Paraná;PR;5115;Manhã;Anime;PLANO PREMIUM; R$ 37,90 
+08/03/2023;Piauí;PI;9758;Manhã;Ciência e Natureza;PLANO PADRAO; R$ 27,90 
+05/01/2023;Mato Grosso;MT;8698;Madrugada;EUA;PLANO PADRAO; R$ 27,90 
+23/02/2023;Sergipe;SE;3129;Tarde;Politica;PLANO PREMIUM; R$ 37,90 
+20/02/2023;Paraná;PR;8399;Madrugada;Asiaticos;PLANO PADRAO; R$ 27,90 
+07/03/2023;Goiás;GO;5469;Noite;Para Crianças;PLANO BASICO; R$ 19,90 
+09/03/2023;Rio Grande do Norte;RN;9407;Manhã;Misterio;PLANO BASICO; R$ 19,90 
+04/02/2023;Pernambuco;PE;5790;Manhã;Ficção Cientifica e fantasia;PLANO PREMIUM; R$ 37,90 
+10/02/2023;Maranhão;MA;8719;Tarde;Reality e Talks;PLANO PREMIUM; R$ 37,90 
+26/01/2023;Bahia;BA;6372;Tarde;Romance;PLANO PREMIUM; R$ 37,90 
+30/03/2023;Mato Grosso;MT;579;Tarde;Novelas;PLANO BASICO; R$ 19,90 
+23/02/2023;Pará;PA;627;Manhã;Ação;PLANO PADRAO; R$ 27,90 
+28/02/2023;Minas Gerais;MG;5232;Noite;Anime;PLANO PREMIUM; R$ 37,90 
+08/03/2023;Minas Gerais;MG;6357;Manhã;Para Crianças;PLANO BASICO; R$ 19,90 
+07/02/2023;Ceará;CE;7992;Noite;Braliseiros;PLANO PREMIUM; R$ 37,90 
+21/03/2023;Goiás;GO;4864;Madrugada;Politica;PLANO PREMIUM; R$ 37,90 
+24/03/2023;Espírito Santo;ES;2097;Madrugada;Ação;PLANO PADRAO; R$ 27,90 
+17/01/2023;Roraima;RR;5636;Madrugada;Braliseiros;PLANO PADRAO; R$ 27,90 
+02/02/2023;Sergipe;SE;5831;Noite;EUA;PLANO BASICO; R$ 19,90 
+26/01/2023;Acre;AC;3359;Manhã;Comédia;PLANO PADRAO; R$ 27,90 
+16/01/2023;Paraná;PR;3434;Tarde;Novas Pers.Sobre. Def;PLANO PADRAO; R$ 27,90 
+19/01/2023;Rio Grande do Norte;RN;634;Noite;Ação;PLANO BASICO; R$ 19,90 
+20/01/2023;Amazonas;AM;940;Madrugada;EUA;PLANO BASICO; R$ 19,90 
+03/02/2023;Mato Grosso do Sul;MS;3272;Noite;Novelas;PLANO PREMIUM; R$ 37,90 
+17/02/2023;São Paulo;SP;7513;Madrugada;Ciência e Natureza;PLANO PADRAO; R$ 27,90 
+18/02/2023;Mato Grosso;MT;2089;Madrugada;Terror;PLANO PADRAO; R$ 27,90 
+14/01/2023;Santa Catarina;SC;2746;Manhã;Ação;PLANO PREMIUM; R$ 37,90 
+03/02/2023;Rio Grande do Norte;RN;2308;Madrugada;Anime;PLANO PADRAO; R$ 27,90 
+26/02/2023;Amapá;AP;1599;Madrugada;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+07/01/2023;Paraíba;PB;5017;Tarde;Terror;PLANO PREMIUM; R$ 37,90 
+28/02/2023;Piauí;PI;8038;Madrugada;Misterio;PLANO PADRAO; R$ 27,90 
+19/02/2023;Rio de Janeiro;RJ;4199;Madrugada;Ciência e Natureza;PLANO PREMIUM; R$ 37,90 
+27/01/2023;Piauí;PI;8513;Noite;Ciência e Natureza;PLANO PADRAO; R$ 27,90 
+08/02/2023;Santa Catarina;SC;1568;Tarde;Teen;PLANO PREMIUM; R$ 37,90 
+14/02/2023;Amazonas;AM;6832;Noite;Politica;PLANO BASICO; R$ 19,90 
+03/02/2023;Rio de Janeiro;RJ;916;Tarde;Misterio;PLANO PADRAO; R$ 27,90 
