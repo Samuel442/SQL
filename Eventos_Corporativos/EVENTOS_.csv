@@ -1,0 +1,457 @@
+data_evnt;id_empresa;tipo_eventos;PGTO;TOTAL DE PART. EVENTO;COBERTURA;COORDENADOR RESP;valor faturado do dia;20% Royalties Holding;2% desc p/ Contratante;Contratante;Categoria
+02/01/2017;15; Fórum de Tecnologia;50% PAGO;1268; Daily Chronicle;Marcelo Mendes;R$ 73.306,00;R$ 14.661,20;R$ 1.466,12;Johnson Enterprises;402
+02/01/2017;20; Fórum de Tecnologia;50% PAGO;299; News Wave;Natalia Silva;R$ 108.310,00;R$ 16.246,50;0;Coleman Holdings;401
+03/01/2017;2; Competição Esportiva;50% PAGO;1136; The Urban Tribune;Vilma Soares;R$ 113.362,50;R$ 17.004,38;R$ 2.267,25;Não Cadastrado;400
+03/01/2017;19; Competição Esportiva;SIM;328; City Newsline;Geraldo Pereira;R$ 109.048,00;R$ 16.357,20;0;Coleman Holdings;401
+04/01/2017;12; Fórum de Tecnologia;NÃO;392; City Newsline;Geraldo Pereira;0;0;0;Reed Corporation;401
+04/01/2017;15;Festival Cultural;SIM;754; Community Digest;Natalia Silva;R$ 72.161,50;R$ 10.824,23;R$ 1.443,23;Ortiz Enterprises;401
+05/01/2017;7; Evento Beneficente;NÃO;380;O Globo;Marcelo Mendes;0;0;0;Lewis Enterprises;401
+05/01/2017;19;Feira de Negócios;NÃO;1075; City Pulse;Marcelo Mendes;0;0;0;Coleman Group;402
+05/01/2017;12;Seminário de Desenvolvimento Pessoal;SIM;1223; The Information Digest;Natalia Silva;R$ 37.798,50;R$ 5.669,78;R$ 755,97;Coleman Holdings;400
+05/01/2017;5; Convenção Empresarial;SIM;448; Express News;Geraldo Pereira;R$ 28.089,00;R$ 4.213,35;0;Allen & Co;401
+05/01/2017;3;Feira de Negócios;SIM;1089; Urban Update;Geraldo Pereira;R$ 106.264,00;R$ 15.939,60;R$ 2.125,28;Brown & Co;400
+05/01/2017;2;Seminário de Desenvolvimento Pessoal;50% PAGO;394; The Informational Herald;Geraldo Pereira;R$ 59.964,00;R$ 8.994,60;R$ 1.199,28;Coleman Holdings;401
+05/01/2017;3;Gala de Premiação;NÃO;396; Metro Tribune;Vilma Soares;0;0;0;Smith Corporation;402
+05/01/2017;15;Exposição de Arte;50% PAGO;1304; Local Times;Geraldo Pereira;R$ 71.374,00;R$ 10.706,10;R$ 1.427,48;Perry Group;403
+05/01/2017;20; Feira Gastronômica;SIM;1110; City News Now;Natalia Silva;R$ 143.579,50;R$ 21.536,93;0;Brown & Co;401
+07/01/2017;8; Encontro de Networking;50% PAGO;614; Urban Update;Natalia Silva;R$ 82.964,00;R$ 12.444,60;R$ 1.659,28;Não Informado;401
+07/01/2017;7;Conferência Internacional;50% PAGO;1297;Yahoo;Vilma Soares;R$ 107.373,00;R$ 16.105,95;R$ 2.147,46;Morgan Holdings;400
+08/01/2017;19; Convenção Empresarial;NÃO;1208; Daily Chronicle;Marcelo Mendes;0;0;0;Coleman Holdings;400
+08/01/2017;16; Convenção Empresarial;NÃO;484; Community Chronicle;Geraldo Pereira;0;0;0;Martinez Corporation;400
+08/01/2017;8; Convenção Empresarial;NÃO;1314; News Beat;Marcelo Mendes;0;0;0;Turner Corporation;402
+08/01/2017;9; Lançamento de Produto;50% PAGO;688; Global News Network;Marcelo Mendes;R$ 49.530,50;R$ 7.429,58;0;Coleman Holdings;403
+08/01/2017;7; Lançamento de Produto;50% PAGO;1196; City Sun;Geraldo Pereira;R$ 70.531,00;R$ 10.579,65;R$ 1.410,62;Sanchez Holdings;401
+08/01/2017;7;Concerto ao Ar Livre;NÃO;194; Express News;Marcelo Mendes;0;0;0;Não Cadastrado;403
+08/01/2017;6; Lançamento de Produto;NÃO;1052; News Hub;Geraldo Pereira;0;0;0;Coleman Holdings;400
+09/01/2017;4; Lançamento de Produto;SIM;1297; News Hub;Geraldo Pereira;R$ 69.976,00;R$ 10.496,40;0;Coleman Holdings;400
+10/01/2017;5;Congresso Científico;SIM;657; Urban Herald;Natalia Silva;R$ 119.328,00;R$ 17.899,20;R$ 2.386,56;Cook & Sons;402
+10/01/2017;2; Fórum de Tecnologia;50% PAGO;1091; Metro Monitor;Geraldo Pereira;R$ 69.584,00;R$ 10.437,60;R$ 1.391,68;Morgan Holdings;403
+10/01/2017;2;Exposição de Arte;50% PAGO;306; City Digest;Marcelo Mendes;R$ 83.814,00;R$ 12.572,10;R$ 1.676,28;Coleman Holdings;402
+10/01/2017;2; Fórum de Tecnologia;NÃO;1147; City Buzz;Marcelo Mendes;0;0;0;Gonzalez Group;402
+10/01/2017;8;Feira de Negócios;NÃO;1300; City Scope;Marcelo Mendes;0;0;0;Mitchell Enterprises;403
+10/01/2017;17; Encontro de Networking;NÃO;720; Community Digest;Marcelo Mendes;0;0;0;Walker Partners;403
+10/01/2017;15; Fórum de Tecnologia;NÃO;339; The Insightful Gazette;Geraldo Pereira;0;0;0;Evans Enterprises;403
+10/01/2017;13; Casamento de Luxo;50% PAGO;782; Trend Watcher;Geraldo Pereira;R$ 141.582,00;R$ 21.237,30;0;Anderson & Sons;400
+10/01/2017;17;Congresso Científico;50% PAGO;1076; Metro Tribune;Vilma Soares;R$ 59.807,00;R$ 8.971,05;R$ 1.196,14;Coleman Holdings;402
+10/01/2017;20;Seminário de Desenvolvimento Pessoal;50% PAGO;122;Estadão;Vilma Soares;R$ 54.788,00;R$ 8.218,20;R$ 1.095,76;Walker Partners;402
+10/01/2017;19; Jantar de Gala;50% PAGO;325; The Daily Bulletin;Vilma Soares;R$ 92.555,00;R$ 13.883,25;0;Coleman Holdings;402
+10/01/2017;17;Festival Cultural;50% PAGO;723; The Daily Bulletin;Vilma Soares;R$ 50.839,00;R$ 7.625,85;R$ 1.016,78;Murphy Corporation;400
+10/01/2017;17; Lançamento de Produto;NÃO;998; City Buzz;Marcelo Mendes;0;0;0;Nelson Corporation;400
+12/01/2017;7; Lançamento de Produto;SIM;1037; Community Chronicle;Marcelo Mendes;R$ 19.895,50;R$ 2.984,33;R$ 397,91;Clark Corporation;401
+12/01/2017;9; Lançamento de Produto;50% PAGO;448;Rede TV New (site);Marcelo Mendes;R$ 90.689,00;R$ 13.603,35;0;Johnson Enterprises;400
+12/01/2017;16;Workshop de Fotografia;SIM;351;Estadão;Marcelo Mendes;R$ 10.993,50;R$ 1.649,03;R$ 219,87;Walker Partners;403
+12/01/2017;14;Festival Cultural;NÃO;1192; Local Lens;Marcelo Mendes;0;0;0;Ortiz Enterprises;401
+12/01/2017;8;Gala de Premiação;SIM;180; News Flash;Vilma Soares;R$ 50.795,00;R$ 7.619,25;0;Ortiz Enterprises;401
+12/01/2017;15;Exposição de Arte;SIM;76; Metro Tribune;Vilma Soares;R$ 15.192,50;R$ 2.278,88;R$ 303,85;Hall Corporation;402
+12/01/2017;3; Jantar de Gala;50% PAGO;1171; News Hub;Natalia Silva;R$ 81.278,00;R$ 12.191,70;0;Coleman Holdings;403
+12/01/2017;10; Lançamento de Produto;NÃO;169; Voice of the City;Natalia Silva;0;0;0;Collins Corporation;401
+12/01/2017;8;Concerto ao Ar Livre;50% PAGO;285; The Insightful Gazette;Marcelo Mendes;R$ 102.254,50;R$ 15.338,18;R$ 2.045,09;Coleman Holdings;400
+12/01/2017;4; Show de Comédia;50% PAGO;1314; Metro Herald;Marcelo Mendes;R$ 57.210,00;R$ 8.581,50;R$ 1.144,20;Lewis Enterprises;401
+12/01/2017;19; Feira Gastronômica;50% PAGO;585; Insightful Observer;Marcelo Mendes;R$ 12.014,00;R$ 1.802,10;R$ 240,28;Murphy Corporation;403
+12/01/2017;8; Casamento de Luxo;50% PAGO;777;O Globo;Marcelo Mendes;R$ 33.267,50;R$ 4.990,13;0;Allen & Co;400
+12/01/2017;14; Encontro de Networking;NÃO;1268; Global News Network;Geraldo Pereira;0;0;0;Turner Corporation;403
+12/01/2017;2;Workshop de Fotografia;SIM;205; The Press Agency;Geraldo Pereira;R$ 81.920,00;R$ 12.288,00;R$ 1.638,40;Smith Corporation;403
+12/01/2017;20; Desfile de Moda;50% PAGO;591; Insightful Observer;Vilma Soares;R$ 43.590,00;R$ 6.538,50;R$ 871,80;Hayes Holdings;402
+12/01/2017;16; Desfile de Moda;50% PAGO;109; City Newsline;Natalia Silva;R$ 63.599,00;R$ 9.539,85;0;Não Cadastrado;401
+28/01/2017;16;Gala de Premiação;50% PAGO;940; The City Voice;Marcelo Mendes;R$ 61.564,00;R$ 9.234,60;0;Phillips & Sons;400
+28/01/2017;14; Fórum de Tecnologia;SIM;893; Urban Update;Geraldo Pereira;R$ 76.028,50;R$ 11.404,28;R$ 1.520,57;Coleman Holdings;401
+28/01/2017;18; Encontro de Networking;SIM;211; Metro Tribune;Marcelo Mendes;R$ 74.128,50;R$ 11.119,28;R$ 1.482,57;Collins Corporation;400
+28/01/2017;5;Festival Cultural;SIM;1300; Community Chronicle;Geraldo Pereira;R$ 36.154,50;R$ 5.423,18;R$ 723,09;Morris Enterprises;402
+28/01/2017;12; Competição Esportiva;NÃO;53; Media Monitor;Vilma Soares;0;0;0;Sanchez Holdings;402
+28/01/2017;12; Show de Comédia;50% PAGO;679; People's Gazette;Geraldo Pereira;R$ 75.853,00;R$ 11.377,95;R$ 1.517,06;Jones Partners;400
+29/01/2017;14; Fórum de Tecnologia;NÃO;956; The Communicator;Vilma Soares;0;0;0;Não Cadastrado;403
+05/02/2017;19; Show de Comédia;NÃO;339; Media Matters;Vilma Soares;0;0;0;Nelson Corporation;401
+05/02/2017;7;Festival Cultural;50% PAGO;383; Metro Monitor;Marcelo Mendes;R$ 26.094,50;R$ 3.914,18;R$ 521,89;Rodriguez Group;403
+05/02/2017;19; Jantar de Gala;50% PAGO;1088;O Globo;Vilma Soares;R$ 63.882,50;R$ 9.582,38;0;Evans Enterprises;401
+05/02/2017;5; Evento Beneficente;NÃO;477; The Daily Echo;Natalia Silva;0;0;0;Coleman Holdings;402
+05/02/2017;14; Desfile de Moda;NÃO;533; Metro Messenger;Geraldo Pereira;0;0;0;Perez Holdings;403
+05/02/2017;20;Exposição de Arte;50% PAGO;87; Media Pulse;Vilma Soares;R$ 74.695,50;R$ 11.204,33;R$ 1.493,91;Coleman Holdings;403
+05/02/2017;12;Concerto ao Ar Livre;SIM;1156; Urban Chronicle;Marcelo Mendes;R$ 77.000,00;R$ 11.550,00;R$ 1.540,00;Martinez Corporation;400
+05/02/2017;5;Conferência Internacional;NÃO;1212; News Beat;Geraldo Pereira;0;0;0;Adams Holdings;403
+05/02/2017;14;Gala de Premiação;NÃO;1296; City Newsline;Geraldo Pereira;0;0;0;Collins Corporation;403
+05/02/2017;7; Fórum de Tecnologia;50% PAGO;152; Urban Herald;Natalia Silva;R$ 34.344,00;R$ 5.151,60;R$ 686,88;Cooper Enterprises;401
+05/02/2017;13;Gala de Premiação;50% PAGO;843; Urban Update;Geraldo Pereira;R$ 15.848,00;R$ 2.377,20;0;Coleman Holdings;401
+05/02/2017;5;Workshop de Fotografia;SIM;1039; Trend Watcher;Geraldo Pereira;R$ 12.137,00;R$ 1.820,55;R$ 242,74;Anderson & Sons;401
+21/02/2017;12; Jantar de Gala;50% PAGO;854; Express News;Geraldo Pereira;R$ 97.934,00;R$ 14.690,10;0;Hall Corporation;401
+21/02/2017;17; Competição Esportiva;SIM;1197; The Press Agency;Marcelo Mendes;R$ 93.398,50;R$ 14.009,78;R$ 1.867,97;Sanchez Holdings;400
+21/02/2017;6;Festival Cultural;SIM;447; The Daily Insight;Vilma Soares;R$ 144.636,50;R$ 21.695,48;R$ 2.892,73;Rogers Group;400
+21/02/2017;18;Conferência Internacional;50% PAGO;1184; The News Gazette;Marcelo Mendes;R$ 99.695,00;R$ 14.954,25;0;Williams Industries;403
+22/02/2017;5;Congresso Científico;SIM;1095; Metro Herald;Marcelo Mendes;R$ 92.909,50;R$ 13.936,43;R$ 1.858,19;Edwards Group;401
+22/02/2017;1; Desfile de Moda;50% PAGO;569; The Update;Geraldo Pereira;R$ 94.648,00;R$ 14.197,20;R$ 1.892,96;Lewis Enterprises;401
+22/02/2017;1; Encontro de Networking;NÃO;653;Jornal Folha;Marcelo Mendes;0;0;0;Nelson Corporation;402
+22/02/2017;17; Lançamento de Produto;50% PAGO;58; Insightful Times;Marcelo Mendes;R$ 55.071,00;R$ 8.260,65;R$ 1.101,42;Rivera Holdings;403
+22/02/2017;16; Competição Esportiva;NÃO;259; City Sun;Marcelo Mendes;0;0;0;Gray Enterprises;401
+22/02/2017;20;Festival Cultural;NÃO;517; City Pulse;Natalia Silva;0;0;0;Não Cadastrado;401
+22/02/2017;15; Encontro de Networking;SIM;1308; The Daily Bulletin;Marcelo Mendes;R$ 30.145,50;R$ 4.521,83;R$ 602,91;Davis Holdings;403
+22/02/2017;14;Feira de Negócios;50% PAGO;737; Urban Herald;Natalia Silva;R$ 92.496,00;R$ 13.874,40;R$ 1.849,92;Não Cadastrado;402
+22/02/2017;15; Show de Comédia;SIM;612; Voice of the City;Marcelo Mendes;R$ 134.252,50;R$ 20.137,88;R$ 2.685,05;Coleman Holdings;403
+22/02/2017;5;Conferência Internacional;SIM;918; Express News;Marcelo Mendes;R$ 136.901,50;R$ 20.535,23;0;Brown & Co;403
+22/02/2017;20;Workshop de Fotografia;50% PAGO;458; Urban Herald;Marcelo Mendes;R$ 123.999,00;R$ 18.599,85;R$ 2.479,98;Scott Corporation;400
+22/02/2017;10; Show de Comédia;50% PAGO;1211; News Flash;Geraldo Pereira;R$ 66.484,00;R$ 9.972,60;0;Rodriguez Group;400
+22/02/2017;17;Exposição de Arte;NÃO;1306; News Flash;Vilma Soares;0;0;0;Coleman Holdings;402
+22/02/2017;17; Show de Comédia;NÃO;384; News Hub;Marcelo Mendes;0;0;0;Cooper Enterprises;403
+22/02/2017;14;Gala de Premiação;SIM;71; Prime Times;Geraldo Pereira;R$ 20.247,00;R$ 3.037,05;0;Coleman Holdings;400
+22/02/2017;4;Feira de Negócios;50% PAGO;927; Media Spotlight;Vilma Soares;R$ 35.369,50;R$ 5.305,43;R$ 707,39;Phillips & Sons;403
+22/02/2017;18; Convenção Empresarial;NÃO;378; Media Monitor;Vilma Soares;0;0;0;Coleman Holdings;402
+22/02/2017;2; Convenção Empresarial;NÃO;928; News Flash;Marcelo Mendes;0;0;0;Phillips & Sons;400
+22/02/2017;7; Feira Gastronômica;SIM;1017; Community Digest;Marcelo Mendes;R$ 125.222,00;R$ 18.783,30;R$ 2.504,44;Rogers Group;402
+22/02/2017;16;Festival Cultural;50% PAGO;991; The Informational Herald;Marcelo Mendes;R$ 91.334,00;R$ 13.700,10;R$ 1.826,68;Mitchell Enterprises;403
+22/02/2017;9;Congresso Científico;NÃO;754;Yahoo;Vilma Soares;0;0;0;Turner Corporation;402
+22/02/2017;14;Workshop de Fotografia;50% PAGO;76; The Daily Insight;Geraldo Pereira;R$ 129.162,00;R$ 19.374,30;R$ 2.583,24;Não Cadastrado;401
+22/02/2017;5; Jantar de Gala;SIM;395; Prime Times;Vilma Soares;R$ 147.829,50;R$ 22.174,43;0;Ross Corporation;400
+23/02/2017;18;Concerto ao Ar Livre;50% PAGO;338; Urban Update;Natalia Silva;R$ 110.112,00;R$ 16.516,80;R$ 2.202,24;Green & Co;401
+23/02/2017;1;Feira de Negócios;50% PAGO;158; Local Lens;Natalia Silva;R$ 149.027,50;R$ 22.354,13;R$ 2.980,55;Garcia Enterprises;403
+23/02/2017;3;Congresso Científico;50% PAGO;784; Insightful Times;Geraldo Pereira;R$ 100.427,00;R$ 15.064,05;R$ 2.008,54;Johnson Enterprises;402
+23/02/2017;1; Fórum de Tecnologia;50% PAGO;1082; Urban Herald;Natalia Silva;R$ 102.448,50;R$ 15.367,28;R$ 2.048,97;Morgan Holdings;402
+23/02/2017;3;Festival Cultural;NÃO;1053; Daily Chronicle;Marcelo Mendes;0;0;0;Não Informado;400
+23/02/2017;5;Feira de Negócios;NÃO;626; Local Lens;Natalia Silva;0;0;0;Rodriguez Group;401
+23/02/2017;4; Casamento de Luxo;SIM;365; The Insightful Gazette;Vilma Soares;R$ 117.687,00;R$ 17.653,05;0;Green & Co;403
+23/02/2017;16; Lançamento de Produto;NÃO;301; Metro Messenger;Marcelo Mendes;0;0;0;Carter & Co;402
+23/02/2017;14;Feira de Negócios;50% PAGO;548; The Urban Observer;Vilma Soares;R$ 13.741,00;R$ 2.061,15;R$ 274,82;Ortiz Enterprises;400
+23/02/2017;9; Fórum de Tecnologia;50% PAGO;251; Urban Update;Geraldo Pereira;R$ 52.761,00;R$ 7.914,15;R$ 1.055,22;Russell & Co;402
+23/02/2017;9; Evento Beneficente;NÃO;258; The City Voice;Natalia Silva;0;0;0;Russell & Co;401
+23/02/2017;15;Seminário de Desenvolvimento Pessoal;50% PAGO;500; Community Digest;Marcelo Mendes;R$ 141.144,50;R$ 21.171,68;R$ 2.822,89;Coleman Holdings;403
+23/02/2017;15; Competição Esportiva;SIM;438; Media Express;Geraldo Pereira;R$ 126.208,50;R$ 18.931,28;R$ 2.524,17;Hernandez Group;401
+23/02/2017;13;Workshop de Fotografia;SIM;872; Media Tracker;Geraldo Pereira;R$ 10.587,50;R$ 1.588,13;R$ 211,75;Não Cadastrado;401
+23/02/2017;4; Fórum de Tecnologia;SIM;1292; Express News;Vilma Soares;R$ 59.839,00;R$ 8.975,85;0;Stewart & Co;402
+23/02/2017;15; Show de Comédia;SIM;764; The Daily Insight;Natalia Silva;R$ 50.617,50;R$ 7.592,63;R$ 1.012,35;Ortiz Enterprises;401
+23/02/2017;8; Casamento de Luxo;NÃO;383; Local Lens;Geraldo Pereira;0;0;0;Reed Corporation;403
+23/02/2017;12; Casamento de Luxo;50% PAGO;680; The Communicator;Natalia Silva;R$ 105.654,00;R$ 15.848,10;0;Rivera Holdings;402
+23/02/2017;16; Show de Comédia;50% PAGO;166;O Globo;Geraldo Pereira;R$ 75.329,00;R$ 11.299,35;R$ 1.506,58;Johnson Enterprises;402
+23/02/2017;4;Festival Cultural;50% PAGO;336; The Daily Insight;Marcelo Mendes;R$ 101.274,00;R$ 15.191,10;R$ 2.025,48;Bennett Holdings;403
+23/02/2017;7; Encontro de Networking;NÃO;362; The Daily Echo;Geraldo Pereira;0;0;0;Coleman Holdings;402
+23/02/2017;3; Competição Esportiva;50% PAGO;214; Media Express;Natalia Silva;R$ 89.994,00;R$ 13.499,10;R$ 1.799,88;Allen & Co;401
+23/02/2017;8; Encontro de Networking;SIM;715; Media Pulse;Natalia Silva;R$ 46.936,00;R$ 7.040,40;R$ 938,72;Anderson & Sons;402
+23/02/2017;5; Fórum de Tecnologia;SIM;1223;Veja;Natalia Silva;R$ 30.921,00;R$ 4.638,15;R$ 618,42;Coleman Holdings;403
+23/02/2017;20; Jantar de Gala;NÃO;1099; Media Maven;Vilma Soares;0;0;0;Coleman Holdings;403
+23/02/2017;15;Conferência Internacional;NÃO;812; Community Chronicle;Geraldo Pereira;0;0;0;Taylor Group;402
+23/02/2017;20; Jantar de Gala;SIM;466; Info Stream;Natalia Silva;R$ 106.663,00;R$ 15.999,45;0;Anderson & Sons;401
+23/02/2017;9;Workshop de Fotografia;SIM;581; Metro Tribune;Marcelo Mendes;R$ 261.607,00;R$ 39.241,05;R$ 5.232,14;Evans Enterprises;403
+23/02/2017;7; Convenção Empresarial;50% PAGO;1188; Insightful Observer;Vilma Soares;R$ 280.250,00;R$ 42.037,50;R$ 5.605,00;Collins Corporation;403
+23/02/2017;9;Feira de Negócios;50% PAGO;756; Prime Times;Marcelo Mendes;R$ 93.030,00;R$ 13.954,50;R$ 1.860,60;Perez Holdings;402
+23/02/2017;5;Concerto ao Ar Livre;50% PAGO;782; Media Tracker;Geraldo Pereira;R$ 65.825,00;R$ 9.873,75;R$ 1.316,50;Coleman Holdings;400
+23/02/2017;15; Feira Gastronômica;NÃO;392; The Information Hub;Geraldo Pereira;0;0;0;Rivera Holdings;400
+23/02/2017;5; Lançamento de Produto;NÃO;876; The Information Hub;Geraldo Pereira;0;0;0;Cook & Sons;401
+23/02/2017;13; Convenção Empresarial;50% PAGO;865; The Information Digest;Vilma Soares;R$ 83.206,00;R$ 12.480,90;R$ 1.664,12;Coleman Holdings;402
+23/02/2017;5;Seminário de Desenvolvimento Pessoal;50% PAGO;1146;Veja;Marcelo Mendes;R$ 51.314,00;R$ 7.697,10;R$ 1.026,28;Coleman Holdings;402
+23/02/2017;4; Fórum de Tecnologia;50% PAGO;857; Info Stream;Natalia Silva;R$ 116.365,00;R$ 17.454,75;R$ 2.327,30;Nelson & Sons;403
+23/02/2017;17; Fórum de Tecnologia;NÃO;724; News Hub;Geraldo Pereira;0;0;0;Não Cadastrado;401
+23/02/2017;20; Casamento de Luxo;NÃO;159; Urban Express;Natalia Silva;0;0;0;Coleman Holdings;401
+23/02/2017;12;Congresso Científico;NÃO;328; The Informational Herald;Natalia Silva;0;0;0;Bailey & Co;402
+23/02/2017;20;Feira de Negócios;SIM;487; The Update;Geraldo Pereira;R$ 74.960,00;R$ 11.244,00;R$ 1.499,20;Gonzalez Group;401
+23/02/2017;19; Competição Esportiva;SIM;421; City Digest;Vilma Soares;R$ 290.815,00;R$ 43.622,25;R$ 5.816,30;Não Cadastrado;402
+23/02/2017;8; Convenção Empresarial;SIM;1294; Newsline Journal;Natalia Silva;R$ 95.700,00;R$ 14.355,00;0;Coleman Holdings;402
+24/02/2017;17; Show de Comédia;NÃO;445; Media Matters;Vilma Soares;0;0;0;Não Cadastrado;400
+24/02/2017;17; Desfile de Moda;NÃO;1081; City Digest;Marcelo Mendes;0;0;0;Não Cadastrado;403
+24/02/2017;7;Feira de Negócios;50% PAGO;535;Estadão;Natalia Silva;R$ 87.540,00;R$ 13.131,00;R$ 1.750,80;Coleman Holdings;400
+24/02/2017;4;Exposição de Arte;50% PAGO;626; The Daily Echo;Vilma Soares;R$ 204.457,00;R$ 30.668,55;R$ 4.089,14;Young Holdings;400
+24/02/2017;4; Desfile de Moda;NÃO;352; Prime Times;Marcelo Mendes;0;0;0;Não Cadastrado;400
+24/02/2017;2; Casamento de Luxo;50% PAGO;937; Global News Network;Marcelo Mendes;R$ 280.181,00;R$ 42.027,15;0;Bailey & Co;401
+24/02/2017;3;Festival Cultural;50% PAGO;570; Community Chronicle;Geraldo Pereira;R$ 82.338,00;R$ 12.350,70;R$ 1.646,76;Roberts Partners;402
+24/02/2017;14;Workshop de Fotografia;50% PAGO;800; Insightful Observer;Vilma Soares;R$ 173.335,00;R$ 26.000,25;R$ 3.466,70;Não Cadastrado;401
+24/02/2017;19;Concerto ao Ar Livre;SIM;753; People's Gazette;Marcelo Mendes;R$ 51.691,00;R$ 7.753,65;R$ 1.033,82;Jones Partners;403
+24/02/2017;15; Evento Beneficente;SIM;839; The Daily Insight;Geraldo Pereira;R$ 231.112,00;R$ 34.666,80;R$ 4.622,24;Taylor Group;403
+24/02/2017;7; Show de Comédia;NÃO;601; The Daily Echo;Vilma Soares;0;0;0;Morris Enterprises;400
+24/02/2017;5; Jantar de Gala;50% PAGO;297; The Daily Report;Vilma Soares;R$ 109.915,00;R$ 16.487,25;0;Hall Corporation;400
+24/02/2017;12; Evento Beneficente;50% PAGO;631;O Globo;Vilma Soares;R$ 250.294,00;R$ 37.544,10;R$ 5.005,88;Sanchez Holdings;401
+24/02/2017;19; Convenção Empresarial;50% PAGO;728; Insight Today;Geraldo Pereira;R$ 273.222,00;R$ 40.983,30;R$ 5.464,44;Green & Co;401
+24/02/2017;13; Feira Gastronômica;50% PAGO;367; News Flash;Geraldo Pereira;R$ 102.800,00;R$ 15.420,00;0;Wright Enterprises;403
+24/02/2017;12; Show de Comédia;50% PAGO;787; Media Matters;Marcelo Mendes;R$ 52.647,00;R$ 7.897,05;R$ 1.052,94;Não Cadastrado;402
+24/02/2017;9; Feira Gastronômica;50% PAGO;854; Newsline Journal;Geraldo Pereira;R$ 50.420,00;R$ 7.563,00;0;Não Cadastrado;401
+24/02/2017;11;Gala de Premiação;NÃO;866; Media Express;Geraldo Pereira;0;0;0;Phillips & Sons;403
+24/02/2017;3;Exposição de Arte;NÃO;658; News Flash;Marcelo Mendes;0;0;0;Ortiz Enterprises;403
+24/02/2017;15;Concerto ao Ar Livre;50% PAGO;643; Info Stream;Natalia Silva;R$ 74.947,00;R$ 11.242,05;R$ 1.498,94;Martinez Corporation;403
+24/02/2017;12; Desfile de Moda;NÃO;587; Media Monitor;Vilma Soares;0;0;0;Rivera Holdings;401
+24/02/2017;9; Jantar de Gala;NÃO;658; City Sun;Natalia Silva;0;0;0;Turner Corporation;402
+24/02/2017;5;Seminário de Desenvolvimento Pessoal;50% PAGO;917; Local Times;Geraldo Pereira;R$ 172.695,00;R$ 25.904,25;R$ 3.453,90;Ross Corporation;402
+24/02/2017;7; Competição Esportiva;SIM;1053; Community Digest;Geraldo Pereira;R$ 107.330,00;R$ 16.099,50;R$ 2.146,60;Foster Corporation;400
+24/02/2017;3;Conferência Internacional;SIM;141; The Information Hub;Geraldo Pereira;R$ 41.023,00;R$ 6.153,45;R$ 820,46;Coleman Holdings;402
+24/02/2017;17; Lançamento de Produto;NÃO;462; The Daily Bulletin;Natalia Silva;0;0;0;Coleman Holdings;402
+24/02/2017;5;Festival Cultural;50% PAGO;410;Yahoo;Marcelo Mendes;R$ 104.841,00;R$ 15.726,15;R$ 2.096,82;Murphy Corporation;401
+24/02/2017;19;Festival Cultural;50% PAGO;927; Insightful Times;Vilma Soares;R$ 58.914,00;R$ 8.837,10;R$ 1.178,28;Foster Corporation;400
+24/02/2017;18;Seminário de Desenvolvimento Pessoal;50% PAGO;661; News Wave;Geraldo Pereira;R$ 92.272,00;R$ 13.840,80;0;Coleman Holdings;402
+24/02/2017;9;Festival Cultural;50% PAGO;649; Media Monitor;Geraldo Pereira;R$ 147.553,00;R$ 22.132,95;R$ 2.951,06;Coleman Holdings;401
+24/02/2017;12; Encontro de Networking;50% PAGO;1303; City Scope;Vilma Soares;R$ 102.373,00;R$ 15.355,95;R$ 2.047,46;Stewart & Co;402
+24/02/2017;8; Casamento de Luxo;SIM;935; Insightful Observer;Natalia Silva;R$ 61.704,00;R$ 9.255,60;0;Coleman Holdings;402
+24/02/2017;11; Competição Esportiva;50% PAGO;50; The Informational Herald;Geraldo Pereira;R$ 95.026,00;R$ 14.253,90;R$ 1.900,52;Não Cadastrado;401
+24/02/2017;16; Fórum de Tecnologia;50% PAGO;271; Prime Times;Vilma Soares;R$ 78.403,00;R$ 11.760,45;R$ 1.568,06;Rivera Holdings;402
+24/02/2017;12; Convenção Empresarial;50% PAGO;87; Insightful Observer;Natalia Silva;R$ 202.427,00;R$ 30.364,05;R$ 4.048,54;Não Informado;402
+24/02/2017;6;Seminário de Desenvolvimento Pessoal;50% PAGO;910; Voice of the City;Geraldo Pereira;R$ 77.341,00;R$ 11.601,15;R$ 1.546,82;Wright Enterprises;403
+24/02/2017;10;Workshop de Fotografia;SIM;263; Prime Times;Vilma Soares;R$ 131.691,00;R$ 19.753,65;R$ 2.633,82;Coleman Holdings;403
+24/02/2017;19; Fórum de Tecnologia;SIM;239; City News Now;Marcelo Mendes;R$ 197.143,00;R$ 29.571,45;0;Green & Co;403
+24/02/2017;19;Festival Cultural;50% PAGO;560; City Scope;Natalia Silva;R$ 74.033,00;R$ 11.104,95;R$ 1.480,66;Anderson & Sons;403
+24/02/2017;20;Workshop de Fotografia;NÃO;1074; City News Now;Natalia Silva;0;0;0;Edwards Group;400
+24/02/2017;4; Convenção Empresarial;NÃO;778; Urban Express;Geraldo Pereira;0;0;0;Não Cadastrado;401
+24/02/2017;17; Casamento de Luxo;50% PAGO;973; Media Tracker;Vilma Soares;R$ 90.064,00;R$ 13.509,60;0;Jones Partners;400
+24/02/2017;5; Feira Gastronômica;NÃO;335; Info Stream;Natalia Silva;0;0;0;Hernandez Group;400
+24/02/2017;7; Evento Beneficente;SIM;650; The Urban Tribune;Geraldo Pereira;R$ 65.492,00;R$ 9.823,80;R$ 1.309,84;Coleman Holdings;401
+24/02/2017;7;Exposição de Arte;50% PAGO;562; The Daily Echo;Vilma Soares;R$ 277.257,00;R$ 41.588,55;R$ 5.545,14;Rodriguez Group;403
+24/02/2017;12; Evento Beneficente;SIM;1192; City News Now;Natalia Silva;R$ 225.027,00;R$ 33.754,05;0;Reed Corporation;400
+24/02/2017;13; Competição Esportiva;50% PAGO;478; News Wave;Geraldo Pereira;R$ 237.967,00;R$ 35.695,05;0;Davis Holdings;400
+24/02/2017;6; Casamento de Luxo;SIM;333; Metro Monitor;Geraldo Pereira;R$ 110.225,00;R$ 16.533,75;0;Hall Corporation;403
+24/02/2017;16;Exposição de Arte;50% PAGO;1004; City Buzz;Marcelo Mendes;R$ 51.811,00;R$ 7.771,65;R$ 1.036,22;Wilson Industries;400
+24/02/2017;9;Seminário de Desenvolvimento Pessoal;SIM;892; Prime Times;Marcelo Mendes;R$ 48.177,00;R$ 7.226,55;R$ 963,54;Wright Enterprises;403
+24/02/2017;1;Concerto ao Ar Livre;NÃO;85; Urban Herald;Geraldo Pereira;0;0;0;Adams Holdings;403
+24/02/2017;20; Evento Beneficente;50% PAGO;131;Yahoo;Geraldo Pereira;R$ 109.691,00;R$ 16.453,65;R$ 2.193,82;Bailey & Co;400
+24/02/2017;5; Jantar de Gala;SIM;352; Metro Messenger;Marcelo Mendes;R$ 28.854,00;R$ 4.328,10;0;Cook & Sons;401
+24/02/2017;18;Festival Cultural;SIM;545; News Flash;Natalia Silva;R$ 173.615,00;R$ 26.042,25;0;Nelson Corporation;401
+24/02/2017;12;Congresso Científico;50% PAGO;696; Voice of the City;Marcelo Mendes;R$ 63.877,00;R$ 9.581,55;R$ 1.277,54;Não Cadastrado;400
+24/02/2017;19; Jantar de Gala;NÃO;149;Jornal Folha;Natalia Silva;0;0;0;Jones Partners;400
+24/02/2017;6; Lançamento de Produto;50% PAGO;564; Metro Messenger;Natalia Silva;R$ 93.080,00;R$ 13.962,00;R$ 1.861,60;Jones Partners;401
+24/02/2017;20; Show de Comédia;50% PAGO;802; Media Matters;Natalia Silva;R$ 77.685,00;R$ 11.652,75;R$ 1.553,70;Turner Corporation;403
+24/02/2017;6; Encontro de Networking;50% PAGO;935;Jornal Folha;Vilma Soares;R$ 99.139,00;R$ 14.870,85;R$ 1.982,78;Brown & Co;403
+24/02/2017;4; Casamento de Luxo;50% PAGO;1204; City Pulse;Geraldo Pereira;R$ 56.071,00;R$ 8.410,65;0;Gonzalez Group;402
+25/02/2017;2; Fórum de Tecnologia;50% PAGO;372; Prime Times;Marcelo Mendes;R$ 91.402,00;R$ 13.710,30;R$ 1.828,04;Coleman Holdings;400
+25/02/2017;18;Conferência Internacional;50% PAGO;1057; Media Maven;Geraldo Pereira;R$ 64.719,00;R$ 9.707,85;R$ 1.294,38;Coleman Holdings;402
+25/02/2017;2;Concerto ao Ar Livre;SIM;700; City Scope;Natalia Silva;R$ 261.830,00;R$ 39.274,50;R$ 5.236,60;Coleman Holdings;402
+25/02/2017;7;Workshop de Fotografia;50% PAGO;1222; The Daily Echo;Marcelo Mendes;R$ 58.708,00;R$ 8.806,20;R$ 1.174,16;Martinez Corporation;402
+25/02/2017;16; Competição Esportiva;SIM;534; Community Chronicle;Natalia Silva;R$ 261.238,00;R$ 39.185,70;R$ 5.224,76;Wright Enterprises;401
+25/02/2017;8; Jantar de Gala;SIM;1118; People's Gazette;Geraldo Pereira;R$ 197.326,00;R$ 29.598,90;0;Coleman Holdings;403
+25/02/2017;6; Casamento de Luxo;SIM;158; Local Times;Geraldo Pereira;R$ 235.017,00;R$ 35.252,55;0;Coleman Holdings;401
+25/02/2017;3; Casamento de Luxo;50% PAGO;190;Estadão;Marcelo Mendes;R$ 221.804,00;R$ 33.270,60;0;Coleman Holdings;403
+25/02/2017;5;Festival Cultural;50% PAGO;239; The Information Hub;Vilma Soares;R$ 56.286,00;R$ 8.442,90;R$ 1.125,72;Brown & Co;403
+25/02/2017;6; Evento Beneficente;SIM;955; The Information Digest;Natalia Silva;R$ 163.801,00;R$ 24.570,15;R$ 3.276,02;Wilson Industries;400
+25/02/2017;15;Conferência Internacional;50% PAGO;1315; The Information Hub;Geraldo Pereira;R$ 84.319,00;R$ 12.647,85;R$ 1.686,38;Martinez Corporation;401
+25/02/2017;2; Fórum de Tecnologia;SIM;315; Community Digest;Natalia Silva;R$ 175.783,00;R$ 26.367,45;R$ 3.515,66;Coleman Group;402
+25/02/2017;14; Feira Gastronômica;SIM;746; The Update;Natalia Silva;R$ 73.474,00;R$ 11.021,10;R$ 1.469,48;Russell & Co;401
+25/02/2017;19;Concerto ao Ar Livre;50% PAGO;340; Media Monitor;Geraldo Pereira;R$ 250.522,00;R$ 37.578,30;R$ 5.010,44;Clark Corporation;401
+25/02/2017;17;Conferência Internacional;50% PAGO;1057; City Pulse;Natalia Silva;R$ 83.105,00;R$ 12.465,75;R$ 1.662,10;Scott Corporation;403
+25/02/2017;8;Conferência Internacional;50% PAGO;1253; Trend Watcher;Geraldo Pereira;R$ 82.097,00;R$ 12.314,55;R$ 1.641,94;Foster Corporation;403
+25/02/2017;11; Evento Beneficente;NÃO;1203; Media Express;Marcelo Mendes;0;0;0;Não Cadastrado;400
+25/02/2017;16;Concerto ao Ar Livre;SIM;162; The City Voice;Marcelo Mendes;R$ 130.180,00;R$ 19.527,00;R$ 2.603,60;Coleman Holdings;401
+25/02/2017;14;Congresso Científico;50% PAGO;176; Media Monitor;Marcelo Mendes;R$ 127.262,00;R$ 19.089,30;R$ 2.545,24;Hall Corporation;401
+25/02/2017;17; Encontro de Networking;50% PAGO;1208; City Digest;Geraldo Pereira;R$ 104.029,00;R$ 15.604,35;R$ 2.080,58;Rivera Holdings;403
+25/02/2017;15; Evento Beneficente;50% PAGO;1136; The Insightful Gazette;Vilma Soares;R$ 80.215,00;R$ 12.032,25;R$ 1.604,30;Não Informado;400
+25/02/2017;15; Evento Beneficente;SIM;755; Media Spotlight;Vilma Soares;R$ 299.074,00;R$ 44.861,10;R$ 5.981,48;Coleman Holdings;402
+25/02/2017;4; Competição Esportiva;SIM;743; News Flash;Natalia Silva;R$ 94.219,00;R$ 14.132,85;0;Não Informado;402
+25/02/2017;13; Evento Beneficente;50% PAGO;130; The Urban Tribune;Geraldo Pereira;R$ 299.126,00;R$ 44.868,90;R$ 5.982,52;Clark Corporation;400
+25/02/2017;3;Concerto ao Ar Livre;50% PAGO;1281; Insight Today;Geraldo Pereira;R$ 51.696,00;R$ 7.754,40;R$ 1.033,92;Johnson Enterprises;402
+25/02/2017;3;Concerto ao Ar Livre;NÃO;784; Community Chronicle;Natalia Silva;0;0;0;Coleman Holdings;401
+25/02/2017;9; Convenção Empresarial;50% PAGO;818; The Informational Herald;Geraldo Pereira;R$ 94.980,00;R$ 14.247,00;R$ 1.899,60;Cook & Sons;402
+25/02/2017;6;Workshop de Fotografia;50% PAGO;1022; The Urban Observer;Natalia Silva;R$ 76.083,00;R$ 11.412,45;R$ 1.521,66;Coleman Holdings;403
+25/02/2017;10; Feira Gastronômica;50% PAGO;829; Info Stream;Natalia Silva;R$ 108.018,00;R$ 16.202,70;R$ 2.160,36;Turner Corporation;401
+25/02/2017;17;Congresso Científico;NÃO;931; City Sun;Marcelo Mendes;0;0;0;Reed Corporation;402
+25/02/2017;13; Evento Beneficente;NÃO;722; Media Spotlight;Geraldo Pereira;0;0;0;Coleman Holdings;400
+25/02/2017;11; Jantar de Gala;SIM;1211; The News Gazette;Natalia Silva;R$ 42.575,00;R$ 6.386,25;0;Coleman Holdings;403
+25/02/2017;17;Conferência Internacional;SIM;600; News Flash;Vilma Soares;R$ 279.433,00;R$ 41.914,95;0;Jones Partners;403
+25/02/2017;4; Lançamento de Produto;NÃO;409; Info Stream;Marcelo Mendes;0;0;0;Nelson & Sons;402
+25/02/2017;15; Convenção Empresarial;50% PAGO;641; Community Chronicle;Marcelo Mendes;R$ 94.163,00;R$ 14.124,45;R$ 1.883,26;Coleman Holdings;403
+25/02/2017;8; Casamento de Luxo;SIM;505; The News Gazette;Marcelo Mendes;R$ 152.631,00;R$ 22.894,65;0;Wright Enterprises;400
+25/02/2017;15; Convenção Empresarial;NÃO;428; Insightful Times;Geraldo Pereira;0;0;0;Morris Enterprises;402
+26/02/2017;19; Casamento de Luxo;SIM;1050; Local Lens;Geraldo Pereira;R$ 207.777,00;R$ 31.166,55;0;Não Informado;401
+26/02/2017;14; Competição Esportiva;50% PAGO;156;Yahoo;Geraldo Pereira;R$ 229.711,00;R$ 34.456,65;R$ 4.594,22;Brown & Co;403
+26/02/2017;15;Concerto ao Ar Livre;SIM;1019; City Digest;Geraldo Pereira;R$ 87.572,00;R$ 13.135,80;R$ 1.751,44;Não Cadastrado;400
+26/02/2017;1;Workshop de Fotografia;50% PAGO;79; The Press Agency;Geraldo Pereira;R$ 51.871,00;R$ 7.780,65;R$ 1.037,42;Adams Holdings;403
+26/02/2017;17; Convenção Empresarial;50% PAGO;388; City Sun;Natalia Silva;R$ 50.999,00;R$ 7.649,85;R$ 1.019,98;Edwards Group;402
+26/02/2017;3; Casamento de Luxo;SIM;73;Yahoo;Geraldo Pereira;R$ 295.829,00;R$ 44.374,35;0;Hall Corporation;401
+26/02/2017;4; Jantar de Gala;SIM;676; Metro Monitor;Geraldo Pereira;R$ 291.295,00;R$ 43.694,25;0;Não Informado;400
+26/02/2017;8; Desfile de Moda;NÃO;241; Media Maven;Natalia Silva;0;0;0;Coleman Holdings;400
+01/03/2017;9;Exposição de Arte;50% PAGO;1290; The Information Digest;Vilma Soares;R$ 57.889,00;R$ 8.683,35;R$ 1.157,78;Coleman Holdings;401
+01/03/2017;2;Seminário de Desenvolvimento Pessoal;SIM;518; Urban Chronicle;Vilma Soares;R$ 247.958,00;R$ 37.193,70;R$ 4.959,16;Evans Enterprises;400
+01/03/2017;4; Evento Beneficente;50% PAGO;89; The Information Hub;Geraldo Pereira;R$ 264.207,00;R$ 39.631,05;R$ 5.284,14;Não Cadastrado;400
+01/03/2017;1; Jantar de Gala;50% PAGO;275; Community Digest;Geraldo Pereira;R$ 58.062,00;R$ 8.709,30;0;Smith Corporation;402
+01/03/2017;10;Exposição de Arte;50% PAGO;599; City Newsline;Natalia Silva;R$ 93.855,00;R$ 14.078,25;0;Evans Enterprises;402
+01/03/2017;16; Encontro de Networking;SIM;102; Daily Chronicle;Vilma Soares;R$ 190.415,00;R$ 28.562,25;R$ 3.808,30;Não Cadastrado;403
+01/03/2017;5;Exposição de Arte;50% PAGO;135; City Newsline;Natalia Silva;R$ 88.949,00;R$ 13.342,35;0;Reed Corporation;401
+01/03/2017;11; Convenção Empresarial;50% PAGO;133; Urban Herald;Natalia Silva;R$ 83.537,00;R$ 12.530,55;R$ 1.670,74;Coleman Holdings;403
+01/03/2017;6;Feira de Negócios;50% PAGO;387; News Flash;Natalia Silva;R$ 100.283,00;R$ 15.042,45;0;Ross Corporation;400
+01/03/2017;17;Gala de Premiação;NÃO;163; The Information Digest;Marcelo Mendes;0;0;0;Hernandez Group;400
+01/03/2017;16; Feira Gastronômica;SIM;426; Community Digest;Marcelo Mendes;R$ 106.529,00;R$ 15.979,35;R$ 2.130,58;Coleman Holdings;402
+01/03/2017;1; Casamento de Luxo;SIM;1252; Metro Herald;Vilma Soares;R$ 31.025,00;R$ 4.653,75;0;Rivera Holdings;400
+01/03/2017;12; Feira Gastronômica;NÃO;1075; The Daily Bulletin;Marcelo Mendes;0;0;0;Hayes Holdings;402
+01/03/2017;10;Concerto ao Ar Livre;NÃO;1126; Info Stream;Natalia Silva;0;0;0;Morris Enterprises;402
+02/03/2017;9;Exposição de Arte;50% PAGO;1092; Info Stream;Geraldo Pereira;R$ 50.338,00;R$ 7.550,70;R$ 1.006,76;Walker Partners;403
+02/03/2017;4;Festival Cultural;50% PAGO;562; Urban Express;Marcelo Mendes;R$ 62.905,00;R$ 9.435,75;R$ 1.258,10;Coleman Holdings;402
+02/03/2017;10; Casamento de Luxo;50% PAGO;153; Media Spotlight;Natalia Silva;R$ 39.878,00;R$ 5.981,70;0;Coleman Holdings;403
+02/03/2017;20; Feira Gastronômica;50% PAGO;623; The Informational Herald;Natalia Silva;R$ 221.998,00;R$ 33.299,70;R$ 4.439,96;Martinez Corporation;402
+02/03/2017;20; Competição Esportiva;SIM;513; Community Digest;Marcelo Mendes;R$ 95.708,00;R$ 14.356,20;R$ 1.914,16;Coleman Holdings;400
+02/03/2017;4;Congresso Científico;50% PAGO;166;Rede TV New (site);Geraldo Pereira;R$ 85.507,00;R$ 12.826,05;0;Coleman Holdings;400
+02/03/2017;17; Casamento de Luxo;50% PAGO;672; City Pulse;Geraldo Pereira;R$ 259.868,00;R$ 38.980,20;0;Cooper Enterprises;402
+02/03/2017;7;Festival Cultural;SIM;697; Insight Today;Vilma Soares;R$ 82.919,00;R$ 12.437,85;R$ 1.658,38;Coleman Holdings;403
+02/03/2017;15; Show de Comédia;50% PAGO;306; Prime Times;Natalia Silva;R$ 251.270,00;R$ 37.690,50;R$ 5.025,40;Roberts Partners;401
+02/03/2017;3;Feira de Negócios;50% PAGO;304; City Scope;Geraldo Pereira;R$ 93.917,00;R$ 14.087,55;R$ 1.878,34;Não Cadastrado;400
+02/03/2017;13;Workshop de Fotografia;50% PAGO;615; Media Tracker;Vilma Soares;R$ 202.556,00;R$ 30.383,40;R$ 4.051,12;Coleman Holdings;400
+02/03/2017;19; Jantar de Gala;NÃO;794;Rede TV New (site);Natalia Silva;0;0;0;Allen & Co;400
+02/03/2017;11;Festival Cultural;SIM;919; Media Matters;Vilma Soares;R$ 237.185,00;R$ 35.577,75;R$ 4.743,70;Phillips & Sons;403
+02/03/2017;20; Convenção Empresarial;50% PAGO;1247; Prime Times;Geraldo Pereira;R$ 68.042,00;R$ 10.206,30;R$ 1.360,84;Gonzalez Group;402
+02/03/2017;11;Seminário de Desenvolvimento Pessoal;NÃO;1226; Media Tracker;Vilma Soares;0;0;0;Adams Holdings;403
+02/03/2017;10; Lançamento de Produto;SIM;233; Media Monitor;Vilma Soares;R$ 281.163,00;R$ 42.174,45;R$ 5.623,26;Evans Enterprises;400
+02/03/2017;20; Evento Beneficente;NÃO;453;Jornal Folha;Vilma Soares;0;0;0;Mitchell Enterprises;403
+02/03/2017;17;Congresso Científico;SIM;895; The Daily Report;Vilma Soares;R$ 282.100,00;R$ 42.315,00;R$ 5.642,00;Mitchell Enterprises;402
+02/03/2017;15; Fórum de Tecnologia;NÃO;108; Voice of the City;Natalia Silva;0;0;0;Stewart & Co;402
+02/03/2017;6; Show de Comédia;SIM;824; Urban Herald;Natalia Silva;R$ 187.585,00;R$ 28.137,75;R$ 3.751,70;Wilson Industries;400
+02/03/2017;4; Convenção Empresarial;50% PAGO;56; Local Times;Marcelo Mendes;R$ 219.381,00;R$ 32.907,15;R$ 4.387,62;Coleman Holdings;403
+02/03/2017;14; Lançamento de Produto;50% PAGO;407; The Daily Echo;Marcelo Mendes;R$ 153.195,00;R$ 22.979,25;R$ 3.063,90;Rodriguez & Associates;400
+02/03/2017;1; Fórum de Tecnologia;50% PAGO;392; Local Times;Geraldo Pereira;R$ 183.161,00;R$ 27.474,15;R$ 3.663,22;Taylor Group;403
+02/03/2017;9;Concerto ao Ar Livre;NÃO;804; The News Gazette;Geraldo Pereira;0;0;0;Williams Industries;401
+02/03/2017;4;Concerto ao Ar Livre;NÃO;112;Jornal Folha;Natalia Silva;0;0;0;Nelson & Sons;402
+02/03/2017;8;Concerto ao Ar Livre;50% PAGO;692; The Press Agency;Geraldo Pereira;R$ 61.626,00;R$ 9.243,90;R$ 1.232,52;Walker Partners;402
+02/03/2017;3; Lançamento de Produto;SIM;912; Media Spotlight;Vilma Soares;R$ 161.837,00;R$ 24.275,55;R$ 3.236,74;Morris Enterprises;401
+02/03/2017;13; Feira Gastronômica;50% PAGO;109; Trend Watcher;Vilma Soares;R$ 107.872,00;R$ 16.180,80;R$ 2.157,44;Cook & Sons;403
+02/03/2017;4;Workshop de Fotografia;50% PAGO;633; Urban Update;Natalia Silva;R$ 94.732,00;R$ 14.209,80;R$ 1.894,64;Evans Enterprises;401
+02/03/2017;3;Congresso Científico;NÃO;352;Jornal Folha;Natalia Silva;0;0;0;Nelson Corporation;403
+02/03/2017;13;Feira de Negócios;50% PAGO;901; Urban Update;Vilma Soares;R$ 215.498,00;R$ 32.324,70;R$ 4.309,96;Walker Partners;403
+02/03/2017;15;Gala de Premiação;50% PAGO;440; Express News;Vilma Soares;R$ 89.461,00;R$ 13.419,15;0;Coleman Holdings;403
+02/03/2017;14; Competição Esportiva;50% PAGO;758;Jornal Folha;Marcelo Mendes;R$ 89.280,00;R$ 13.392,00;R$ 1.785,60;Rogers Group;402
+02/03/2017;10; Competição Esportiva;NÃO;399; Insightful Observer;Natalia Silva;0;0;0;Coleman Holdings;401
+03/03/2017;15;Festival Cultural;NÃO;272; The Urban Observer;Marcelo Mendes;0;0;0;Sanchez Holdings;402
+03/03/2017;6; Competição Esportiva;50% PAGO;1240; The Daily Echo;Marcelo Mendes;R$ 76.527,00;R$ 11.479,05;R$ 1.530,54;Smith Corporation;402
+03/03/2017;18;Conferência Internacional;SIM;1167; The Information Hub;Marcelo Mendes;R$ 199.978,00;R$ 29.996,70;R$ 3.999,56;Foster Corporation;401
+03/03/2017;15; Desfile de Moda;50% PAGO;823; Media Spotlight;Natalia Silva;R$ 90.133,00;R$ 13.519,95;R$ 1.802,66;Johnson Enterprises;401
+03/03/2017;12; Convenção Empresarial;NÃO;993; The Daily Insight;Vilma Soares;0;0;0;Russell & Co;402
+03/03/2017;6;Festival Cultural;50% PAGO;936; Media Maven;Marcelo Mendes;R$ 107.102,00;R$ 16.065,30;R$ 2.142,04;Wilson Industries;401
+03/03/2017;4; Desfile de Moda;50% PAGO;96; The Information Hub;Geraldo Pereira;R$ 257.146,00;R$ 38.571,90;R$ 5.142,92;Jones Partners;401
+04/03/2017;10; Jantar de Gala;50% PAGO;914; Media Tracker;Vilma Soares;R$ 83.316,00;R$ 12.497,40;0;Johnson Enterprises;403
+04/03/2017;16; Evento Beneficente;SIM;240; Media Monitor;Natalia Silva;R$ 212.053,00;R$ 31.807,95;R$ 4.241,06;Nelson Corporation;402
+04/03/2017;17; Desfile de Moda;50% PAGO;153; Insightful Times;Vilma Soares;R$ 51.776,00;R$ 7.766,40;R$ 1.035,52;Brown & Co;403
+04/03/2017;11;Workshop de Fotografia;50% PAGO;673; Media Pulse;Natalia Silva;R$ 100.149,00;R$ 15.022,35;R$ 2.002,98;Smith Corporation;400
+04/03/2017;12; Fórum de Tecnologia;SIM;806;O Globo;Geraldo Pereira;R$ 45.072,00;R$ 6.760,80;R$ 901,44;Não Cadastrado;401
+04/03/2017;10;Congresso Científico;NÃO;767; The Insightful Gazette;Geraldo Pereira;0;0;0;Gray Enterprises;401
+04/03/2017;12;Seminário de Desenvolvimento Pessoal;NÃO;71; City Digest;Marcelo Mendes;0;0;0;Edwards Group;402
+04/03/2017;1; Fórum de Tecnologia;50% PAGO;642; The Daily Report;Vilma Soares;R$ 47.800,00;R$ 7.170,00;R$ 956,00;Cook & Sons;403
+04/03/2017;13; Evento Beneficente;SIM;201; Insightful Times;Vilma Soares;R$ 70.730,00;R$ 10.609,50;R$ 1.414,60;Gonzalez Group;403
+04/03/2017;15; Jantar de Gala;50% PAGO;588; Insightful Times;Natalia Silva;R$ 77.489,00;R$ 11.623,35;0;Walker Partners;400
+04/03/2017;12; Convenção Empresarial;SIM;488; Local Lens;Geraldo Pereira;R$ 23.821,00;R$ 3.573,15;R$ 476,42;Não Cadastrado;401
+04/03/2017;6;Concerto ao Ar Livre;50% PAGO;587; The Daily Report;Vilma Soares;R$ 27.940,00;R$ 4.191,00;R$ 558,80;Phillips & Sons;401
+04/03/2017;4; Casamento de Luxo;SIM;661; News Flash;Geraldo Pereira;R$ 72.509,00;R$ 10.876,35;0;Não Cadastrado;400
+04/03/2017;14; Encontro de Networking;50% PAGO;545; News Hub;Natalia Silva;R$ 79.846,00;R$ 11.976,90;0;Walker Partners;403
+05/03/2017;8;Seminário de Desenvolvimento Pessoal;NÃO;506; The Press Agency;Natalia Silva;0;0;0;Coleman Holdings;403
+05/03/2017;18; Encontro de Networking;50% PAGO;1057; Insight Today;Natalia Silva;R$ 280.497,00;R$ 42.074,55;R$ 5.609,94;Não Cadastrado;401
+05/03/2017;7; Lançamento de Produto;NÃO;213; Media Tracker;Geraldo Pereira;0;0;0;Coleman Holdings;403
+05/03/2017;13; Encontro de Networking;50% PAGO;503; The Daily Bulletin;Marcelo Mendes;R$ 64.842,00;R$ 9.726,30;R$ 1.296,84;Hayes Holdings;400
+05/03/2017;19;Feira de Negócios;50% PAGO;189; Metro Monitor;Marcelo Mendes;R$ 260.413,00;R$ 39.061,95;R$ 5.208,26;Rodriguez Group;402
+05/03/2017;7;Exposição de Arte;50% PAGO;1266; Metro Monitor;Marcelo Mendes;R$ 101.527,00;R$ 15.229,05;R$ 2.030,54;Reed Corporation;402
+05/03/2017;16; Show de Comédia;50% PAGO;394; Daily Chronicle;Vilma Soares;R$ 56.837,00;R$ 8.525,55;R$ 1.136,74;Coleman Holdings;403
+05/03/2017;19;Conferência Internacional;50% PAGO;467; Urban Herald;Marcelo Mendes;R$ 95.328,00;R$ 14.299,20;R$ 1.906,56;Rivera Holdings;401
+05/03/2017;18;Feira de Negócios;50% PAGO;475; City Digest;Vilma Soares;R$ 57.121,00;R$ 8.568,15;R$ 1.142,42;Garcia Enterprises;401
+05/03/2017;16;Conferência Internacional;50% PAGO;1226; Local Lens;Geraldo Pereira;R$ 137.725,00;R$ 20.658,75;R$ 2.754,50;Rodriguez Group;401
+06/03/2017;2;Gala de Premiação;SIM;942; Media Matters;Marcelo Mendes;R$ 83.745,00;R$ 12.561,75;0;Clark Corporation;400
+06/03/2017;1; Casamento de Luxo;50% PAGO;971; City Digest;Natalia Silva;R$ 192.129,00;R$ 28.819,35;0;Young Holdings;400
+06/03/2017;6; Casamento de Luxo;50% PAGO;852; Global News Network;Vilma Soares;R$ 64.630,00;R$ 9.694,50;0;Coleman Holdings;402
+06/03/2017;19;Seminário de Desenvolvimento Pessoal;NÃO;618; Insight Today;Marcelo Mendes;0;0;0;Adams Holdings;400
+06/03/2017;4;Festival Cultural;50% PAGO;290; The Urban Tribune;Natalia Silva;R$ 52.109,00;R$ 7.816,35;R$ 1.042,18;Morgan Holdings;402
+06/03/2017;11; Evento Beneficente;NÃO;858; Global News Network;Natalia Silva;0;0;0;Coleman Holdings;403
+06/03/2017;2; Show de Comédia;SIM;1232; The Informational Herald;Vilma Soares;R$ 91.528,00;R$ 13.729,20;R$ 1.830,56;Perry Group;402
+06/03/2017;6; Desfile de Moda;50% PAGO;88; The Insightful Gazette;Geraldo Pereira;R$ 181.961,00;R$ 27.294,15;R$ 3.639,22;Bailey & Co;403
+06/03/2017;8;Congresso Científico;SIM;184; City Pulse;Natalia Silva;R$ 63.955,00;R$ 9.593,25;R$ 1.279,10;Coleman Group;400
+06/03/2017;13; Encontro de Networking;50% PAGO;641; The Press Agency;Vilma Soares;R$ 158.044,00;R$ 23.706,60;R$ 3.160,88;Collins Corporation;400
+06/03/2017;15; Evento Beneficente;50% PAGO;897; Insightful Observer;Vilma Soares;R$ 60.236,00;R$ 9.035,40;R$ 1.204,72;Foster Corporation;403
+06/03/2017;11;Festival Cultural;50% PAGO;1299; Trend Watcher;Marcelo Mendes;R$ 25.786,00;R$ 3.867,90;R$ 515,72;Não Informado;400
+06/03/2017;3; Fórum de Tecnologia;SIM;255; The Urban Express;Vilma Soares;R$ 117.397,00;R$ 17.609,55;R$ 2.347,94;Coleman Group;403
+06/03/2017;16; Fórum de Tecnologia;SIM;146; The Informational Herald;Marcelo Mendes;R$ 200.440,00;R$ 30.066,00;R$ 4.008,80;Wilson Industries;401
+06/03/2017;4;Seminário de Desenvolvimento Pessoal;SIM;1161; Express News;Geraldo Pereira;R$ 271.394,00;R$ 40.709,10;0;Perry Group;400
+06/03/2017;9; Fórum de Tecnologia;50% PAGO;794; Metro Herald;Marcelo Mendes;R$ 86.668,00;R$ 13.000,20;R$ 1.733,36;Ross Corporation;401
+06/03/2017;1; Fórum de Tecnologia;NÃO;98; The Update;Natalia Silva;0;0;0;Anderson & Sons;402
+20/03/2017;10; Desfile de Moda;SIM;731; Local Times;Geraldo Pereira;R$ 54.865,00;R$ 8.229,75;R$ 1.097,30;Gonzalez Group;401
+20/03/2017;13; Evento Beneficente;50% PAGO;652; Prime Times;Marcelo Mendes;R$ 67.672,00;R$ 10.150,80;R$ 1.353,44;Perez Holdings;403
+20/03/2017;11;Conferência Internacional;50% PAGO;1309; Voice of the City;Marcelo Mendes;R$ 159.352,00;R$ 23.902,80;R$ 3.187,04;Sanchez Holdings;400
+01/05/2017;18;Festival Cultural;SIM;57; Urban Chronicle;Marcelo Mendes;R$ 197.207,00;R$ 29.581,05;R$ 3.944,14;Edwards Group;401
+01/05/2017;17; Competição Esportiva;50% PAGO;163; City Newsline;Geraldo Pereira;R$ 105.527,00;R$ 15.829,05;0;Morris Enterprises;400
+01/05/2017;6;Festival Cultural;NÃO;868; People's Gazette;Geraldo Pereira;0;0;0;Rogers Group;402
+01/05/2017;18; Encontro de Networking;50% PAGO;760; City Scope;Geraldo Pereira;R$ 50.519,00;R$ 7.577,85;R$ 1.010,38;Coleman Holdings;400
+01/05/2017;4; Lançamento de Produto;SIM;177; City Buzz;Geraldo Pereira;R$ 218.331,00;R$ 32.749,65;R$ 4.366,62;Não Informado;403
+01/05/2017;8; Desfile de Moda;50% PAGO;1008; Media Express;Vilma Soares;R$ 280.406,00;R$ 42.060,90;R$ 5.608,12;Não Cadastrado;402
+01/05/2017;12; Jantar de Gala;50% PAGO;440; Media Monitor;Marcelo Mendes;R$ 119.833,00;R$ 17.974,95;0;Bennett Holdings;400
+01/05/2017;4; Lançamento de Produto;NÃO;1017; Media Monitor;Natalia Silva;0;0;0;Green & Co;402
+02/05/2017;9; Desfile de Moda;NÃO;423; The Daily Bulletin;Geraldo Pereira;0;0;0;Coleman Holdings;400
+02/05/2017;3;Gala de Premiação;50% PAGO;243; City Scope;Geraldo Pereira;R$ 225.555,00;R$ 33.833,25;0;Coleman Holdings;402
+02/05/2017;13;Conferência Internacional;50% PAGO;592; Metro Tribune;Vilma Soares;R$ 174.767,00;R$ 26.215,05;R$ 3.495,34;Turner Corporation;402
+02/05/2017;16; Lançamento de Produto;50% PAGO;175; The Urban Observer;Vilma Soares;R$ 216.492,00;R$ 32.473,80;R$ 4.329,84;Coleman Holdings;402
+02/05/2017;16;Concerto ao Ar Livre;50% PAGO;1205; Media Express;Geraldo Pereira;R$ 100.571,00;R$ 15.085,65;R$ 2.011,42;Hall Corporation;400
+02/05/2017;3; Casamento de Luxo;50% PAGO;148; The Daily Report;Natalia Silva;R$ 67.686,00;R$ 10.152,90;0;Brown & Co;403
+02/05/2017;18; Jantar de Gala;50% PAGO;144; City Sun;Marcelo Mendes;R$ 58.378,00;R$ 8.756,70;0;Martinez Corporation;400
+02/05/2017;10;Feira de Negócios;50% PAGO;576; Insightful Observer;Vilma Soares;R$ 71.767,00;R$ 10.765,05;R$ 1.435,34;Não Cadastrado;403
+02/05/2017;2;Exposição de Arte;NÃO;292; Insight Today;Vilma Soares;0;0;0;Nelson Corporation;403
+03/05/2017;1; Jantar de Gala;50% PAGO;1240; Insightful Times;Geraldo Pereira;R$ 193.673,00;R$ 29.050,95;0;Coleman Holdings;401
+03/05/2017;13; Casamento de Luxo;NÃO;788; The Press Agency;Geraldo Pereira;0;0;0;Sanchez Holdings;403
+03/05/2017;15; Casamento de Luxo;SIM;156; The Update;Marcelo Mendes;R$ 20.629,00;R$ 3.094,35;0;Não Informado;403
+03/05/2017;10;Exposição de Arte;SIM;916; Media Pulse;Natalia Silva;R$ 220.330,00;R$ 33.049,50;R$ 4.406,60;Adams Holdings;403
+03/05/2017;14; Competição Esportiva;NÃO;330; The Insightful Gazette;Natalia Silva;0;0;0;Hall Corporation;401
+03/05/2017;2;Feira de Negócios;SIM;636; The Insightful Gazette;Natalia Silva;R$ 188.012,00;R$ 28.201,80;R$ 3.760,24;Morris Enterprises;400
+03/05/2017;5; Casamento de Luxo;SIM;913; Media Spotlight;Marcelo Mendes;R$ 75.801,00;R$ 11.370,15;0;Não Cadastrado;403
+03/05/2017;7; Show de Comédia;50% PAGO;159;Yahoo;Vilma Soares;R$ 156.056,00;R$ 23.408,40;R$ 3.121,12;Coleman Holdings;400
+03/05/2017;16;Congresso Científico;SIM;1245; The Urban Express;Natalia Silva;R$ 291.931,00;R$ 43.789,65;R$ 5.838,62;Hayes Holdings;402
+03/05/2017;9;Conferência Internacional;SIM;701; City Digest;Vilma Soares;R$ 70.717,00;R$ 10.607,55;R$ 1.414,34;Walker Partners;400
+03/05/2017;2;Festival Cultural;NÃO;582; Media Tracker;Marcelo Mendes;0;0;0;Russell & Co;400
+03/05/2017;16;Congresso Científico;SIM;410; Trend Watcher;Vilma Soares;R$ 143.083,00;R$ 21.462,45;R$ 2.861,66;Coleman Group;400
+03/05/2017;7; Encontro de Networking;SIM;363; News Beat;Natalia Silva;R$ 21.030,00;R$ 3.154,50;0;Phillips & Sons;400
+03/05/2017;10; Casamento de Luxo;NÃO;284; Local Times;Geraldo Pereira;0;0;0;Rodriguez & Associates;400
+03/05/2017;5; Casamento de Luxo;SIM;189; City Buzz;Geraldo Pereira;R$ 140.609,00;R$ 21.091,35;0;Ortiz Enterprises;400
+03/05/2017;19;Seminário de Desenvolvimento Pessoal;NÃO;1071; The News Gazette;Vilma Soares;0;0;0;Green & Co;403
+03/05/2017;11; Convenção Empresarial;SIM;419; City Pulse;Geraldo Pereira;R$ 246.440,00;R$ 36.966,00;R$ 4.928,80;Hayes Holdings;400
+04/05/2017;14; Show de Comédia;50% PAGO;585; Insight Today;Natalia Silva;R$ 106.652,00;R$ 15.997,80;R$ 2.133,04;Perez Holdings;403
+04/05/2017;3;Concerto ao Ar Livre;50% PAGO;772; The Daily Echo;Vilma Soares;R$ 67.790,00;R$ 10.168,50;R$ 1.355,80;Scott Corporation;403
+04/05/2017;14;Festival Cultural;50% PAGO;691;Veja;Geraldo Pereira;R$ 70.759,00;R$ 10.613,85;R$ 1.415,18;Anderson & Sons;403
+04/05/2017;2; Feira Gastronômica;NÃO;979; The Urban Tribune;Natalia Silva;0;0;0;Morgan Holdings;402
+04/05/2017;8;Workshop de Fotografia;50% PAGO;1170; Express News;Vilma Soares;R$ 30.942,00;R$ 4.641,30;0;Jones Partners;400
+04/05/2017;16; Feira Gastronômica;NÃO;1059; The News Gazette;Vilma Soares;0;0;0;Jones Partners;401
+04/05/2017;8;Exposição de Arte;50% PAGO;197; Media Maven;Vilma Soares;R$ 68.981,00;R$ 10.347,15;R$ 1.379,62;Thomas Holdings;401
+04/05/2017;20;Seminário de Desenvolvimento Pessoal;50% PAGO;73; Metro Monitor;Geraldo Pereira;R$ 110.261,00;R$ 16.539,15;R$ 2.205,22;Coleman Holdings;401
+04/05/2017;16; Encontro de Networking;50% PAGO;607; The City Voice;Natalia Silva;R$ 106.652,00;R$ 15.997,80;R$ 2.133,04;Bennett Holdings;400
+04/05/2017;15;Feira de Negócios;NÃO;852; Trend Watcher;Natalia Silva;0;0;0;Coleman Group;402
+04/05/2017;19; Show de Comédia;50% PAGO;309; Newsline Journal;Marcelo Mendes;R$ 99.878,00;R$ 14.981,70;0;Coleman Holdings;402
+04/05/2017;20; Desfile de Moda;SIM;183; Newsline Journal;Vilma Soares;R$ 106.752,00;R$ 16.012,80;0;Perry Group;400
+04/05/2017;3; Feira Gastronômica;50% PAGO;619; Community Chronicle;Vilma Soares;R$ 211.942,00;R$ 31.791,30;R$ 4.238,84;Collins Corporation;402
+04/05/2017;2; Feira Gastronômica;50% PAGO;549; The Urban Observer;Geraldo Pereira;R$ 79.223,00;R$ 11.883,45;R$ 1.584,46;Não Cadastrado;401
+04/05/2017;5; Fórum de Tecnologia;SIM;853; Local Times;Vilma Soares;R$ 134.796,00;R$ 20.219,40;R$ 2.695,92;Mitchell Enterprises;403
+04/05/2017;18;Seminário de Desenvolvimento Pessoal;NÃO;1036; City Pulse;Marcelo Mendes;0;0;0;Thomas Holdings;402
+04/05/2017;5; Encontro de Networking;50% PAGO;831; The Daily Insight;Marcelo Mendes;R$ 100.081,00;R$ 15.012,15;R$ 2.001,62;Coleman Holdings;401
+04/05/2017;10;Workshop de Fotografia;50% PAGO;930; Newsline Journal;Natalia Silva;R$ 279.658,00;R$ 41.948,70;0;Hall Corporation;403
+04/05/2017;6;Gala de Premiação;NÃO;539; Media Express;Geraldo Pereira;0;0;0;Hayes Holdings;401
+04/05/2017;8; Lançamento de Produto;50% PAGO;479; The Press Agency;Natalia Silva;R$ 62.427,00;R$ 9.364,05;R$ 1.248,54;Reed Corporation;401
+04/05/2017;5;Festival Cultural;50% PAGO;1299; City News Now;Marcelo Mendes;R$ 86.238,00;R$ 12.935,70;0;Thomas Holdings;400
+04/05/2017;15; Show de Comédia;50% PAGO;1254; The Insightful Gazette;Vilma Soares;R$ 66.752,00;R$ 10.012,80;R$ 1.335,04;Williams Industries;400
+04/05/2017;18;Congresso Científico;50% PAGO;247; City Buzz;Geraldo Pereira;R$ 106.243,00;R$ 15.936,45;R$ 2.124,86;Garcia Enterprises;401
+04/05/2017;2;Exposição de Arte;50% PAGO;1255; Community Digest;Marcelo Mendes;R$ 92.460,00;R$ 13.869,00;R$ 1.849,20;Green & Co;400
+04/05/2017;16; Desfile de Moda;NÃO;1095; Urban Express;Natalia Silva;0;0;0;Nelson Corporation;402
+05/05/2017;2; Jantar de Gala;NÃO;160; Express News;Marcelo Mendes;0;0;0;Coleman Holdings;403
+05/05/2017;2;Concerto ao Ar Livre;SIM;250; Urban Herald;Vilma Soares;R$ 274.472,00;R$ 41.170,80;R$ 5.489,44;Coleman Holdings;400
+05/05/2017;7; Encontro de Networking;NÃO;532;Veja;Vilma Soares;0;0;0;Coleman Holdings;401
+05/05/2017;18;Seminário de Desenvolvimento Pessoal;50% PAGO;66; News Flash;Vilma Soares;R$ 67.358,00;R$ 10.103,70;0;Taylor Group;401
+05/05/2017;20; Fórum de Tecnologia;50% PAGO;872; News Hub;Geraldo Pereira;R$ 72.111,00;R$ 10.816,65;0;Davis Holdings;400
+05/05/2017;15;Festival Cultural;50% PAGO;1315; Urban Herald;Vilma Soares;R$ 103.395,00;R$ 15.509,25;R$ 2.067,90;Coleman Group;403
+05/05/2017;13;Exposição de Arte;50% PAGO;828; News Wave;Marcelo Mendes;R$ 85.971,00;R$ 12.895,65;0;Não Cadastrado;400
+05/05/2017;8;Concerto ao Ar Livre;SIM;356; City Digest;Natalia Silva;R$ 178.065,00;R$ 26.709,75;R$ 3.561,30;Rivera Holdings;403
+05/05/2017;3;Festival Cultural;NÃO;1250; News Flash;Geraldo Pereira;0;0;0;Não Informado;403
+05/05/2017;13; Encontro de Networking;NÃO;715;Yahoo;Vilma Soares;0;0;0;Garcia Enterprises;403
+05/05/2017;10;Concerto ao Ar Livre;SIM;875; Voice of the City;Geraldo Pereira;R$ 258.262,00;R$ 38.739,30;R$ 5.165,24;Gray Enterprises;402
+05/05/2017;8;Seminário de Desenvolvimento Pessoal;50% PAGO;553; Media Spotlight;Geraldo Pereira;R$ 52.991,00;R$ 7.948,65;R$ 1.059,82;Hayes Holdings;403
+05/05/2017;11;Exposição de Arte;50% PAGO;311; The Urban Express;Geraldo Pereira;R$ 92.482,00;R$ 13.872,30;R$ 1.849,64;Coleman Holdings;400
+05/05/2017;11; Desfile de Moda;NÃO;1003; The Urban Observer;Natalia Silva;0;0;0;Stewart & Co;402
+05/05/2017;6; Casamento de Luxo;50% PAGO;414; Media Spotlight;Vilma Soares;R$ 88.138,00;R$ 13.220,70;0;Stewart & Co;401
+05/05/2017;19; Evento Beneficente;50% PAGO;117; The Urban Tribune;Vilma Soares;R$ 105.194,00;R$ 15.779,10;R$ 2.103,88;Roberts Partners;401
+05/05/2017;10;Exposição de Arte;50% PAGO;886;Yahoo;Vilma Soares;R$ 87.347,00;R$ 13.102,05;R$ 1.746,94;Gonzalez Group;400
+05/05/2017;6; Desfile de Moda;NÃO;1178; Metro Tribune;Natalia Silva;0;0;0;Gonzalez Group;402
+06/05/2017;9; Encontro de Networking;SIM;399; People's Gazette;Marcelo Mendes;R$ 22.920,00;R$ 3.438,00;R$ 458,40;Gonzalez Group;401
+06/05/2017;6;Workshop de Fotografia;50% PAGO;940; People's Gazette;Marcelo Mendes;R$ 51.474,00;R$ 7.721,10;R$ 1.029,48;Evans Enterprises;400
+06/05/2017;9; Feira Gastronômica;50% PAGO;964; Global News Network;Marcelo Mendes;R$ 154.310,00;R$ 23.146,50;0;Não Informado;402
+06/05/2017;4; Fórum de Tecnologia;NÃO;424;Rede TV New (site);Marcelo Mendes;0;0;0;Morris Enterprises;400
+06/05/2017;4; Feira Gastronômica;NÃO;1322; The Information Hub;Vilma Soares;0;0;0;Young Holdings;403
+07/05/2017;11; Evento Beneficente;SIM;313; Urban Chronicle;Geraldo Pereira;R$ 155.188,00;R$ 23.278,20;R$ 3.103,76;Coleman Holdings;400
+07/05/2017;14; Convenção Empresarial;50% PAGO;625; Trend Watcher;Marcelo Mendes;R$ 132.136,00;R$ 19.820,40;R$ 2.642,72;Coleman Holdings;403
+07/05/2017;17;Conferência Internacional;NÃO;1151; Urban Update;Marcelo Mendes;0;0;0;Nelson Corporation;401
+07/05/2017;2; Encontro de Networking;SIM;1277; News Flash;Geraldo Pereira;R$ 112.501,00;R$ 16.875,15;0;Nelson & Sons;402
+07/05/2017;11;Gala de Premiação;50% PAGO;795; City News Now;Natalia Silva;R$ 129.335,00;R$ 19.400,25;0;Stewart & Co;400
+08/05/2017;15;Festival Cultural;50% PAGO;96; City Pulse;Natalia Silva;R$ 70.331,00;R$ 10.549,65;R$ 1.406,62;Coleman Holdings;403
+08/05/2017;15; Fórum de Tecnologia;SIM;1264; The Daily Bulletin;Marcelo Mendes;R$ 201.139,00;R$ 30.170,85;R$ 4.022,78;Smith Corporation;401
+08/05/2017;17;Congresso Científico;SIM;933; Urban Update;Marcelo Mendes;R$ 206.828,00;R$ 31.024,20;R$ 4.136,56;Wilson Industries;402
+08/05/2017;16; Feira Gastronômica;50% PAGO;528; Local Lens;Vilma Soares;R$ 66.713,00;R$ 10.006,95;R$ 1.334,26;Clark Corporation;400
+08/05/2017;4; Encontro de Networking;50% PAGO;1321;O Globo;Geraldo Pereira;R$ 100.962,00;R$ 15.144,30;R$ 2.019,24;Não Cadastrado;403
+08/05/2017;17; Convenção Empresarial;50% PAGO;981; City Digest;Geraldo Pereira;R$ 92.872,00;R$ 13.930,80;R$ 1.857,44;Morgan Holdings;402
+08/05/2017;12; Competição Esportiva;NÃO;408; Local Lens;Natalia Silva;0;0;0;Johnson Enterprises;401
+08/05/2017;17; Jantar de Gala;SIM;1163; Insightful Observer;Natalia Silva;R$ 250.049,00;R$ 37.507,35;0;Thomas Holdings;402
+08/05/2017;16; Feira Gastronômica;SIM;674; Community Chronicle;Natalia Silva;R$ 42.687,00;R$ 6.403,05;R$ 853,74;Garcia Enterprises;402
+08/05/2017;18; Casamento de Luxo;SIM;774; The Update;Natalia Silva;R$ 204.491,00;R$ 30.673,65;0;Jones Partners;400
+08/05/2017;13; Competição Esportiva;NÃO;997; The Informational Herald;Geraldo Pereira;0;0;0;Não Informado;400
+08/05/2017;5;Conferência Internacional;NÃO;1186;Jornal Folha;Vilma Soares;0;0;0;Thomas Holdings;401
+08/05/2017;15;Feira de Negócios;NÃO;424; The Urban Tribune;Marcelo Mendes;0;0;0;Rodriguez Group;400
+08/05/2017;4;Workshop de Fotografia;NÃO;1104; Insight Today;Natalia Silva;0;0;0;Cook & Sons;402
+08/05/2017;7;Concerto ao Ar Livre;NÃO;720; Newsline Journal;Natalia Silva;0;0;0;Phillips & Sons;402
+08/05/2017;5; Fórum de Tecnologia;50% PAGO;889; News Beat;Marcelo Mendes;R$ 71.277,00;R$ 10.691,55;0;Brown & Co;403
+08/05/2017;16;Concerto ao Ar Livre;50% PAGO;887; Express News;Marcelo Mendes;R$ 58.780,00;R$ 8.817,00;0;Carter & Co;403
+16/05/2017;15; Jantar de Gala;50% PAGO;341; City Pulse;Vilma Soares;R$ 99.311,00;R$ 14.896,65;0;Johnson Enterprises;403
+16/05/2017;6; Desfile de Moda;50% PAGO;438; Urban Herald;Natalia Silva;R$ 283.081,00;R$ 42.462,15;R$ 5.661,62;Foster Corporation;402
+16/05/2017;18;Congresso Científico;SIM;1307; The Urban Tribune;Marcelo Mendes;R$ 262.595,00;R$ 39.389,25;R$ 5.251,90;Mitchell Enterprises;400
+16/05/2017;4;Congresso Científico;SIM;1232; City News Now;Geraldo Pereira;R$ 217.683,00;R$ 32.652,45;0;Roberts Partners;401
+16/05/2017;14;Seminário de Desenvolvimento Pessoal;NÃO;1125; Express News;Vilma Soares;0;0;0;Davis Holdings;400
+30/03/2017;19; Encontro de Networking;NÃO;449; Metro Messenger;Vilma Soares;0;0;0;Coleman Holdings;403
