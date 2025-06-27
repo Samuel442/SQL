@@ -87,6 +87,7 @@ SELECT * FROM din_tipo_eventos
 SELECT * FROM din_cobertura
 SELECT * FROM din_coordenador_resp
 SELECT * FROM din_Contratante
+SELECT * FROM TB_EVENTOS2
 
 ------------- DESCOBRINDO O RANGE DE DADTAS ----------
 SELECT 

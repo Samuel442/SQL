@@ -1,0 +1,6 @@
+- Total de eventos; 
+- Qual tipo de enventos mais tivemos; (feito)
+- Comparativo de pagamentos feitos, 50%, não pagou; (feito)
+- Total de participantes por eventos; (feito)
+- Evento que mais faturou; (feito)
+- Contratante que mais contratou;  (feito)

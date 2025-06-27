@@ -34,3 +34,5 @@ BEGIN
     SET @DataAtual = DATEADD(DAY, 1, @DataAtual);
 END;
 
+SELECT *
+FROM Calendario;
