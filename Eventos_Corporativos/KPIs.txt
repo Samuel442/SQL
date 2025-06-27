@@ -1,4 +1,4 @@
-- Total de eventos; 
+- Total de eventos; (feito)
 - Qual tipo de enventos mais tivemos; (feito)
 - Comparativo de pagamentos feitos, 50%, não pagou; (feito)
 - Total de participantes por eventos; (feito)
